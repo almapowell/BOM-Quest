@@ -1,0 +1,8 @@
+Start up the App:
+npx expo start
+
+Run on iPhone:
+npm run ios
+
+Run on Android:
+npm run android
