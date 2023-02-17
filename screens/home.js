@@ -2,6 +2,7 @@ import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React from "react";
 import Title from "../components/title";
 import Banner from "../components/banner";
+import rootStyles from "../components/styles";
 
 const Home = ({ navigation }) => {
   return (
@@ -10,9 +11,9 @@ const Home = ({ navigation }) => {
       <Banner type="home" />
       <TouchableOpacity
         onPress={() => navigation.navigate("Quiz")}
-        style={styles.button}
+        style={rootStyles.wideButton}
       >
-        <Text style={styles.buttonText}>Start</Text>
+        <Text style={rootStyles.wideButtonText}>Start</Text>
       </TouchableOpacity>
     </View>
   );
@@ -28,15 +29,10 @@ const styles = StyleSheet.create({
   },
   button: {
     width: "100%",
-    backgroundColor: "#001D3D",
+    backgroundColor: "#004A8F",
     padding: 16,
     borderRadius: 16,
     alignItems: "center",
     marginBottom: 30,
-  },
-  buttonText: {
-    fontSize: 24,
-    color: "white",
-    fontWeight: "600",
   },
 });

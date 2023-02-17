@@ -2,7 +2,6 @@ import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 import Home from "../home";
 import Quiz from "../quiz";
-import Result from "../result";
 
 const Stack = createStackNavigator();
 
@@ -10,6 +9,7 @@ function MyStack() {
   return (
     <Stack.Navigator
       screenOptions={{
+        // cardStyle: { backgroundColor: "grey" },
         cardStyle: { backgroundColor: "#000814" },
       }}
     >
@@ -21,11 +21,6 @@ function MyStack() {
       <Stack.Screen
         name="Quiz"
         component={Quiz}
-        options={{ headerShown: false }}
-      />
-      <Stack.Screen
-        name="Result"
-        component={Result}
         options={{ headerShown: false }}
       />
     </Stack.Navigator>

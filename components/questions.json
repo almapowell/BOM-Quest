@@ -1,0 +1,346 @@
+[
+  {
+    "type": "multi",
+    "ref": "Refer to title page of BOM",
+    "question": "Who wrote the title page of The Book of Mormon?",
+    "answer": "Mormon",
+    "incorrect_answers": ["Joseph Smith", "Moroni"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "The abridgment of the record is written to the Jew and Gentile.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "The record is written by way of commandment, and also by the spirit of ____ and of revelation.",
+    "answer": "prophecy"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "The record was written and sealed up, and hid up unto the Lord, that they may not be destroyed",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "Where in the Book of Mormon is the word Lamanites first mentioned?",
+    "answer": "Title Page"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "The word “Jaredites” first appears to in the Title page of the Book of Mormon?",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "An abridgment is taken from the Book of ____, which is a record of the people of Jared.",
+    "answer": "ether"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "The people of Jared were scattered at the time the Lord confounded their language.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "At time the Lord confounded the language of the Jaredites, they were trying to build a ____ to get to heaven.",
+    "answer": "tower"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "The Lord has done many great things unto the remnant of the House of ____.",
+    "answer": "Israel"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "The Lord wants to show the remnant House of Israel the many great things that he has done for their fathers.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to title page of BOM",
+    "question": "The Lord wants the House of Israel to know the ____ he has made with them and not be cast-off forever.",
+    "answer": "Covenants",
+    "incorrect_answers": ["Bible", "Articles of Faith"]
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "The Lord wants to convince Jews and Gentiles that Jesus is the ____.",
+    "answer": "Christ"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "Jesus is the Christ, the Eternal God, manifesting himself unto all nations.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "Mormon states that if there are faults in the record, they are the ____ of Men.",
+    "answer": "Mistakes"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to title page of BOM",
+    "question": "Mormon writes, condemn not the things of God?",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to title page of BOM",
+    "question": "Mormon wants us to be found spotless at the _____ seat of Christ",
+    "answer": "Judgment"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to title page of BOM",
+    "question": "Who translated the title page of the Book of Mormon?",
+    "answer": "Joseph Smith",
+    "incorrect_answers": ["Moroni", "Mormon"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Brief Analysis",
+    "question": "In the brief analysis of the Book of Mormon we are told that there are namely three classes of record plates.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Brief Analysis",
+    "question": "The Brass Plates of Laban are mentioned frequently in the Book of Mormon.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Brief Analysis",
+    "question": "The body of the Book of Mormon, from Mosiah to Mormon, chapter #7, inclusive, is the translation of whose ____ abridgment of the Plates of Nephi.",
+    "answer": "Mormon"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Brief Analysis",
+    "question": "The period covered in the Book of Mormon extends from B.C. 600 to A.D. 421. ",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Brief Analysis",
+    "question": "Who was the last of the Nephite historians?",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Brief Analysis",
+    "question": "Moroni was the last of the Nephite historians that sealed the sacred record, and hid up unto the Lord.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Brief Analysis",
+    "question": "In the Brief Analysis of the Book of Mormon, Joseph Smith mentions the hill Cumorah by name.",
+    "answer": "f"
+  },
+  {
+    "type": "bool",
+    "ref": "Ether 15:11",
+    "question": "The hill Cumorah was referred as the hill Ramah by the Jaredites.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Mor 1:3, 4:23",
+    "question": "The hill Cumorah was referred as the hill Shim by the Nephites.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Look! @ BOM",
+    "question": "In what beautiful state, is the hill Cumorah located.",
+    "answer": "New York"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "On the night of September 21, 1823, who appeared to Joseph Smith Junior ____?",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "When Moroni first appeared to Joseph Smith he referred to him as a personage.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "When Joseph sought the Lord in fervent prayer, he discovered a_____ appearing in his room.",
+    "answer": "light"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The light that appeared to Joseph, was lighter than noon-day.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The personage that appeared to Joseph Smith was ____, and he was standing in the air.",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "When Moroni appeared to Joseph Smith, he was standing in the air.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni’s robe was of the most exquisite ____.",
+    "answer": "whiteness",
+    "incorrect_answers": ["color", "design"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith writes:  That he believed that anything earthly could be made to appear so exceedingly white or brilliant.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith said that he could see Moroni’s hands were naked and his arms also, a little above the wrists.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni’s ____ and neck were also bare, when he appeared to Joseph Smith.",
+    "answer": "Head"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith could see that Moroni was wearing clothing that is worn by worthy temple workers.",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Because Moroni’s head and neck were bare, Joseph Smith could see into Moroni’s ____.",
+    "answer": "Bosom"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Not only was Moroni’s robe exceedingly white, his whole person was glorious beyond description.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith states that ____ countenance was truly like lightning.",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni’s countenance was truly like lightning, when he appeared to Joseph Smith.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The light that surrounded ____ was brighter than the light of the room.",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "When Joseph Smith first saw Moroni, he was afraid.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Who was afraid of Moroni, when he first appeared in his room?",
+    "answer": "Joseph Smith"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "It took a very long time for Joseph Smith to get over of being afraid of Moroni.",
+    "answer": "f"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "At first, Joseph Smith was afraid of Moroni, but soon the ____ left him.",
+    "answer": "fear",
+    "incorrect_answers": ["sadness", "glory"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger called Joseph Smith by name.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger told Joseph Smith, that his name would be had for good and ____.",
+    "answer": "evil"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger to Joseph that all nation’s, kindreds, and ____, would speak evil of his name.",
+    "answer": "tongues"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger to Joseph that all nation’s, kindreds, and tongues would speak evil of his name.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni said that there was a_____ deposited in the ground, written upon gold plates.",
+    "answer": "book",
+    "incorrect_answers": ["manuscript", "tablet"]
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "The book that was deposited in the ground was written on what type of metal?",
+    "answer": "gold",
+    "incorrect_answers": ["silver", "brass"]
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "The book gave an account of the former ____ of the continent.",
+    "answer": "inhabitants",
+    "incorrect_answers": ["dinosaurs", "birds"]
+  },
+  {
+    "type": "fill",
+    "ref": "Ask someone that knows",
+    "question": "What is the name of continent in which the book was deposited and in which we in the united states live?",
+    "answer": "North America"
+  }
+]

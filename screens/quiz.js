@@ -1,5 +1,6 @@
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React, { useEffect, useState } from "react";
+import rootStyles from "../components/styles";
 
 const shuffleArray = (arr) =>
   arr.sort(function () {
@@ -10,7 +11,6 @@ const Quiz = ({ navigation }) => {
   const [questions, setQuestions] = useState();
   const [questionCount, setQuestionCount] = useState(0);
   const [options, setOptions] = useState([]);
-  const [score, setScore] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
   const [selectionIsMade, setSelectionIsMade] = useState(false);
   const [correctAnswer, setCorrectAnswer] = useState(false);
@@ -19,7 +19,7 @@ const Quiz = ({ navigation }) => {
   const getQuiz = async () => {
     setIsLoading(true);
     const url =
-      "https://opentdb.com/api.php?amount=10&difficulty=easy&type=multiple&encode=url3986";
+      "https://opentdb.com/api.php?amount=1000&difficulty=easy&type=multiple&encode=url3986";
     const response = await fetch(url);
     const data = await response.json();
     setQuestions(data.results);
@@ -45,15 +45,10 @@ const Quiz = ({ navigation }) => {
     setSelectionIsMade(true);
     setSelectedIndex(options.indexOf(_option));
     if (_option === questions[questionCount].correct_answer) {
-      setScore((prev) => prev + 10);
       setCorrectAnswer(true);
     } else {
       setCorrectAnswer(false);
     }
-  };
-
-  const handleShowResults = () => {
-    navigation.navigate("Result", { score });
   };
 
   useEffect(() => {
@@ -80,17 +75,19 @@ const Quiz = ({ navigation }) => {
               {options.map((option, index) => {
                 return (
                   <TouchableOpacity
+                    key={index}
                     disabled={selectionIsMade}
-                    style={
+                    style={[
+                      styles.optionButton,
                       selectedIndex === index
                         ? correctAnswer
                           ? styles.optionButtonCorrect
                           : styles.optionButtonWrong
-                        : styles.optionButton
-                    }
+                        : styles.optionButton,
+                    ]}
                     onPress={() => handleSelectedOption(option)}
                   >
-                    <Text style={styles.option}>
+                    <Text style={styles.optionText}>
                       {decodeURIComponent(option)}
                     </Text>
                   </TouchableOpacity>
@@ -99,36 +96,24 @@ const Quiz = ({ navigation }) => {
             </View>
             <View>
               <Text style={{ color: "white", alignSelf: "center" }}>
-                {selectionIsMade
-                  ? correctAnswer
-                    ? "Correct"
-                    : "Wrong"
-                  : "Pick an answer"}
+                {selectionIsMade && (correctAnswer ? "Correct" : "Wrong")}
               </Text>
             </View>
 
             {/* BUTTONS */}
             <View style={styles.bottom}>
-              <TouchableOpacity style={styles.button}>
-                <Text style={styles.buttonText}>SKIP</Text>
+              <TouchableOpacity
+                style={rootStyles.secondary}
+                onPress={() => navigation.navigate("Home")}
+              >
+                <Text style={rootStyles.secondaryText}>Back</Text>
               </TouchableOpacity>
-
-              {selectionIsMade && questionCount !== 9 && (
-                <TouchableOpacity
-                  style={styles.button}
-                  onPress={handleNextPress}
-                >
-                  <Text style={styles.buttonText}>NEXT</Text>
-                </TouchableOpacity>
-              )}
-              {questionCount === 9 && (
-                <TouchableOpacity
-                  style={styles.button}
-                  onPress={handleShowResults}
-                >
-                  <Text style={styles.buttonText}>SHOW RESULTS</Text>
-                </TouchableOpacity>
-              )}
+              <TouchableOpacity
+                style={rootStyles.primary}
+                onPress={handleNextPress}
+              >
+                <Text style={rootStyles.primaryText}>Next Question</Text>
+              </TouchableOpacity>
             </View>
           </View>
         )
@@ -141,12 +126,12 @@ export default Quiz;
 
 const styles = StyleSheet.create({
   container: {
-    paddingTop: 40,
+    paddingTop: 30,
     paddingHorizontal: 16,
     height: "100%",
   },
   top: {
-    marginVertical: 16,
+    marginVertical: 5,
   },
   options: {
     marginVertical: 16,
@@ -157,62 +142,40 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     flexDirection: "row",
   },
-  button: {
-    backgroundColor: "#004A8F",
-    padding: 12,
-    paddingHorizontal: 16,
-    borderRadius: 16,
-    alignItems: "center",
-    marginVertical: 10,
-  },
-  buttonText: {
-    fontSize: 18,
-    color: "white",
-    fontWeight: "600",
-  },
-  question: {
-    fontSize: 26,
-    color: "white",
-  },
-  option: {
-    fontSize: 18,
-    fontWeight: "500",
-    color: "white",
-  },
-  optionButton: {
-    paddingVertical: 12,
-    marginVertical: 6,
-    backgroundColor: "#000814",
-    paddingHorizontal: 12,
-    borderRadius: 12,
-    borderWidth: 3,
-    borderColor: "#FFC300",
-    justifyContent: "space-between",
-    flexDirection: "row",
-  },
   questionsParent: {
     height: "100%",
   },
-  optionButtonCorrect: {
-    paddingVertical: 12,
+  question: {
+    fontSize: 26,
+    fontWeight: "400",
+    color: "white",
+    textAlign: "center",
+  },
+  questionCounter: {
+    fontWeight: "500",
+    color: "rgba(194, 218, 255, .5)",
+    fontSize: 24,
+  },
+  optionText: {
+    fontSize: 18,
+    fontWeight: "400",
+    color: "black",
+  },
+  optionButton: {
+    backgroundColor: "white",
+    borderColor: "black",
+    paddingVertical: 18,
     marginVertical: 6,
-    backgroundColor: "#00AC29",
-    paddingHorizontal: 12,
-    borderRadius: 12,
-    borderWidth: 3,
-    borderColor: "#FFC300",
+    paddingHorizontal: 20,
+    borderRadius: 40,
+    borderWidth: 2,
     justifyContent: "space-between",
     flexDirection: "row",
   },
+  optionButtonCorrect: {
+    backgroundColor: "#00DB6F",
+  },
   optionButtonWrong: {
-    paddingVertical: 12,
-    marginVertical: 6,
-    backgroundColor: "#FF3233",
-    paddingHorizontal: 12,
-    borderRadius: 12,
-    borderWidth: 3,
-    borderColor: "#FFC300",
-    justifyContent: "space-between",
-    flexDirection: "row",
+    backgroundColor: "#FF4888",
   },
 });
