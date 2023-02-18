@@ -342,5 +342,518 @@
     "ref": "Ask someone that knows",
     "question": "What is the name of continent in which the book was deposited and in which we in the united states live?",
     "answer": "North America"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The book gives an account of the former inhabitants of this continent, and the source from whence they sprang.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The ____ of the everlasting Gospel was contained in the book; that was deposited in the earth.",
+    "answer": "fulness"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The fulness of the everlasting Gospel is contained in the Book.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The fulness of the everlasting Gospel was delivered by the ____, to the former ancient inhabitants.",
+    "answer": ["savior", "lord"]
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "What shade of color were the two stones in the bow?",
+    "answer": "silver",
+    "incorrect_answers": ["metallic", "gold"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The two stones in silver bows were fastened to a breastplate.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Another name that is given to the two stones and breastplate is the ____.",
+    "answer": "Urim and Thummim"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The Urim and Thummim is what constitutes the two stones and the breastplate.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "No ref because they are not.",
+    "question": "The Urim and Thummim are mentioned by name in the text of Book of Mormon?",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The possession and the use of these stones were what constituted what word?",
+    "answer": "Seers"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The Seers were not used in ancient or former times.",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The Seers were made or prepared by whom?",
+    "answer": ["god", "lord"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The Seers were prepared by God; for the purpose of translating the book, of which is now known as the Book of Mormon.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "With the possession and use of the Seers, people can or could translate ancient writings.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Angel Moroni told Joseph Smith to show the plates to anyone that he pleased.",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph was told not to show the plates to anyone, unless he was ____ to do so.",
+    "answer": "Commanded"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph was commanded by Moroni, to show only the breastplate and not the Urim and Thummim.",
+    "answer": "f"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Unless Joseph was commanded; Moroni said that he must not show the plates and Urim and Thummin to anyone or he would be destroyed.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "While Joseph was conversing with Moroni about the plates, he had a ____.",
+    "answer": "Vision",
+    "incorrect_answers": ["Seizure", "Migraine Headache"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "In his vision, Joseph Smith could see the place where the plates were deposited.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The vision was so clear and distinct, that Joseph knew where the place was when he visited it.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "After the communication, Joseph saw the light in the room begin to gather around this person.",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Except around Moroni, the room began to get dark again.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "A conduit opened right up into ____, and Moroni ascended until he entirely disappeared.",
+    "answer": "heaven"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph states and refers to the light in his room as being heavenly.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "After the messenger and the light left, Joseph fell asleep.",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph lay in bed and was overwhelmed with astonishment at what he had both ____, and heard.",
+    "answer": "seen"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The second time the messenger appeared to Joseph, he repeated the same words as the first time, without variation.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni told Joseph ____ would try to tempt him.",
+    "answer": "satan"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni informed Joseph of great judgments which were coming upon the ____.",
+    "answer": "Earth",
+    "incorrect_answers": ["People", "Heavens"]
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni said that great judgments were coming upon the earth such as; desolations by famine, sword, and ____.",
+    "answer": "Pestilence"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "At what time did Moroni say that the judgements were coming to the earth?",
+    "answer": "This generation",
+    "incorrect_answers": ["Noah's time", "The generation to come"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph writes that he and his father’s family were indigent.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni told Joseph that he must have no other object in view in getting the plates but glorify ____.",
+    "answer": "god"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni told Joseph Smith that he must not be influenced by any other motive than that of building the kingdom of God.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "How many times did the angel Moroni visit Joseph Smith in one single night?",
+    "answer": "Three",
+    "incorrect_answers": ["One", "Two"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Angel Moroni visited Joseph Smith three times in September of 1823.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "After Moroni’s third visit, as he ascended into heaven; What kind of fowl did Joseph hear crowed.",
+    "answer": "Rooster",
+    "incorrect_answers": ["Swan", "Turkey"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni left, and Joseph realized that their interviews must of have taken all night because the day had approach.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph attempted to work as other times, but found that his strength was ____.",
+    "answer": "Exhausted",
+    "incorrect_answers": ["Gone", "Stronger"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Because of his exhausted strength, Joseph’s father told him to go home.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "While attempting to cross the_____ out of the field, Joseph's strength left him and he fell to the ground.",
+    "answer": "Fence",
+    "incorrect_answers": ["River", "Highway"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph fell to the ground and was unconscious for three days.",
+    "answer": "f"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "In the Origin of the Book of Mormon: It does not say or how long Joseph exactly lay unconscious.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Who appeared to Joseph Smith when he arose from his unconsciousness?",
+    "answer": "Moroni"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph was ____ by Moroni to tell his father, of the vision and commandments he had received.",
+    "answer": "Commanded",
+    "incorrect_answers": ["Told", "Exhorted"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph obeyed Moroni, and returned to his father in the field, and rehearsed the whole matter to him.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph left out some important details, when he rehearsed the story to his father.",
+    "answer": "f"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph’s father told him to go to the place where the Messenger had told him to go.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph new the place where the plates were deposited because of the dream that he had.",
+    "answer": "f"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Because of his_____, Joseph knew the place where the plates were buried.",
+    "answer": "Vision",
+    "incorrect_answers": ["Hindsight", "Foresight"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The hill where the plates were deposited was more elevated than the other surrounding hills.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Convenient to what village is the Hill Cumorah located?",
+    "answer": "Manchester"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "What person is represented by statue, atop the Hill Cumorah?",
+    "answer": "Moroni"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith tells us the plates were hidden under a considerable size stone and facing what direction?",
+    "answer": "West",
+    "incorrect_answers": ["South", "North"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "When Joseph Smith removed the earth that was fixed under the stone, he had a difficult time.",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "When Joseph Smith looked into the stone box; it contained the plates, the ____, and the breastplate.",
+    "answer": "Urim and Thummim"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith made an attempt to get the things out of the box, but was forbidden by whom?",
+    "answer": ["messanger", "moroni"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger told Joseph Smith that the time had not come yet to get the things out of the box.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "How many years would pass before Joseph Smith could get the things out of the box?",
+    "answer": "Four",
+    "incorrect_answers": ["Two", "Three"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Moroni told Joseph Smith to come precisely one year from the time that he first saw him and that he would meet with him again.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith did as he was ____, and he went at the end of each year and at each time, he found the same messenger there waiting for him.",
+    "answer": "Commanded",
+    "incorrect_answers": ["Forbidden", "Instructed"]
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith received instructions and ____, from the messenger, at each of their interviews.",
+    "answer": "Intelligence",
+    "incorrect_answers": ["Gold", "Money"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger told Joseph what the Lord was going to do, and how and what manner His kingdom was to be conducted in the last days.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger delivered the plates to Joseph and told him that he was to be responsible for them and if he would let them go carelessly, he would not be cut off.",
+    "answer": "f"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "The messenger told Joseph that he should use all of his endeavors to preserve the ____.",
+    "answer": "Plates",
+    "incorrect_answers": ["Hill Cumorah", "House of his Father"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith was told by the messenger what would be required of him to do by his hand.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph was told by the messenger: That the ____ would be protected until he should call for them again.",
+    "answer": "Plates"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "As soon as it was found out that he had the plates, multitudes of people were out to get them away from them.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "Who do you think told people that Joseph Smith had a book written upon gold plates?",
+    "answer": ["adversary", "satan"]
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "Joseph Smith said that every_____ that could be invented was resorted to take away the plates from him.",
+    "answer": "Stratagem",
+    "incorrect_answers": ["Device", "Intelligence"]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "When the messenger called for the plates, Joseph Smith did not deliver them unto him until he was commanded.",
+    "answer": "f"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "According to Joseph Smith, Who has the plates or is in charge of them to this day?",
+    "answer": "Moroni"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Origin of BOM",
+    "question": "The Book of Mormon was translated into modern speech by the gift and power of_____.",
+    "answer": "God"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to Origin of BOM",
+    "question": "As attested by Divine affirmation, the ancient record has been brought forth from the earth.",
+    "answer": "t"
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to Origin of BOM",
+    "question": "The Book of Mormon was first published to the world in what year of our Lord?",
+    "answer": "1830",
+    "incorrect_answers": ["1821", "1823"]
+  },
+  {
+    "type": "fill",
+    "ref": "Look! @ BOM",
+    "question": "What is the name of the artist who painted most of the Book of Mormon paintings?",
+    "answer": ["Arnold", "Friberg"]
+  },
+  {
+    "type": "multi",
+    "ref": "Refer to the Testimony of Three Witnesses in the BOM",
+    "question": "Who were the Three Witnesses of the Book of Mormon.",
+    "answer": "Oliver Cowdery, David Whitmer and Martin Harris",
+    "incorrect_answers": [
+      "Oliver Cowdery, David Whitmer and Lorenzo Snow",
+      "Joseph Smith Sr, Brigham Young and Nephi"
+    ]
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to the Testimony of the Eight Witnesses in the BOM",
+    "question": "In the testimony of the Eight Witnesses, they describe the plates of having the appearance of ancient work, and of curious workmanship.",
+    "answer": "t"
+  },
+  {
+    "type": "bool",
+    "ref": "Refer to the Testimony of the Eight Witnesses in the BOM",
+    "question": "In the testimony of the Eight Witnesses, they state that they gave their names to the world, to witness unto the world that, that they handled the plates with their hands and saw the engraving thereon.",
+    "answer": "t"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to the Testimony of the Eight Witnesses in the BOM",
+    "question": "The Eight Witnesses state that they “lie not” and bear witness unto whom?",
+    "answer": "god"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to BOM",
+    "question": "What is the title of the first book in the Book of Mormon?",
+    "answer": "Nephi"
   }
 ]

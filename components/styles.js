@@ -48,6 +48,7 @@ const rootStyles = StyleSheet.create({
     // color: "#FFF1AD",
     color: "rgba(194, 218, 255, .5)",
     fontWeight: "400",
+    textAlign: "center",
   },
   nextButton: {
     backgroundColor: "#004A8F",

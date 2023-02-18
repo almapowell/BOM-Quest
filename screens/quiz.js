@@ -11,6 +11,7 @@ const Quiz = ({ navigation }) => {
   const [questions, setQuestions] = useState();
   const [questionCount, setQuestionCount] = useState(0);
   const [options, setOptions] = useState([]);
+  const [score, setScore] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
   const [selectionIsMade, setSelectionIsMade] = useState(false);
   const [correctAnswer, setCorrectAnswer] = useState(false);
@@ -45,6 +46,7 @@ const Quiz = ({ navigation }) => {
     setSelectionIsMade(true);
     setSelectedIndex(options.indexOf(_option));
     if (_option === questions[questionCount].correct_answer) {
+      setScore((prev) => prev + 10);
       setCorrectAnswer(true);
     } else {
       setCorrectAnswer(false);
@@ -65,6 +67,14 @@ const Quiz = ({ navigation }) => {
         questions && (
           <View style={styles.questionsParent}>
             <View style={styles.top}>
+              <Text style={styles.questionCounter}>
+                Question {questionCount + 1}
+                <Text style={{ fontWeight: "400", fontSize: 15 }}>/10</Text>
+              </Text>
+
+              <Text style={styles.scoreBoard}>{score}</Text>
+            </View>
+            <View style={styles.top}>
               <Text style={styles.question}>
                 {decodeURIComponent(questions[questionCount].question)}
               </Text>
@@ -73,6 +83,7 @@ const Quiz = ({ navigation }) => {
             {/* OPTIONS */}
             <View style={styles.options}>
               {options.map((option, index) => {
+                console.log(123, correctAnswer);
                 return (
                   <TouchableOpacity
                     key={index}
@@ -87,7 +98,16 @@ const Quiz = ({ navigation }) => {
                     ]}
                     onPress={() => handleSelectedOption(option)}
                   >
-                    <Text style={styles.optionText}>
+                    <Text
+                      style={[
+                        styles.optionText,
+                        selectedIndex === index
+                          ? correctAnswer
+                            ? styles.optionTextCorrect
+                            : styles.optionTextWrong
+                          : styles.optionText,
+                      ]}
+                    >
                       {decodeURIComponent(option)}
                     </Text>
                   </TouchableOpacity>
@@ -96,23 +116,29 @@ const Quiz = ({ navigation }) => {
             </View>
             <View>
               <Text style={{ color: "white", alignSelf: "center" }}>
-                {selectionIsMade && (correctAnswer ? "Correct" : "Wrong")}
+                {selectionIsMade
+                  ? correctAnswer
+                    ? "Correct"
+                    : "Wrong"
+                  : "Pick an answer"}
               </Text>
             </View>
 
             {/* BUTTONS */}
+            <View style={[styles.bottom, { alignSelf: "center" }]}></View>
+
             <View style={styles.bottom}>
               <TouchableOpacity
                 style={rootStyles.secondary}
-                onPress={() => navigation.navigate("Home")}
+                onPress={() => navigation.navigate("Quest")}
               >
-                <Text style={rootStyles.secondaryText}>Back</Text>
+                <Text style={rootStyles.secondaryText}>Close</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 style={rootStyles.primary}
                 onPress={handleNextPress}
               >
-                <Text style={rootStyles.primaryText}>Next Question</Text>
+                <Text style={rootStyles.primaryText}>Next</Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -132,6 +158,8 @@ const styles = StyleSheet.create({
   },
   top: {
     marginVertical: 5,
+    flexDirection: "row",
+    justifyContent: "space-between",
   },
   options: {
     marginVertical: 16,
@@ -142,40 +170,49 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     flexDirection: "row",
   },
-  questionsParent: {
-    height: "100%",
-  },
   question: {
-    fontSize: 26,
-    fontWeight: "400",
+    fontSize: 20,
     color: "white",
-    textAlign: "center",
   },
   questionCounter: {
     fontWeight: "500",
     color: "rgba(194, 218, 255, .5)",
     fontSize: 24,
   },
+  scoreBoard: {
+    fontWeight: "500",
+    color: "#FFF1AD",
+    fontSize: 24,
+  },
   optionText: {
     fontSize: 18,
-    fontWeight: "400",
-    color: "black",
+    fontWeight: "500",
+    color: "rgba(194, 218, 255, .9)",
+  },
+  optionTextCorrect: {
+    color: "#00AC29",
+  },
+  optionTextWrong: {
+    color: "#FF3233",
   },
   optionButton: {
-    backgroundColor: "white",
-    borderColor: "black",
+    backgroundColor: "transparent",
+    borderColor: "rgba(194, 218, 255, .6)",
     paddingVertical: 18,
     marginVertical: 6,
-    paddingHorizontal: 20,
-    borderRadius: 40,
+    paddingHorizontal: 12,
+    borderRadius: 12,
     borderWidth: 2,
     justifyContent: "space-between",
     flexDirection: "row",
   },
+  questionsParent: {
+    height: "100%",
+  },
   optionButtonCorrect: {
-    backgroundColor: "#00DB6F",
+    borderColor: "#00AC29",
   },
   optionButtonWrong: {
-    backgroundColor: "#FF4888",
+    borderColor: "#FF3233",
   },
 });

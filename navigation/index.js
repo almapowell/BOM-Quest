@@ -1,7 +1,8 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
-import Home from "../home";
-import Quiz from "../quiz";
+import Home from "../screens/home";
+import Quiz from "../screens/quiz";
+import Quest from "../screens/quest";
 
 const Stack = createStackNavigator();
 
@@ -21,6 +22,11 @@ function MyStack() {
       <Stack.Screen
         name="Quiz"
         component={Quiz}
+        options={{ headerShown: false }}
+      />
+      <Stack.Screen
+        name="Quest"
+        component={Quest}
         options={{ headerShown: false }}
       />
     </Stack.Navigator>

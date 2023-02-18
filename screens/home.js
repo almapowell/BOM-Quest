@@ -3,6 +3,7 @@ import React from "react";
 import Title from "../components/title";
 import Banner from "../components/banner";
 import rootStyles from "../components/styles";
+import questions from "../components/questions.json";
 
 const Home = ({ navigation }) => {
   return (
