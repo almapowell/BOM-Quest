@@ -1,54 +1,96 @@
+import React, { useEffect, useState } from "react";
 import {
   StyleSheet,
   Text,
   TouchableOpacity,
   View,
   TextInput,
+  Dimensions,
 } from "react-native";
-import React, { useState } from "react";
-
-const shuffleArray = (arr) =>
-  arr.sort(function () {
-    return 0.5 - Math.random();
-  });
 
 const Options = ({ question }) => {
-  const [textInputValue, setTextInputValue] = React.useState("");
+  const [textInputValue, setTextInputValue] = useState("");
+  const [selectionIsMade, setSelectionIsMade] = useState(false);
+  const [guess, setGuess] = useState(null);
+  const inputWidth = Dimensions.get("window").width - 148;
 
-  const generateOptionsAndShuffle = (_question) => {
-    const options = [..._question.incorrect_answers, _question.answer];
-    shuffleArray(options);
-    return options;
+  const onOptionPress = (_option) => {
+    setGuess(_option.toLowerCase());
+    setSelectionIsMade(true);
   };
+
+  const getAdvStyles = (_value) => {
+    if (selectionIsMade && _value.toLowerCase() === guess.toLowerCase()) {
+      return {
+        backgroundColor:
+          _value.toLowerCase() === question.answer.toLowerCase()
+            ? "#00DB6F"
+            : "#FF4888",
+      };
+    }
+  };
+
+  useEffect(() => {
+    setTextInputValue("");
+    setSelectionIsMade(false);
+    setGuess(null);
+  }, [question]);
 
   return (
     <View style={styles.options}>
       {question.type === "multi" &&
-        generateOptionsAndShuffle(question).map((_o, index) => {
+        question.options.map((_o) => {
           return (
-            <TouchableOpacity style={styles.optionButton}>
+            <TouchableOpacity
+              disabled={selectionIsMade}
+              onPress={() => onOptionPress(_o)}
+              style={[styles.optionButton, getAdvStyles(_o)]}
+            >
               <Text style={styles.optionText}>{_o}</Text>
             </TouchableOpacity>
           );
         })}
       {question.type === "bool" && (
         <View>
-          <TouchableOpacity style={styles.optionButton}>
+          <TouchableOpacity
+            disabled={selectionIsMade}
+            onPress={() => onOptionPress("t")}
+            style={[styles.optionButton, getAdvStyles("t")]}
+          >
             <Text style={styles.optionText}>True</Text>
           </TouchableOpacity>
-          <TouchableOpacity style={styles.optionButton}>
+          <TouchableOpacity
+            disabled={selectionIsMade}
+            onPress={() => onOptionPress("f")}
+            style={[styles.optionButton, getAdvStyles("f")]}
+          >
             <Text style={styles.optionText}>Fasle</Text>
           </TouchableOpacity>
         </View>
       )}
       {question.type === "fill" && (
-        <TextInput
-          style={[styles.optionButton, styles.optionText]}
-          onChangeText={(text) => setTextInputValue(text)}
-          value={textInputValue}
-          placeholderTextColor="grey"
-          placeholder="Insert your answer.."
-        />
+        <View style={styles.inputContainer}>
+          <TextInput
+            editable={!selectionIsMade}
+            style={[
+              styles.optionButton,
+              styles.optionText,
+              { width: inputWidth },
+              getAdvStyles(textInputValue.toLowerCase()),
+            ]}
+            onChangeText={(text) => setTextInputValue(text)}
+            value={textInputValue}
+            placeholderTextColor="grey"
+            placeholder="Insert your answer.."
+          />
+          <TouchableOpacity
+            disabled={!textInputValue || selectionIsMade}
+            style={[styles.submitInput, !textInputValue && { opacity: 0.3 }]}
+            onPress={() => onOptionPress(textInputValue)}
+          >
+            <Text style={styles.submitText}>Submit</Text>
+          </TouchableOpacity>
+        </View>
       )}
     </View>
   );
@@ -72,7 +114,28 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     borderRadius: 40,
     borderWidth: 2,
+    borderColor: "#000814",
     justifyContent: "space-between",
     flexDirection: "row",
+  },
+  inputContainer: {
+    flexDirection: "row",
+    width: "100%",
+    justifyContent: "center",
+  },
+  submitInput: {
+    backgroundColor: "white",
+    padding: 20,
+    marginVertical: 6,
+    borderRadius: 40,
+    borderWidth: 2,
+    borderColor: "#000814",
+    width: 110,
+    backgroundColor: "#FFC300",
+  },
+  submitText: {
+    textAlign: "center",
+    fontWeight: "600",
+    fontSize: 18,
   },
 });

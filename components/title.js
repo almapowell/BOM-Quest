@@ -18,8 +18,9 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   title: {
-    fontSize: 32,
+    fontSize: 40,
     fontWeight: "500",
     color: "white",
+    fontFamily: "Cochin",
   },
 });

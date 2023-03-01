@@ -83,7 +83,6 @@ const Quiz = ({ navigation }) => {
             {/* OPTIONS */}
             <View style={styles.options}>
               {options.map((option, index) => {
-                console.log(123, correctAnswer);
                 return (
                   <TouchableOpacity
                     key={index}

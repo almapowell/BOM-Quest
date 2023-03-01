@@ -1,18 +1,17 @@
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React, { useState } from "react";
-import rootStyles from "../components/styles";
 import questions from "../components/questions.json";
 import Options from "./types/options";
 
 const Quest = ({ navigation }) => {
-  const [questionCount, setQuestionCount] = useState(1);
+  const [questionCount, setQuestionCount] = useState(0);
 
-  const handleNextPress = () => {
-    setQuestionCount((prev) => prev + 1);
+  const handleNextPress = (value) => {
+    setQuestionCount((prev) => prev + value);
   };
 
-  const handlePreviousPress = () => {
-    setQuestionCount((prev) => prev - 1);
+  const handlePreviousPress = (value) => {
+    setQuestionCount((prev) => prev - value);
   };
 
   return (
@@ -23,7 +22,7 @@ const Quest = ({ navigation }) => {
             <Text style={styles.questionCounter}>Back</Text>
           </TouchableOpacity>
           <Text style={styles.questionCounter}>
-            Question {questionCount}
+            Question {questionCount + 1}
             <Text style={{ fontWeight: "400", fontSize: 15 }}>
               /{questions.length}
             </Text>
@@ -38,21 +37,60 @@ const Quest = ({ navigation }) => {
 
         {/* OPTIONS */}
         <Options question={questions[questionCount]} />
+        <View>
+          <Text style={{ color: "white", textAlign: "center" }}>
+            {questions[questionCount].ref}
+          </Text>
+        </View>
 
         {/* BUTTONS */}
         <View style={styles.bottom}>
-          <TouchableOpacity
-            onPress={handlePreviousPress}
-            style={rootStyles.primary}
-          >
-            <Text style={rootStyles.primaryText}>Previous</Text>
-          </TouchableOpacity>
-          <TouchableOpacity
-            onPress={handleNextPress}
-            style={rootStyles.primary}
-          >
-            <Text style={rootStyles.primaryText}>Next</Text>
-          </TouchableOpacity>
+          <View style={{ flexDirection: "row" }}>
+            <TouchableOpacity
+              onPress={() => handlePreviousPress(10)}
+              style={[
+                styles.bottomButtons,
+                questionCount - 10 < 0 && styles.disabled,
+              ]}
+              disabled={questionCount - 10 < 0}
+            >
+              <Text style={styles.bottomButtonsText}> {`<<`} </Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => handlePreviousPress(1)}
+              style={[
+                styles.bottomButtons,
+                { marginLeft: 5 },
+                questionCount === 0 && styles.disabled,
+              ]}
+              disabled={questionCount === 0}
+            >
+              <Text style={styles.bottomButtonsText}> {`<`} </Text>
+            </TouchableOpacity>
+          </View>
+          <View style={{ flexDirection: "row" }}>
+            <TouchableOpacity
+              onPress={() => handleNextPress(1)}
+              style={[
+                styles.bottomButtons,
+                { marginRight: 5 },
+                questionCount + 1 === questions.length && styles.disabled,
+              ]}
+              disabled={questionCount + 1 === questions.length}
+            >
+              <Text style={styles.bottomButtonsText}> {`>`} </Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => handleNextPress(10)}
+              style={[
+                styles.bottomButtons,
+                questionCount + 10 > questions.length && styles.disabled,
+              ]}
+              disabled={questionCount + 10 > questions.length}
+            >
+              <Text style={styles.bottomButtonsText}> {`>>`} </Text>
+            </TouchableOpacity>
+          </View>
         </View>
       </View>
     </View>
@@ -111,5 +149,19 @@ const styles = StyleSheet.create({
   },
   optionButtonWrong: {
     backgroundColor: "#FF4888",
+  },
+  bottomButtons: {
+    backgroundColor: "#004A8F",
+    padding: 12,
+    borderRadius: 40,
+    marginVertical: 10,
+  },
+  bottomButtonsText: {
+    fontSize: 18,
+    color: "white",
+    fontWeight: "600",
+  },
+  disabled: {
+    opacity: 0.2,
   },
 });

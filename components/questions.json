@@ -4,13 +4,13 @@
     "ref": "Refer to title page of BOM",
     "question": "Who wrote the title page of The Book of Mormon?",
     "answer": "Mormon",
-    "incorrect_answers": ["Joseph Smith", "Moroni"]
+    "options": ["Joseph Smith", "Mormon", "Moroni"]
   },
   {
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "The abridgment of the record is written to the Jew and Gentile.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -22,7 +22,7 @@
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "The record was written and sealed up, and hid up unto the Lord, that they may not be destroyed",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -34,7 +34,7 @@
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "The word “Jaredites” first appears to in the Title page of the Book of Mormon?",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -46,7 +46,7 @@
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "The people of Jared were scattered at the time the Lord confounded their language.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -64,14 +64,14 @@
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "The Lord wants to show the remnant House of Israel the many great things that he has done for their fathers.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to title page of BOM",
     "question": "The Lord wants the House of Israel to know the ____ he has made with them and not be cast-off forever.",
     "answer": "Covenants",
-    "incorrect_answers": ["Bible", "Articles of Faith"]
+    "options": ["Bible", "Articles of Faith", "Covenants"]
   },
   {
     "type": "fill",
@@ -83,7 +83,7 @@
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "Jesus is the Christ, the Eternal God, manifesting himself unto all nations.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -95,7 +95,7 @@
     "type": "bool",
     "ref": "Refer to title page of BOM",
     "question": "Mormon writes, condemn not the things of God?",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -108,19 +108,19 @@
     "ref": "Refer to title page of BOM",
     "question": "Who translated the title page of the Book of Mormon?",
     "answer": "Joseph Smith",
-    "incorrect_answers": ["Moroni", "Mormon"]
+    "options": ["Moroni", "Mormon", "Joseph Smith"]
   },
   {
     "type": "bool",
     "ref": "Refer to Brief Analysis",
     "question": "In the brief analysis of the Book of Mormon we are told that there are namely three classes of record plates.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Brief Analysis",
     "question": "The Brass Plates of Laban are mentioned frequently in the Book of Mormon.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -132,7 +132,7 @@
     "type": "bool",
     "ref": "Refer to Brief Analysis",
     "question": "The period covered in the Book of Mormon extends from B.C. 600 to A.D. 421. ",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -144,25 +144,25 @@
     "type": "bool",
     "ref": "Refer to Brief Analysis",
     "question": "Moroni was the last of the Nephite historians that sealed the sacred record, and hid up unto the Lord.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Brief Analysis",
     "question": "In the Brief Analysis of the Book of Mormon, Joseph Smith mentions the hill Cumorah by name.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "bool",
     "ref": "Ether 15:11",
     "question": "The hill Cumorah was referred as the hill Ramah by the Jaredites.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Mor 1:3, 4:23",
     "question": "The hill Cumorah was referred as the hill Shim by the Nephites.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -180,7 +180,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "When Moroni first appeared to Joseph Smith he referred to him as a personage.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -192,7 +192,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The light that appeared to Joseph, was lighter than noon-day.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -204,26 +204,26 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "When Moroni appeared to Joseph Smith, he was standing in the air.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "Moroni’s robe was of the most exquisite ____.",
     "answer": "whiteness",
-    "incorrect_answers": ["color", "design"]
+    "options": ["Color", "Whiteness", "Design"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith writes:  That he believed that anything earthly could be made to appear so exceedingly white or brilliant.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith said that he could see Moroni’s hands were naked and his arms also, a little above the wrists.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -235,43 +235,43 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith could see that Moroni was wearing clothing that is worn by worthy temple workers.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
     "ref": "Refer to Origin of BOM",
     "question": "Because Moroni’s head and neck were bare, Joseph Smith could see into Moroni’s ____.",
-    "answer": "Bosom"
+    "answer": "bosom"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Not only was Moroni’s robe exceedingly white, his whole person was glorious beyond description.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith states that ____ countenance was truly like lightning.",
-    "answer": "Moroni"
+    "answer": "moroni"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Moroni’s countenance was truly like lightning, when he appeared to Joseph Smith.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
     "ref": "Refer to Origin of BOM",
     "question": "The light that surrounded ____ was brighter than the light of the room.",
-    "answer": "Moroni"
+    "answer": "moroni"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "When Joseph Smith first saw Moroni, he was afraid.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -283,20 +283,20 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "It took a very long time for Joseph Smith to get over of being afraid of Moroni.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "At first, Joseph Smith was afraid of Moroni, but soon the ____ left him.",
-    "answer": "fear",
-    "incorrect_answers": ["sadness", "glory"]
+    "answer": "Fear",
+    "options": ["Fear", "Sadness", "Glory"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The messenger called Joseph Smith by name.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -314,28 +314,28 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The messenger to Joseph that all nation’s, kindreds, and tongues would speak evil of his name.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "Moroni said that there was a_____ deposited in the ground, written upon gold plates.",
-    "answer": "book",
-    "incorrect_answers": ["manuscript", "tablet"]
+    "answer": "Book",
+    "options": ["Manuscript", "Book", "Tablet"]
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "The book that was deposited in the ground was written on what type of metal?",
-    "answer": "gold",
-    "incorrect_answers": ["silver", "brass"]
+    "answer": "Gold",
+    "options": ["Silver", "Brass", "Gold"]
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "The book gave an account of the former ____ of the continent.",
-    "answer": "inhabitants",
-    "incorrect_answers": ["dinosaurs", "birds"]
+    "answer": "Inhabitants",
+    "options": ["Inhabitants", "Dinosaurs", "Birds"]
   },
   {
     "type": "fill",
@@ -347,7 +347,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The book gives an account of the former inhabitants of this continent, and the source from whence they sprang.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -359,7 +359,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The fulness of the everlasting Gospel is contained in the Book.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -371,14 +371,14 @@
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "What shade of color were the two stones in the bow?",
-    "answer": "silver",
-    "incorrect_answers": ["metallic", "gold"]
+    "answer": "Silver",
+    "options": ["Metallic", "Gold", "Silver"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The two stones in silver bows were fastened to a breastplate.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -390,13 +390,13 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The Urim and Thummim is what constitutes the two stones and the breastplate.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "No ref because they are not.",
     "question": "The Urim and Thummim are mentioned by name in the text of Book of Mormon?",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -408,7 +408,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The Seers were not used in ancient or former times.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -420,19 +420,19 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The Seers were prepared by God; for the purpose of translating the book, of which is now known as the Book of Mormon.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "With the possession and use of the Seers, people can or could translate ancient writings.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Angel Moroni told Joseph Smith to show the plates to anyone that he pleased.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -444,32 +444,32 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph was commanded by Moroni, to show only the breastplate and not the Urim and Thummim.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Unless Joseph was commanded; Moroni said that he must not show the plates and Urim and Thummin to anyone or he would be destroyed.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "While Joseph was conversing with Moroni about the plates, he had a ____.",
     "answer": "Vision",
-    "incorrect_answers": ["Seizure", "Migraine Headache"]
+    "options": ["Vision", "Seizure", "Migraine Headache"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "In his vision, Joseph Smith could see the place where the plates were deposited.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The vision was so clear and distinct, that Joseph knew where the place was when he visited it.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -481,7 +481,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Except around Moroni, the room began to get dark again.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -493,13 +493,13 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph states and refers to the light in his room as being heavenly.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "After the messenger and the light left, Joseph fell asleep.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -511,7 +511,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The second time the messenger appeared to Joseph, he repeated the same words as the first time, without variation.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -524,7 +524,7 @@
     "ref": "Refer to Origin of BOM",
     "question": "Moroni informed Joseph of great judgments which were coming upon the ____.",
     "answer": "Earth",
-    "incorrect_answers": ["People", "Heavens"]
+    "options": ["People", "Heavens", "Earth"]
   },
   {
     "type": "fill",
@@ -537,13 +537,13 @@
     "ref": "Refer to Origin of BOM",
     "question": "At what time did Moroni say that the judgements were coming to the earth?",
     "answer": "This generation",
-    "incorrect_answers": ["Noah's time", "The generation to come"]
+    "options": ["Noah's time", "This generation", "The generation to come"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph writes that he and his father’s family were indigent.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -555,65 +555,65 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Moroni told Joseph Smith that he must not be influenced by any other motive than that of building the kingdom of God.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "How many times did the angel Moroni visit Joseph Smith in one single night?",
     "answer": "Three",
-    "incorrect_answers": ["One", "Two"]
+    "options": ["One", "Two", "Three"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Angel Moroni visited Joseph Smith three times in September of 1823.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "After Moroni’s third visit, as he ascended into heaven; What kind of fowl did Joseph hear crowed.",
     "answer": "Rooster",
-    "incorrect_answers": ["Swan", "Turkey"]
+    "options": ["Swan", "Rooster", "Turkey"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Moroni left, and Joseph realized that their interviews must of have taken all night because the day had approach.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph attempted to work as other times, but found that his strength was ____.",
     "answer": "Exhausted",
-    "incorrect_answers": ["Gone", "Stronger"]
+    "options": ["Exhausted", "Gone", "Stronger"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Because of his exhausted strength, Joseph’s father told him to go home.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
-    "question": "While attempting to cross the_____ out of the field, Joseph's strength left him and he fell to the ground.",
+    "question": "While attempting to cross the _____ out of the field, Joseph's strength left him and he fell to the ground.",
     "answer": "Fence",
-    "incorrect_answers": ["River", "Highway"]
+    "options": ["River", "Highway", "Fence"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph fell to the ground and was unconscious for three days.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "In the Origin of the Book of Mormon: It does not say or how long Joseph exactly lay unconscious.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -626,44 +626,44 @@
     "ref": "Refer to Origin of BOM",
     "question": "Joseph was ____ by Moroni to tell his father, of the vision and commandments he had received.",
     "answer": "Commanded",
-    "incorrect_answers": ["Told", "Exhorted"]
+    "options": ["Told", "Exhorted", "Commanded"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph obeyed Moroni, and returned to his father in the field, and rehearsed the whole matter to him.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph left out some important details, when he rehearsed the story to his father.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph’s father told him to go to the place where the Messenger had told him to go.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph new the place where the plates were deposited because of the dream that he had.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "Because of his_____, Joseph knew the place where the plates were buried.",
     "answer": "Vision",
-    "incorrect_answers": ["Hindsight", "Foresight"]
+    "options": ["Hindsight", "Vision", "Foresight"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The hill where the plates were deposited was more elevated than the other surrounding hills.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -682,13 +682,13 @@
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith tells us the plates were hidden under a considerable size stone and facing what direction?",
     "answer": "West",
-    "incorrect_answers": ["South", "North"]
+    "options": ["North", "South", "West"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "When Joseph Smith removed the earth that was fixed under the stone, he had a difficult time.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -706,59 +706,59 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The messenger told Joseph Smith that the time had not come yet to get the things out of the box.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "How many years would pass before Joseph Smith could get the things out of the box?",
     "answer": "Four",
-    "incorrect_answers": ["Two", "Three"]
+    "options": ["Two", "Three", "Four"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Moroni told Joseph Smith to come precisely one year from the time that he first saw him and that he would meet with him again.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith did as he was ____, and he went at the end of each year and at each time, he found the same messenger there waiting for him.",
     "answer": "Commanded",
-    "incorrect_answers": ["Forbidden", "Instructed"]
+    "options": ["Forbidden", "Commanded", "Instructed"]
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith received instructions and ____, from the messenger, at each of their interviews.",
     "answer": "Intelligence",
-    "incorrect_answers": ["Gold", "Money"]
+    "options": ["Gold", "Money", "Intelligence"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The messenger told Joseph what the Lord was going to do, and how and what manner His kingdom was to be conducted in the last days.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "The messenger delivered the plates to Joseph and told him that he was to be responsible for them and if he would let them go carelessly, he would not be cut off.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "The messenger told Joseph that he should use all of his endeavors to preserve the ____.",
     "answer": "Plates",
-    "incorrect_answers": ["Hill Cumorah", "House of his Father"]
+    "options": ["Hill Cumorah", "Plates", "House of his Father"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith was told by the messenger what would be required of him to do by his hand.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -770,7 +770,7 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "As soon as it was found out that he had the plates, multitudes of people were out to get them away from them.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -783,13 +783,13 @@
     "ref": "Refer to Origin of BOM",
     "question": "Joseph Smith said that every_____ that could be invented was resorted to take away the plates from him.",
     "answer": "Stratagem",
-    "incorrect_answers": ["Device", "Intelligence"]
+    "options": ["Stratagem", "Device", "Intelligence"]
   },
   {
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "When the messenger called for the plates, Joseph Smith did not deliver them unto him until he was commanded.",
-    "answer": "f"
+    "answer": "F"
   },
   {
     "type": "fill",
@@ -807,14 +807,14 @@
     "type": "bool",
     "ref": "Refer to Origin of BOM",
     "question": "As attested by Divine affirmation, the ancient record has been brought forth from the earth.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "multi",
     "ref": "Refer to Origin of BOM",
     "question": "The Book of Mormon was first published to the world in what year of our Lord?",
     "answer": "1830",
-    "incorrect_answers": ["1821", "1823"]
+    "options": ["1821", "1823", "1830"]
   },
   {
     "type": "fill",
@@ -827,22 +827,23 @@
     "ref": "Refer to the Testimony of Three Witnesses in the BOM",
     "question": "Who were the Three Witnesses of the Book of Mormon.",
     "answer": "Oliver Cowdery, David Whitmer and Martin Harris",
-    "incorrect_answers": [
+    "options": [
       "Oliver Cowdery, David Whitmer and Lorenzo Snow",
-      "Joseph Smith Sr, Brigham Young and Nephi"
+      "Joseph Smith Sr, Brigham Young and Nephi",
+      "Oliver Cowdery, David Whitmer and Martin Harris"
     ]
   },
   {
     "type": "bool",
     "ref": "Refer to the Testimony of the Eight Witnesses in the BOM",
     "question": "In the testimony of the Eight Witnesses, they describe the plates of having the appearance of ancient work, and of curious workmanship.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "bool",
     "ref": "Refer to the Testimony of the Eight Witnesses in the BOM",
     "question": "In the testimony of the Eight Witnesses, they state that they gave their names to the world, to witness unto the world that, that they handled the plates with their hands and saw the engraving thereon.",
-    "answer": "t"
+    "answer": "T"
   },
   {
     "type": "fill",
@@ -855,5 +856,786 @@
     "ref": "Refer to BOM",
     "question": "What is the title of the first book in the Book of Mormon?",
     "answer": "Nephi"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to BOM",
+    "question": "What is the title of the last book in the Book of Mormon?",
+    "answer": "Moroni"
+  },
+  {
+    "type": "bool",
+    "question": "The longest book in the Book of Mormon is the Book of Mosiah?  ",
+    "answer": "F",
+    "ref": " Refer to BOM"
+  },
+  {
+    "type": "fill",
+    "question": "What is the longest book in the Book of Mormon",
+    "answer": "Alma ",
+    "ref": "Refer to BOM"
+  },
+  {
+    "type": "fill",
+    "question": "What Book of Mormon book has the least verses",
+    "answer": "Jarom ",
+    "ref": "Refer to BOM"
+  },
+  {
+    "type": "fill",
+    "question": "What is the name of the book that has the second least amount of verses",
+    "answer": "The Words Of Mormon",
+    "ref": "Refer to BOM"
+  },
+  {
+    "type": "multi",
+    "question": "The words: “was the son of “are used how many times in the Book of Ether.",
+    "options": [15, 20, 21],
+    "answer": "21",
+    "ref": "Refer to BOM"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Book of Omni",
+    "question": "What Book of Mormon author wrote the least amount of words in the Book of Mormon?",
+    "answer": "Chemish"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to Book of Omni",
+    "question": "This Book of Mormon author only wrote one verse.",
+    "answer": "Chemish"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep10:4",
+    "question": "A prophet would the Lord God raise up among the Jews-even a _____, or, in other words, a Savior of the world.",
+    "answer": "Messiah"
+  },
+  {
+    "type": "bool",
+    "question": "There are only three women mentioned by name in the Book of Mormon. ",
+    "answer": "F",
+    "ref": " Abish-Alma19:16, Eve-1Nep5:11, Isabel-Alma39:3, Mary-Mos3:8, Sariah-1Nep2:5"
+  },
+  {
+    "type": "multi",
+    "question": " Nephi was born of _____ parents.",
+    "options": [" bad", " naughty", " goodly"],
+    "answer": "goodly",
+    "ref": "1Nep:1"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi was taught somewhat in all the learning of his father. ",
+    "answer": "T",
+    "ref": " 1Nep1:1"
+  },
+  {
+    "type": "multi",
+    "question": " Nephi saw many_____ in the course of his days.   ",
+    "options": ["bad things", "afflictions", "parties"],
+    "answer": "afflictions",
+    "ref": "1Nep1:1"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:13, Alma 12:221, 42:2-3",
+    "question": "What modern day weapon has been around since the beginning of man?",
+    "answer": "Sword"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi was highly favored of the Lord. ",
+    "answer": "T",
+    "ref": " 1Nep1:1"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:1",
+    "question": "What Book of Mormon historian was highly favored of the Lord?",
+    "answer": "Nephi"
+  },
+  {
+    "type": "multi",
+    "question": " How many days was, Nephi highly favored of the Lord?  c-(B) ",
+    "options": ["half", "all", "neither half nor all"],
+    "answer": "all",
+    "ref": "1Nep1:1"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:1",
+    "question": "Nephi had_____ knowledge of the goodness and the mysteries of God.",
+    "answer": "Great"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi was not a very smart prophet.",
+    "answer": "F",
+    "ref": " 1Nep1:1"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi said: “I make a record of my proceedings in my days”. ",
+    "answer": "T",
+    "ref": "1Nep1:1"
+  },
+  {
+    "type": "fill",
+    "ref": "Refer to BOM",
+    "question": "The record that Nephi made about his reign and ministry is known to us as the: “First Book Of _____”.",
+    "answer": "Nephi"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:2",
+    "question": "Nephi made a record in the _____ of his father.",
+    "answer": "Language"
+  },
+  {
+    "type": "multi",
+    "question": " Nephi’s writing’s consists of the learning of what tribe of people?  (a) Jews (b) Egyptians or (c) Mongols-(A) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:1"
+  },
+  {
+    "type": "multi",
+    "question": " Nephi was taught by his father in the language of the _____(a) Israelites (b) Egyptians or (c) Mongols-(B)  ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:2 & Mosiah1:4"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi taught Lehi the language of the Egyptians.",
+    "answer": "F",
+    "ref": " 1Nep1:2"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi said that his record is somewhat true as far as he can remember.",
+    "answer": "F",
+    "ref": "1Nep1:3"
+  },
+  {
+    "type": "bool",
+
+    "question": "Nephi wrote that: The record which I make is true; and I make it with mine own hand”.",
+
+    "answer": "T",
+    "ref": "1Nep1:3"
+  },
+  {
+    "type": "multi",
+    "question": " Nephi made the record according to his_____.  (a) memory (b) will or (c) knowledge-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:3"
+  },
+  {
+    "type": "multi",
+    "question": " It came to pass in the commencement of the_____ year of the reign Zedekiah.  (a)1st (b)2nd or (c) 3rd-(A) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:4"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:4",
+    "question": "Who was the king of Judah at the time that Nephi wrote the book of Nephi?",
+    "answer": "Zedekiah"
+  },
+  {
+    "type": "multi",
+    "question": " What body of land did king Zedekiah reign over.  (a) Egypt (b) Israel or (c) Judah-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:4"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:4",
+    "question": "What important city was located in the land of Judah?",
+    "answer": "Jerusalem"
+  },
+  {
+    "type": "bool",
+    "question": "In the beginning of the Book of Nephi: He writes that Lehi lived in Jerusalem all his days.",
+    "answer": "T",
+    "ref": " 1Nep1:4"
+  },
+  {
+    "type": "bool",
+
+    "question": "Lehi was Nephi's uncle.",
+
+    "answer": "F",
+    "ref": "1Nep1:4"
+  },
+  {
+    "type": "bool",
+
+    "question": "Lehi was the father of Nephi.",
+
+    "answert": "T",
+    "ref": "1Nep1:4"
+  },
+  {
+    "type": "multi",
+    "question": " What kind of people came to Jerusalem at the same year of the commencement of the reign of King Zedekiah?  (a) Jews (b) prophets or (c) Hebrews (B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:4"
+  },
+  {
+    "type": "bool",
+    "question": "Many prophets came to the city of Jerusalem and prophesied that if the people did not repent, the city would be destroyed. ",
+    "answer": "T",
+    "ref": "1Nep1:4"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:4",
+    "question": "What city in the land of Judah would be destroyed if the people did not repent?",
+    "answer": "Jerusalem"
+  },
+  {
+    "type": "bool",
+    "question": "The city of Jerusalem; was a great city according to Nephi.  ",
+    "answer": "T",
+    "ref": " 1Nep1:4"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi prayed on behalf of his_____.  (a) wives (b) pets or (c) people-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:5"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:5",
+    "question": "Who did Lehi pray to and asked that the city would not be destroyed?",
+    "answer": ["god", "lord"]
+  },
+  {
+    "type": "bool",
+    "question": "Lehi prayed to the Lord with all his heart.",
+    "answer": "T",
+    "ref": "1Nep1:5"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:6",
+    "question": "As Lehi prayed unto the Lord, there came a pillar of_____.",
+    "answer": "Fire"
+  },
+  {
+    "type": "bool",
+    "question": "When Lehi was praying unto the Lord, a pillar of fire appeared.  ",
+    "answer": "T",
+    "ref": " 1Nep1:6"
+  },
+
+  {
+    "type": "bool",
+    "question": "The pillar of fire did not dwell upon a rock; instead it flew over Lehi’s head.  ",
+    "answer": "F",
+    "ref": " 1Nep1:6"
+  },
+  {
+    "type": "bool",
+    "question": "Because of the pillar of fire, Lehi saw and heard much.  ",
+    "answer": "T",
+    "ref": " 1Nep1:6"
+  },
+  {
+    "type": "multi",
+    "question": " Because of the things Lehi saw and heard he did quake and_____ exceedingly.  (a) danced the Macarena (b) did the twist or (c) tremble-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:6"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi cast himself upon his bed, being overcome by the_____.  (a) heat (b) Spirit or (c) devil-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:7"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi cast himself to bed because he was overcome by the Spirit.  ",
+    "answer": "T",
+    "ref": " 1Nep1:7"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "And being thus overcome with the Spirit, Lehi was carried away in a_____.",
+    "answer": "Vision"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi saw in his vision the_____ opened.  (a) earth (b) heavens or (c) neither a nor b-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:8"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "In his vision, who did Lehi see sitting upon his throne?",
+    "answer": "God"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "Lehi saw God sitting upon his_____.",
+    "answer": "Throne"
+  },
+  {
+    "type": "bool",
+    "question": "In his vision Lehi saw the Devil being cast out of heaven.  ",
+    "answer": "F",
+    "ref": " 1Nep1:8"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "_____was sitting upon his throne, surrounded with numberless concourses of angels.",
+    "answer": "God"
+  },
+  {
+    "type": "bool",
+    "question": "God sat on his throne, and was surrounded by one million angels.  ",
+    "answer": "F",
+    "ref": " 1Nep1:8"
+  },
+  {
+    "type": "bool",
+    "question": "As God sat on his throne, angels were singing and praising their God.  ",
+    "answer": "T",
+    "ref": " 1Nep1:8"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "In his vision, Lehi saw____ singing and praising their God.",
+    "answer": "Angels"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:9",
+    "question": "Lehi saw one/person descending out of the midst of_____.",
+    "answer": "Heaven"
+  },
+  {
+    "type": "bool",
+    "question": "The person’s luster that Lehi saw descending out of heaven was above that of the sun at noon-day.  ",
+    "answer": "T",
+    "ref": " 1Nep1:9"
+  },
+  {
+    "type": "bool",
+    "question": "The word “noon-day” only appears once in the text of the Book of Mormon.  ",
+    "answer": "T",
+    "ref": " 1Nep1:9"
+  },
+  {
+    "type": "multi",
+    "question": " How many times does the word “noon-day” appear in the text of the Book of Mormon? (a) 1 (b) 2 or (c) 3-(A) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:9"
+  },
+  {
+    "type": "multi",
+    "question": " How many persons followed the first person that Lehi saw in his vision? (a) 3 (b) six or (c) 12-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:10"
+  },
+  {
+    "type": "bool",
+    "question": "Twelve others followed the first person that Lehi saw in his vision.  ",
+    "answer": "T",
+    "ref": " 1Nep1:10"
+  },
+  {
+    "type": "bool",
+    "question": "The brightness of the twelve people that Lehi saw in his vision exceeded that of the stars in the firmament.  ",
+    "answer": "T",
+    "ref": " 1Nep1:10"
+  },
+  {
+    "type": "multi",
+    "question": " Whose brightness exceeded that of the stars in the firmament? (a) the devil (b) the twelve or (c) Laman’s-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:10"
+  },
+  {
+    "type": "bool",
+    "question": "The first person that Lehi saw descending out of heaven and the twelve others that followed him; came down and went forth upon the face of the earth.  ",
+    "answer": "T",
+    "ref": " 1Nep1:11"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:11",
+    "question": "All the people that Lehi saw descending out of heaven came down and went forth upon the face of the_____.",
+    "answer": "Earth"
+  },
+  {
+    "type": "multi",
+    "question": " What person stood before Lehi and gave him a book and bade him to read it. (a) 1st person (b) 2nd person or (c) the 3rd –(A) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:11"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi choose not to read the book that the first person gave him to read.  ",
+    "answer": "F",
+    "ref": " 1Nep1:11"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:12",
+    "question": "When Lehi read the book that he was given; he was filled with the____ of the Lord.",
+    "answer": "Spirit"
+  },
+  {
+    "type": "bool",
+    "question": " Lehi did not pray before he read the book that he was given and consequently, did not feel the Spirit of the Lord.  ",
+    "answer": "F",
+    "ref": " 1Nep1:12"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:13",
+    "question": "In the book that he was given Lehi saw the abominations of what city in the land of Judah?",
+    "answer": "Jerusalem"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:13",
+    "question": "Lehi said: “Woe, woe, unto_____, for I have seen thine abominations!”",
+    "answer": "Jereusalem"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi saw and read many things concerning the city of Jerusalem.  ",
+    "answer": "T",
+    "ref": " 1Nep1:13"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi saw and read that the city of Jerusalem would be destroyed and also it's inhabitants.  ",
+    "answer": "T",
+    "ref": " 1Nep1:13"
+  },
+  {
+    "type": "multi",
+    "question": " Many of the people of Jerusalem would perish by the_____ and be carried away captive.  (a) knife (b) sword or (c) famine-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:13"
+  },
+  {
+    "type": "bool",
+    "question": "Only those that were unrighteous would perish by the sword and be carried into captivity.  ",
+    "answer": "F",
+    "ref": " 1Nep1:13"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:13",
+    "question": "Lehi saw the people of Jerusalem perish and be carried away captive to_____.",
+    "answer": "Babylon"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi read and saw many_____ and marvelous things and exclaimed many things unto the Lord.  (a) bad (b) good or (c) great-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:14"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi said “great and marvelous are thy works, O Lord God_____”(a) almighty (b) gosh darn it (c) its all good-(A) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:14"
+  },
+  {
+    "type": "multi",
+    "question": " According to Lehi, where is the throne of God located? (a) close to the moon (b) the heavens or (c) underneath the stars-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:14"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi said the throne of God is located in the heavens.  ",
+    "answer": "T",
+    "ref": " 1Nep1:14"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi said that God’s power, goodness, and mercy are over all the_____ of the earth. (a) people (b) inhabitants (c) unrighteous-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:14"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi said that God is merciful.  ",
+    "answer": "T",
+    "ref": " 1Nep1:14"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi saw and read that God was not very merciful to the inhabitants of Jerusalem.  ",
+    "answer": "F",
+    "ref": " 1Nep1:14"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:14",
+    "question": "Because God is _____, he will not suffer those that come unto him to perish.",
+    "answer": "Merciful"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi did not praise God because of the things he had seen.  ",
+    "answer": "F",
+    "ref": " 1Nep1:15"
+  },
+  {
+    "type": "bool",
+    "question": "Because of the things Lehi saw his soul did rejoice.  ",
+    "answer": "T",
+    "ref": " 1Nep1:15"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:15",
+    "question": "Lehi’s soul did rejoice, and his_____ was filled because of the things he saw.",
+    "answer": "Heart"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi made a full account of the thing which his father wrote.  ",
+    "answer": "F",
+    "ref": " 1Nep1:16"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:16",
+    "question": "Lehi wrote many things which he saw in visions and in_____.",
+    "answer": "Dreams"
+  },
+  {
+    "type": "multi",
+    "question": " Nephi said that Lehi had written many things which he prophesied and spoke unto his_____.  (a) daughters (b) uncles or (c) children-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:16"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi made an account of his proceedings.  ",
+    "answer": "T",
+    "ref": " 1Nep1:17"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:17",
+    "question": "Who made an abridgement of the record of his father?",
+    "answer": "Nephi"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:17",
+    "question": "The plates that Nephi made for the record, were made by his_____.",
+    "answer": "Hand"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi first made an abridgment of the record of Lehi then he made an account of his life.  ",
+    "answer": "T",
+    "ref": "1Nep1:17"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi prophesied and declared to the people of Jerusalem the marvelous things which he had seen and heard.  ",
+    "answer": "T",
+    "ref": " 1Nep1:18"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:19",
+    "question": "The Jews did_____, Lehi because of the things he testified of them.",
+    "answer": "Mock"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi testified to the Jews of things which he saw and heard, and also of the things which he read in a book.  ",
+    "answer": "T",
+    "ref": " 1Nep1:19"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:19",
+    "question": "The book which Lehi read; manifested plainly of the coming of the_____.",
+    "answer": "Messiah"
+  },
+  {
+    "type": "bool",
+    "question": "The Jews were angry with Lehi even as with the prophets of old.  ",
+    "answer": "T",
+    "ref": " 1Nep1:20"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:20",
+    "question": "Because of the things that he had said, the Jews sought to kill_____.",
+    "answer": "Lehi"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep1:20",
+    "question": "The Jews: _____out, and stoned, and slain, the prophets of old in the city of Jerusalem.",
+    "answer": "Cast"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi wrote that he would show unto us that the tender mercies of the Lord are over all those whom he hath chosen.  ",
+    "answer": "T",
+    "ref": " 1Nep1:20"
+  },
+  {
+    "type": "multi",
+    "question": " Because of their_____, the Lord will make those that he has chosen mighty even unto the power of deliverance.  (a) riches (b) pride or (c) faith-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep1:20"
+  },
+  {
+    "type": "bool",
+    "question": "The Jews were angry with Lehi because he testified of their wickedness and abominations.",
+    "answer": "T",
+    "ref": "1Nep1:19-20"
+  },
+  {
+    "type": "bool",
+    "question": "The Lord spoke to Lehi in a dream and told him he was blessed for things that he had done.  ",
+    "answer": "T",
+    "ref": " 1Nep2:1"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep2:1",
+    "question": "Lehi was faithful and declared unto the people the things which the_____ had commanded him to say.",
+    "answer": "Lord"
+  },
+  {
+    "type": "bool",
+    "question": "The people in Jerusalem sough to take away Lehi’s life.  ",
+    "answer": "T",
+    "ref": " 1Nep2:1"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep2:2",
+    "question": "The ____ came to Lehi in a dream and commanded him to depart into the wilderness.",
+    "answer": "Lord"
+  },
+  {
+    "type": "bool",
+    "question": "Lehi did not obey the word of the Lord, and did not depart until he was ready.  ",
+    "answer": "F",
+    "ref": " 1Nep2:3"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep2:5",
+    "question": "By what borders and shore of a sea did Lehi and his family travel to?",
+    "answer": "Red Sea"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep2:5",
+    "question": "What was Nephi’s mother’s name?",
+    "answer": "Sariah"
+  },
+  {
+    "type": "multi",
+    "question": " How many days did Lehi and his family travel before pitching their tents for the first time? (a) 2 (b) 3 or (c) 4 (B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep2:6"
+  },
+  {
+    "type": "multi",
+    "question": " And it came to pass that Lehi built an altar of_____.  (a) rocks (b) clay or (c) stones-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep2:7"
+  },
+  {
+    "type": "bool",
+    "question": "Nephi made an offering unto the Lord and gave thanks unto the Lord.  ",
+    "answer": "F",
+    "ref": "1Nep2:7"
+  },
+  {
+    "type": "multi",
+    "question": " Which son die Lehi name a river after; that emptied into the Red Sea?  (a)  Nephi (b) Sam, or (c) Laman- (C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep2:8"
+  },
+  {
+    "type": "multi",
+    "question": " The name of the river that emptied into the Red Sea was called_____.  (a) the snake, (b) the Mississippi, or (c) Laman-(C) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep2:8"
+  },
+  {
+    "type": "bool",
+    "ref": "1Nep2:8",
+    "question": "Lehi named a river after one of his sons",
+    "answer": "T"
+  },
+  {
+    "type": "fill",
+    "ref": "1Nep2:9",
+    "question": "Which one of his son’s was Lehi speaking to when he said” O that thou mightest be like unto this river, continually running into the fountain of all righteousness!",
+    "answer": "Laman"
+  },
+  {
+    "type": "bool",
+    "ref": "1Nep2:10",
+    "question": "Lehi was referring to Lemuel when he said “O that thou might be like unto this valley, firm and stead-fest, and immovable in keeping the commandments of the Lord!”",
+    "answer": "T"
+  },
+  {
+    "type": "multi",
+    "question": " Lehi spoke encouraging words to Laman and Lemuel because of their_____.  (a) looks (b) stiffneckedness or (c) clothes-(B) ",
+    "options": [],
+    "answer": "",
+    "ref": "1Nep2:11"
+  },
+  {
+    "type": "bool",
+    "question": "For behold Laman and Lemuel did murmur in many things against Lehi.  ",
+    "answer": "T",
+    "ref": " 1Nep2:11"
   }
 ]

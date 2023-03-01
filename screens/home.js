@@ -3,7 +3,6 @@ import React from "react";
 import Title from "../components/title";
 import Banner from "../components/banner";
 import rootStyles from "../components/styles";
-import questions from "../components/questions.json";
 
 const Home = ({ navigation }) => {
   return (
@@ -11,10 +10,12 @@ const Home = ({ navigation }) => {
       <Title titleText={"B.O.M Quest"} />
       <Banner type="home" />
       <TouchableOpacity
-        onPress={() => navigation.navigate("Quiz")}
-        style={rootStyles.wideButton}
+        onPress={() => navigation.navigate("Quest")}
+        style={[rootStyles.wideButton, { backgroundColor: "#FFC300" }]}
       >
-        <Text style={rootStyles.wideButtonText}>Start</Text>
+        <Text style={[rootStyles.wideButtonText, { color: "black" }]}>
+          Start Playing
+        </Text>
       </TouchableOpacity>
     </View>
   );

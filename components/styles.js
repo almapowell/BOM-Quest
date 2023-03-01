@@ -2,6 +2,8 @@ import { StyleSheet } from "react-native";
 
 // wrong red #FF4888
 // correct green #00DB6F
+// dark background #000814
+// dark yellow #FFC300
 
 // main button styles
 // padding: 16,
