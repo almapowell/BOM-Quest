@@ -39,9 +39,10 @@ const Options = ({ question }) => {
   return (
     <View style={styles.options}>
       {question.type === "multi" &&
-        question.options.map((_o) => {
+        question.options.map((_o, index) => {
           return (
             <TouchableOpacity
+              key={index}
               disabled={selectionIsMade}
               onPress={() => onOptionPress(_o)}
               style={[styles.optionButton, getAdvStyles(_o)]}

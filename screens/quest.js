@@ -1,6 +1,6 @@
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React, { useState } from "react";
-import questions from "../components/questions.json";
+import questions from "../components/questions/questions.json";
 import Options from "./types/options";
 
 const Quest = ({ navigation }) => {
@@ -18,7 +18,7 @@ const Quest = ({ navigation }) => {
     <View style={styles.container}>
       <View style={styles.questionsParent}>
         <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-          <TouchableOpacity onPress={() => navigation.navigate("Home")}>
+          <TouchableOpacity onPress={() => navigation.navigate("Sections")}>
             <Text style={styles.questionCounter}>Back</Text>
           </TouchableOpacity>
           <Text style={styles.questionCounter}>
@@ -47,16 +47,6 @@ const Quest = ({ navigation }) => {
         <View style={styles.bottom}>
           <View style={{ flexDirection: "row" }}>
             <TouchableOpacity
-              onPress={() => handlePreviousPress(10)}
-              style={[
-                styles.bottomButtons,
-                questionCount - 10 < 0 && styles.disabled,
-              ]}
-              disabled={questionCount - 10 < 0}
-            >
-              <Text style={styles.bottomButtonsText}> {`<<`} </Text>
-            </TouchableOpacity>
-            <TouchableOpacity
               onPress={() => handlePreviousPress(1)}
               style={[
                 styles.bottomButtons,
@@ -65,7 +55,7 @@ const Quest = ({ navigation }) => {
               ]}
               disabled={questionCount === 0}
             >
-              <Text style={styles.bottomButtonsText}> {`<`} </Text>
+              <Text style={styles.bottomButtonsText}>Previous</Text>
             </TouchableOpacity>
           </View>
           <View style={{ flexDirection: "row" }}>
@@ -78,17 +68,7 @@ const Quest = ({ navigation }) => {
               ]}
               disabled={questionCount + 1 === questions.length}
             >
-              <Text style={styles.bottomButtonsText}> {`>`} </Text>
-            </TouchableOpacity>
-            <TouchableOpacity
-              onPress={() => handleNextPress(10)}
-              style={[
-                styles.bottomButtons,
-                questionCount + 10 > questions.length && styles.disabled,
-              ]}
-              disabled={questionCount + 10 > questions.length}
-            >
-              <Text style={styles.bottomButtonsText}> {`>>`} </Text>
+              <Text style={styles.bottomButtonsText}>Next</Text>
             </TouchableOpacity>
           </View>
         </View>

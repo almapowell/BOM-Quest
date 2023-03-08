@@ -4,7 +4,7 @@ import MyStack from "./navigation";
 // 	// Muliple Choice
 //   ,{
 //     "type": "multi",
-//     "ref": "Refer to Origin of BOM",
+//     "ref": "",
 //     "question": "",
 //     "answer": "Mormon",
 //     "incorrect_answers": ["Joseph", "Moroni"]
@@ -12,17 +12,20 @@ import MyStack from "./navigation";
 // 	// True or False
 //   ,{
 //     "type": "bool",
-//     "ref": "Refer to Origin of BOM",
+//     "ref": "",
 //     "question": "",
 //     "answer": "t"
 //   },
 //   	// Fill in the Blank
 // 	 ,{
 //     "type": "fill",
-//     "ref": "Refer to Origin of BOM",
+//     "ref": "",
 //     "question": "",
-//     "answer": "Israel"
-//   },
+//     "answer": ""
+// },
+
+// //  Empty
+//  , { }
 
 export default function App() {
   return (
