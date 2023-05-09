@@ -14,14 +14,20 @@ const rootStyles = StyleSheet.create({
   wideButton: {
     backgroundColor: "#004A8F",
     padding: 12,
-    paddingHorizontal: 16,
+    paddingHorizontal: 40,
     borderRadius: 40,
     alignItems: "center",
     marginVertical: 30,
+    display: "flex",
+    justifyContent: "space-between",
+    flexDirection: "row",
   },
   wideButtonText: {
     fontSize: 24,
-    color: "white",
+  },
+  percentageText: {
+    fontSize: 24,
+    color: "grey",
     fontWeight: "600",
   },
   primary: {

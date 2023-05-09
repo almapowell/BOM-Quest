@@ -12,20 +12,17 @@ import rootStyles from "../components/styles";
 
 const Sections = ({ navigation }) => {
   const bomSections = [
-    "1 Nephi",
-    "2 Nephi",
+    "First Nephi",
+    "Second Nephi",
     "Jacob",
     "Enos",
-    "Joam",
+    "Jarom",
     "Omni",
     "Words of Wisdom",
     "Mosiah",
     "Alma",
-    "Helaman",
-    "3 Nephi",
-    "4 Nephi",
-    "Ether",
-    "Mormon",
+    "Origin",
+    "Other",
   ];
 
   return (
@@ -35,15 +32,14 @@ const Sections = ({ navigation }) => {
         <ScrollView>
           {bomSections.map((s, index) => (
             <TouchableOpacity
-              onPress={() => navigation.navigate("Quest")}
-              style={[
-                rootStyles.wideButton,
-                { backgroundColor: "#FFC300", opacity: index === 0 ? 1 : 0.2 },
-              ]}
+              key={index}
+              onPress={() => navigation.navigate("List", { section: s })}
+              style={[rootStyles.wideButton, { backgroundColor: "#FFC300" }]}
             >
               <Text style={[rootStyles.wideButtonText, { color: "black" }]}>
                 {s}
               </Text>
+              <Text style={rootStyles.percentageText}>0%</Text>
             </TouchableOpacity>
           ))}
         </ScrollView>
@@ -56,7 +52,7 @@ export default Sections;
 
 const styles = StyleSheet.create({
   container: {
-    paddingTop: 40,
+    paddingVertical: 80,
     paddingHorizontal: 16,
     height: "100%",
   },

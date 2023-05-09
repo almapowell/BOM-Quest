@@ -80,7 +80,7 @@ const Quest = ({ navigation }) => {
 export default Quest;
 const styles = StyleSheet.create({
   container: {
-    paddingTop: 30,
+    paddingVertical: 80,
     paddingHorizontal: 16,
     height: "100%",
   },
