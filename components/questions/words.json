@@ -1,0 +1,354 @@
+[
+  {
+    "id": "1826",
+    "type": "fill",
+    "ref": "Words of Mormon",
+    "question": "The Words of Mormon is an abridgment of the plates by whom?",
+    "answer": ["Mormon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1827",
+    "type": "bool",
+    "ref": "Words of Mormon",
+    "question": "There is only one chapter written in the Words of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1828",
+    "type": "bool",
+    "ref": "Words of Mormon",
+    "question": "There are only eighteen verses in the Words of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1829",
+    "type": "fill",
+    "ref": "Words of Mormon1:1",
+    "question": "In the beginning of the Words of Mormon; Mormon is about to deliver the plates to his son_____.",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1830",
+    "type": "fill",
+    "ref": "Words of Mormon1:1",
+    "question": "Who wrote in the Words of Mormon; that he has witnessed almost all the destruction of his people the Nephites?",
+    "answer": ["Mormon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1831",
+    "type": "bool",
+    "ref": "Words of Mormon1:2",
+    "question": "When Mormon wrote the Words of Mormon; it had been many hundred years after the coming of Jesus Christ.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1832",
+    "type": "fill",
+    "ref": "Words of Mormon1:2",
+    "question": "Mormon wrote: That it supposes him that Moroni will witness the entire destruction of the_____.",
+    "answer": ["Nephites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1833",
+    "type": "bool",
+    "ref": "Words of Mormon1:2",
+    "question": "Mormon wrote: May God grant that Moroni may survive and write concerning his people and somewhat concerning Christ, that perhaps one day it may profit them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1834",
+    "type": "fill",
+    "ref": "Words of Mormon1:3",
+    "question": "Mormon made an abridgment from the plates of Nephi, down to the reign of King_____.",
+    "answer": ["Benjamin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1835",
+    "type": "bool",
+    "ref": "Words of Mormon1:3",
+    "question": "Mormon searched among the records which had been delivered into his hands which conta1ned a small account of the prophets.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1836",
+    "type": "fill",
+    "ref": "Words of Mormon1:3",
+    "question": "When Mormon searched among the records he found that they gave an account of the prophets, from Jacob down to King Benjamin, and also many of the words of_____.",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1837",
+    "type": "bool",
+    "ref": "Words of Mormon1:4",
+    "question": "The things which Mormon found on the plates were pleasing unto him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1839",
+    "type": "bool",
+    "ref": "Words of Mormon1:4",
+    "question": "Mormon wrote that he knew that many things as have been prophesied concerning them down to his day have been fulfilled",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1840",
+    "type": "fill",
+    "ref": "Words of Mormon1:4",
+    "question": "Mormon also wrote that he knew as many prophesies as going beyond his day must surely come to_____.",
+    "answer": ["Pass"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1841",
+    "type": "bool",
+    "ref": "Words of Mormon1:5",
+    "question": "Mormon wrote to us and said that he could not write a hundredth part of the things of the people of Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1842",
+    "type": "bool",
+    "ref": "Words of Mormon1:6",
+    "question": "Mormon took the plates which conta1ned the Prophesies and revelations of the Nephites and put them with the remainder of his record.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1843",
+    "type": "bool",
+    "ref": "Words of Mormon1:6",
+    "question": "Mormon said that his record was choice unto him, and knew that it would be choice unto his brethren and a later date.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1844",
+    "type": "bool",
+    "ref": "Words of Mormon1:7",
+    "question": "Mormon wrote the things on his record because it was a wise purpose in him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1845",
+    "type": "fill",
+    "ref": "Words of Mormon1:7",
+    "question": "According to the workings of the Spirit of the_____, it whispered to Mormon to write the things he did in his record.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1847",
+    "type": "bool",
+    "ref": "Words of Mormon1:7",
+    "question": "Mormon knew all things and things which are to come.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1846",
+    "type": "fill",
+    "ref": "Words of Mormon1:7",
+    "question": "Mormon confessed that he did not know all things but that the_____ knows all things and all things which are to come.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1850",
+    "type": "fill",
+    "ref": "Words of Mormon1:9",
+    "question": "Mormon proceeded to finish his record which he took from the Plates of_____.",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1852",
+    "type": "bool",
+    "ref": "Words of Mormon1:9",
+    "question": "Mormon proceeding with the record and made it according to the knowledge and the understanding; which God had given unto him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1854",
+    "type": "bool",
+    "ref": "Words of Mormon1:10",
+    "question": "Amaleki delivered the plates of Nephi; and also other records which had been handed down by the kings and delivered them into the hands of King Benjamin.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1855",
+    "type": "fill",
+    "ref": "Words of Mormon1:11",
+    "question": "The records were handed down from King Benjamin, from generation to generation until they had fallen into the hands of_____.",
+    "answer": ["Mormom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1856",
+    "type": "bool",
+    "ref": "Words of Mormon1:11",
+    "question": "Mormon prayed to God that the records would be preserved from his time henceforth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1857",
+    "type": "bool",
+    "ref": "Words of Mormon1:11",
+    "question": "Mormon knew and testified that the records would be preserved because they had great things written upon them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1859",
+    "type": "bool",
+    "ref": "Words of Mormon1:11",
+    "question": "The words of God are not written on the plates of Nephi or in the record of Mormon.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1860",
+    "type": "bool",
+    "ref": "Words of Mormon1:12",
+    "question": "Mormon wrote that King Benjamin had somewhat contentions among his people.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1861",
+    "type": "fill",
+    "ref": "Words of Mormon1:13",
+    "question": "And it came to pass that the armies of the_____ came down to battle to the land of Nephi against King Benjamin and his people.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1862",
+    "type": "fill",
+    "ref": "Words of Mormon1:13",
+    "question": "King Benjamin withstood the armies of the Lamanites with his own strength of his arm, and with the sword of_____.",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1863",
+    "type": "fill",
+    "ref": "Words of Mormon1:13",
+    "question": "What is the name of the sword that King Benjamin wielded in battle against the Lamanites?  Sword of",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1864",
+    "type": "fill",
+    "ref": "Words or Mormon1:14",
+    "question": "With whose strength did King Benjamin and his people contend with against the Lamanites?  The",
+    "answer": ["Lord’s"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1865",
+    "type": "bool",
+    "ref": "Words of Mormon1:14",
+    "question": "Because King Benjamin and his people had the strength of the Lord on their side, they were able to drive out the Lamanites out of the lands of their inheritance.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1866",
+    "type": "bool",
+    "ref": "Words or Mormon1:15",
+    "question": "During the time of King Benjamin, it came to pass that after there had been false Christs, and their mouths had been shut, they were punished for their crimes.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1867",
+    "type": "fill",
+    "ref": "Words or Mormon1:16",
+    "question": "During the time of King Benjamin; there had been false_____, and false preachers, and false teachers.",
+    "answer": ["Prophets"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1868",
+    "type": "bool",
+    "ref": "Words of Mormon1:16",
+    "question": "During the time of King Benjamin; there had been false prophets, preachers, and teachers among the people and were punished for their crimes.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1869",
+    "type": "bool",
+    "ref": "Words of Mormon1:16",
+    "question": "King Benjamin had much contention and dissensions among his people and many went away into the Lamanites during his reign.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1870",
+    "type": "bool",
+    "ref": "Words of Mormon1:16",
+    "question": "There were holy prophets among King Benjamin and his people.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1871",
+    "type": "bool",
+    "ref": "Words of Mormon1:17",
+    "question": "Mormon wrote that King Benjamin was not a holy man, and reigned in unrighteousness.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1872",
+    "type": "fill",
+    "ref": "Words of Mormon1:17",
+    "question": "Mormon wrote that King Benjamin was a holy man and reigned in_____.",
+    "answer": ["Righteousness"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1874",
+    "type": "fill",
+    "ref": "Words of Mormon1:17",
+    "question": "The holy men spoke with power and authority of God to the people of King Benjamin and used much sharpness because of the_____ of the people.",
+    "answer": ["Stiffneckedness"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1875",
+    "type": "fill",
+    "ref": "Words of Mormon1:18",
+    "question": "King Benjamin labored with all the might of his body and the faculty of his whole_____, to once establish peace in the land.",
+    "answer": ["Soul"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1876",
+    "type": "bool",
+    "ref": "Words or Mormon1:18",
+    "question": "With the help of the holy men, and by using all his might and the faculty of his whole soul, King Benjamin was able to establish peace once again in the land.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  }
+]

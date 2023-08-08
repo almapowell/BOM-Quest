@@ -14,7 +14,8 @@ const rootStyles = StyleSheet.create({
   wideButton: {
     backgroundColor: "#004A8F",
     padding: 12,
-    paddingHorizontal: 40,
+    paddingLeft: 40,
+    paddingRight: 20,
     borderRadius: 40,
     alignItems: "center",
     marginVertical: 30,
@@ -27,8 +28,8 @@ const rootStyles = StyleSheet.create({
   },
   percentageText: {
     fontSize: 24,
-    color: "grey",
-    fontWeight: "600",
+    fontWeight: "500",
+    marginRight: 20,
   },
   primary: {
     backgroundColor: "#004A8F",

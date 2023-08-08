@@ -1,0 +1,818 @@
+[
+  {
+    "id": "29",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "On the night of September 21, 1823, who appeared to Joseph Smith Junior ____?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "30",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "When Moroni first appeared to Joseph Smith he referred to him as a personage.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "31",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "When Joseph sought the Lord in fervent prayer, he discovered a_____ appearing in his room.",
+    "answer": ["light"],
+    "options": ["fill"]
+  },
+  {
+    "id": "32",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The light that appeared to Joseph, was lighter than noon-day.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "33",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The personage that appeared to Joseph Smith was ____, and he was standing in the air.",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "34",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "When Moroni appeared to Joseph Smith, he was standing in the air.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "35",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni’s robe was of the most exquisite ____.",
+    "answer": ["whiteness"],
+    "options": ["Color", "Whiteness", "Design"]
+  },
+  {
+    "id": "36",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith writes: That he believed that anything earthly could be made to appear so exceedingly white or brilliant.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "37",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith said that he could see Moroni’s hands were naked and his arms also, a little above the wrists.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "38",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni’s ____ and neck were also bare, when he appeared to Joseph Smith.",
+    "answer": ["Head"],
+    "options": ["fill"]
+  },
+  {
+    "id": "39",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith could see that Moroni was wearing clothing that is worn by worthy temple workers.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "40",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Because Moroni’s head and neck were bare, Joseph Smith could see into Moroni’s ____.",
+    "answer": ["bosom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "41",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Not only was Moroni’s robe exceedingly white, his whole person was glorious beyond description.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "42",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith states that ____ countenance was truly like lightning.",
+    "answer": ["moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "43",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni’s countenance was truly like lightning, when he appeared to Joseph Smith.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "44",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The light that surrounded ____ was brighter than the light of the room.",
+    "answer": ["moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "45",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "When Joseph Smith first saw Moroni, he was afraid.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "46",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Who was afraid of Moroni, when he first appeared in his room?",
+    "answer": ["Joseph Smith"],
+    "options": ["fill"]
+  },
+  {
+    "id": "47",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "It took a very long time for Joseph Smith to get over of being afraid of Moroni.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "48",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "At first, Joseph Smith was afraid of Moroni, but soon the ____ left him.",
+    "answer": ["Fear"],
+    "options": ["Fear", "Sadness", "Glory"]
+  },
+  {
+    "id": "49",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger called Joseph Smith by name.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "50",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger told Joseph Smith, that his name would be had for good and ____.",
+    "answer": ["evil"],
+    "options": ["fill"]
+  },
+  {
+    "id": "51",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger to Joseph that all nation’s, kindreds, and ____, would speak evil of his name.",
+    "answer": ["tongues"],
+    "options": ["fill"]
+  },
+  {
+    "id": "52",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger to Joseph that all nation’s, kindreds, and tongues would speak evil of his name.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "53",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni said that there was a_____ deposited in the ground, written upon gold plates.",
+    "answer": ["Book"],
+    "options": ["Manuscript", "Book", "Tablet"]
+  },
+  {
+    "id": "54",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "The book that was deposited in the ground was written on what type of metal?",
+    "answer": ["Gold"],
+    "options": ["Silver", "Brass", "Gold"]
+  },
+  {
+    "id": "55",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "The book gave an account of the former ____ of the cont1nent.",
+    "answer": ["Inhabitants"],
+    "options": ["Inhabitants", "Dinosaurs", "Birds"]
+  },
+  {
+    "id": "57",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The book gives an account of the former inhabitants of this cont1nent, and the source from whence they sprang.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "58",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The ____ of the everlasting Gospel was conta1ned in the book; that was deposited in the earth.",
+    "answer": ["fulness"],
+    "options": ["fill"]
+  },
+  {
+    "id": "59",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The fulness of the everlasting Gospel is conta1ned in the Book.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "60",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The fulness of the everlasting Gospel was delivered by the ____, to the former ancient inhabitants.",
+    "answer": ["savior", "lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "61",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "What shade of color were the two stones in the bow?",
+    "answer": ["Silver"],
+    "options": ["Metallic", "Gold", "Silver"]
+  },
+  {
+    "id": "62",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The two stones in silver bows were fastened to a breastplate.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "63",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Another name that is given to the two stones and breastplate is the ____.",
+    "answer": ["Urim and Thummim"],
+    "options": ["fill"]
+  },
+  {
+    "id": "64",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The Urim and Thummim is what constitutes the two stones and the breastplate.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "66",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The possession and the use of these stones were what constituted what word?",
+    "answer": ["Seers"],
+    "options": ["fill"]
+  },
+  {
+    "id": "67",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The Seers were not used in ancientformer times.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "68",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The Seers were madeprepared by whom?",
+    "answer": ["god", "lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "69",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The Seers were prepared by God; for the purpose of translating the book, of which is now known as the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "70",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "With the possession and use of the Seers, people cancould translate ancient writings.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "71",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Angel Moroni told Joseph Smith to show the plates to anyone that he pleased.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "72",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph was told not to show the plates to anyone, unless he was ____ to do so.",
+    "answer": ["Commanded"],
+    "options": ["fill"]
+  },
+  {
+    "id": "73",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph was commanded by Moroni, to show only the breastplate and not the Urim and Thummim.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "74",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Unless Joseph was commanded; Moroni said that he must not show the plates and Urim and Thummin to anyonehe would be destroyed.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "75",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "While Joseph was conversing with Moroni about the plates, he had a ____.",
+    "answer": ["Vision"],
+    "options": ["Vision", "Seizure", "Migra1ne Headache"]
+  },
+  {
+    "id": "76",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "In his vision, Joseph Smith could see the place where the plates were deposited.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "77",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The vision was so clear and distinct, that Joseph knew where the place was when he visited it.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "78",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "After the communication, Joseph saw the light in the room begin to gather around this person.",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "79",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Except around Moroni, the room began to get dark again.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "80",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "A conduit opened right up into ____, and Moroni ascended until he entirely disappeared.",
+    "answer": ["heaven"],
+    "options": ["fill"]
+  },
+  {
+    "id": "81",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph states and refers to the light in his room as being heavenly.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "82",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "After the messenger and the light left, Joseph fell asleep.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "83",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph lay in bed and was overwhelmed with astonishment at what he had both ____, and heard.",
+    "answer": ["seen"],
+    "options": ["fill"]
+  },
+  {
+    "id": "84",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The second time the messenger appeared to Joseph, he repeated the same words as the first time, without variation.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "85",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni told Joseph ____ would try to tempt him.",
+    "answer": ["satan"],
+    "options": ["fill"]
+  },
+  {
+    "id": "86",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni informed Joseph of great judgments which were coming upon the ____.",
+    "answer": ["Earth"],
+    "options": ["People", "Heavens", "Earth"]
+  },
+  {
+    "id": "87",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni said that great judgments were coming upon the earth such as; desolations by fam1ne, sword, and ____.",
+    "answer": ["Pestilence"],
+    "options": ["fill"]
+  },
+  {
+    "id": "88",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "At what time did Moroni say that the judgements were coming to the earth?",
+    "answer": ["This generation"],
+    "options": ["Noah's time", "This generation", "The generation to come"]
+  },
+  {
+    "id": "89",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph writes that he and his father’s family were indigent.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "90",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni told Joseph that he must have no other object in view in getting the plates but glorify ____.",
+    "answer": ["god"],
+    "options": ["fill"]
+  },
+  {
+    "id": "91",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni told Joseph Smith that he must not be influenced by any other motive than that of building the kingdom of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "92",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "How many times did the angel Moroni visit Joseph Smith in one single night?",
+    "answer": ["Three"],
+    "options": ["One", "Two", "Three"]
+  },
+  {
+    "id": "93",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Angel Moroni visited Joseph Smith three times in September of 1823.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "94",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "After Moroni’s third visit, as he ascended into heaven; What kind of fowl did Joseph hear crowed.",
+    "answer": ["Rooster"],
+    "options": ["Swan", "Rooster", "Turkey"]
+  },
+  {
+    "id": "95",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni left, and Joseph realized that their interviews must of have taken all night because the day had approach.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "96",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph attempted to work as other times, but found that his strength was ____.",
+    "answer": ["Exhausted"],
+    "options": ["Exhausted", "Gone", "Stronger"]
+  },
+  {
+    "id": "97",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Because of his exhausted strength, Joseph’s father told him to go home.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "98",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "While attempting to cross the _____ out of the field, Joseph's strength left him and he fell to the ground.",
+    "answer": ["Fence"],
+    "options": ["River", "Highway", "Fence"]
+  },
+  {
+    "id": "99",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph fell to the ground and was unconscious for three days.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "100",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "In the Origin of the Book of Mormon: It does not sayhow long Joseph exactly lay unconscious.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "101",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Who appeared to Joseph Smith when he arose from his unconsciousness?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "102",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph was ____ by Moroni to tell his father, of the vision and commandments he had received.",
+    "answer": ["Commanded"],
+    "options": ["Told", "Exhorted", "Commanded"]
+  },
+  {
+    "id": "103",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph obeyed Moroni, and returned to his father in the field, and rehearsed the whole matter to him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "104",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph left out some important details, when he rehearsed the story to his father.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "105",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph’s father told him to go to the place where the Messenger had told him to go.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "106",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph new the place where the plates were deposited because of the dream that he had.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "107",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Because of his_____, Joseph knew the place where the plates were buried.",
+    "answer": ["Vision"],
+    "options": ["Hindsight", "Vision", "Foresight"]
+  },
+  {
+    "id": "108",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The hill where the plates were deposited was more elevated than the other surrounding hills.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "109",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Convenient to what village is the Hill Cumorah located?",
+    "answer": ["Manchester"],
+    "options": ["fill"]
+  },
+  {
+    "id": "110",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "What person is represented by statue, atop the Hill Cumorah?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "111",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith tells us the plates were hidden under a considerable size stone and facing what direction?",
+    "answer": ["West"],
+    "options": ["North", "South", "West"]
+  },
+  {
+    "id": "112",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "When Joseph Smith removed the earth that was fixed under the stone, he had a difficult time.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "113",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "When Joseph Smith looked into the stone box; it conta1ned the plates, the ____, and the breastplate.",
+    "answer": ["Urim and Thummim"],
+    "options": ["fill"]
+  },
+  {
+    "id": "114",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith made an attempt to get the things out of the box, but was forbidden by whom?",
+    "answer": ["messanger", "moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "115",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger told Joseph Smith that the time had not come yet to get the things out of the box.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "116",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "How many years would pass before Joseph Smith could get the things out of the box?",
+    "answer": ["Four"],
+    "options": ["Two", "Three", "Four"]
+  },
+  {
+    "id": "117",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Moroni told Joseph Smith to come precisely one year from the time that he first saw him and that he would meet with him again.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "118",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith did as he was ____, and he went at the end of each year and at each time, he found the same messenger there waiting for him.",
+    "answer": ["Commanded"],
+    "options": ["Forbidden", "Commanded", "Instructed"]
+  },
+  {
+    "id": "119",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith received instructions and ____, from the messenger, at each of their interviews.",
+    "answer": ["Intelligence"],
+    "options": ["Gold", "Money", "Intelligence"]
+  },
+  {
+    "id": "120",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger told Joseph what the Lord was going to do, and how and what manner His kingdom was to be conducted in the last days.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "121",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger delivered the plates to Joseph and told him that he was to be responsible for them and if he would let them go carelessly, he would not be cut off.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "122",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "The messenger told Joseph that he should use all of his endeavors to preserve the ____.",
+    "answer": ["Plates"],
+    "options": ["Hill Cumorah", "Plates", "House of his Father"]
+  },
+  {
+    "id": "123",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith was told by the messenger what would be required of him to do by his hand.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "124",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph was told by the messenger: That the ____ would be protected until he should call for them again.",
+    "answer": ["Plates"],
+    "options": ["fill"]
+  },
+  {
+    "id": "125",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "As soon as it was found out that he had the plates, multitudes of people were out to get them away from them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "126",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "Who do you think told people that Joseph Smith had a book written upon gold plates?",
+    "answer": ["adversary", "satan"],
+    "options": ["fill"]
+  },
+  {
+    "id": "127",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "Joseph Smith said that every_____ that could be invented was resorted to take away the plates from him.",
+    "answer": ["Stratagem"],
+    "options": ["Stratagem", "Device", "Intelligence"]
+  },
+  {
+    "id": "128",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "When the messenger called for the plates, Joseph Smith did not deliver them unto him until he was commanded.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "129",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "According to Joseph Smith, Who has the platesis in charge of them to this day?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "130",
+    "type": "fill",
+    "ref": "Origin of Book of Mormon",
+    "question": "The Book of Mormon was translated into modern speech by the gift and power of_____.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "131",
+    "type": "bool",
+    "ref": "Origin of Book of Mormon",
+    "question": "As attested by Div1ne affirmation, the ancient record has been brought forth from the earth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "132",
+    "type": "multi",
+    "ref": "Origin of Book of Mormon",
+    "question": "The Book of Mormon was first published to the world in what year of our Lord?",
+    "answer": ["1830"],
+    "options": ["1821", "1823", "1830"]
+  }
+]

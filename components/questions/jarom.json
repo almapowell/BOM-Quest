@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1687",
+    "type": "bool",
+    "ref": "Jar1:1",
+    "question": "Jarom wrote a few words according to the commandment of the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1688",
+    "type": "multi",
+    "ref": "Jar1:1",
+    "question": "Jarom wrote because of the commandment of his father that the_____ of the Nephites may be kept.",
+    "answer": ["Genealogy"],
+    "options": ["Genealogy", "Truth", "Records"]
+  },
+  {
+    "id": "1689",
+    "type": "bool",
+    "ref": "Jar1:2",
+    "question": "Jarom said that the plates he wrote on were small.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1690",
+    "type": "bool",
+    "ref": "Jarom1:2",
+    "question": "Jarom wrote very little and would not write of his prophesying neither of his revelations because the plates were small.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1691",
+    "type": "fill",
+    "ref": "Jar1:2",
+    "question": "Jarom wrote with the intent of the benefit of his brothers, the_____.",
+    "answer": ["Lamanites. "],
+    "options": ["fill"]
+  },
+  {
+    "id": "1692",
+    "type": "fill",
+    "ref": "Jar1:2",
+    "question": "Who said: “For what could I write more than my fathers have written? For have they not revealed the plan of salvation”?",
+    "answer": ["Jarom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1693",
+    "type": "bool",
+    "ref": "Jar1:2",
+    "question": "Because his fathers wrote concerning the plan of salvation, it suffices Jarom.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1694",
+    "type": "fill",
+    "ref": "Jar1:3",
+    "question": "Jarom wrote that it is expedient that much should be done among his people because of their hardness of their hearts, and the _____ of their ears, and the blindness of their minds.",
+    "answer": ["Deafness"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1695",
+    "type": "bool",
+    "ref": "Jar1:3",
+    "question": "Jarom wrote that the Lamanites had a stiffness of their necks.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1696",
+    "type": "fill",
+    "ref": "Jar1:3",
+    "question": "Jarom said that_____ is exceedingly merciful unto the Lamanites and has not yet swept them off from the land.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1697",
+    "type": "bool",
+    "ref": "Jar1:4",
+    "question": "In Jarom’s time, there were many Nephites who had revelations.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1698",
+    "type": "bool",
+    "ref": "Jar1:4",
+    "question": "Because the Nephites were not a stiffnecked people, many of them did not have revelations.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1699",
+    "type": "multi",
+    "ref": "Jar1:4",
+    "question": "Many Nephites were not stiffnecked and had faith and communion with the Holy_____.",
+    "answer": ["Spirit"],
+    "options": ["Spirit", "Ghost", "Grail"]
+  },
+  {
+    "id": "1700",
+    "type": "fill",
+    "ref": "Jar1:4",
+    "question": "According to our faith, what makes itself manifest to us?",
+    "answer": ["Spirit"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1701",
+    "type": "multi",
+    "ref": "Jar1:5",
+    "question": "How many years had passed away that the people of Nephi waxed strong in the land.",
+    "answer": ["200"],
+    "options": ["100", "200", "300"]
+  },
+  {
+    "id": "1702",
+    "type": "fill",
+    "ref": "Jar1:5",
+    "question": "The Nephites observed to keep the Law of_____, and the Sabbath day holy unto the Lord.",
+    "answer": ["Moses"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1703",
+    "type": "bool",
+    "ref": "Jar1:5",
+    "question": "Jarom said that the Nephites did not profane, neither did they blaspheme because the laws of the land were strict.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1704",
+    "type": "bool",
+    "ref": "Jar1:5",
+    "question": "During the time that Jarom lived, the laws of the land of the Nephites, were not very strict.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1705",
+    "type": "fill",
+    "ref": "Jar1:6",
+    "question": "The Lamanites and_____ were scattered all over the land, and the Lamanites were more numerous that the Nephites.",
+    "answer": ["Nephites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1706",
+    "type": "multi",
+    "ref": "Jar1:6",
+    "question": "The Lamanites loved murder, and would drink the blood of wild_____.",
+    "answer": ["Beasts"],
+    "options": ["Animals", "Beasts", "Pigs"]
+  },
+  {
+    "id": "1707",
+    "type": "bool",
+    "ref": "Jar1:7",
+    "question": "The Lamanites came many times to battle with the Nephites, but their kings and leader were mighty men in the faith of the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1708",
+    "type": "bool",
+    "ref": "Jar1:7",
+    "question": "The kings and leaders of the Nephites were not mighty men and did not teach them the ways of the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1709",
+    "type": "fill",
+    "ref": "Jar1:7",
+    "question": "The_____ swept away the Lamanites from their lands and cities and fortified whatsoever place of their inheritance.",
+    "answer": ["Nephites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1710",
+    "type": "fill",
+    "ref": "Jar1:8",
+    "question": "The Nephites multiplied exceedingly, and became rich in gold, and in silver, and in precious_____.",
+    "answer": ["Things"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1711",
+    "type": "bool",
+    "ref": "Jar1:8",
+    "question": "The Nephites were also skilled in f1ne workmanship of wood, in buildings, and in mach1nery.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1712",
+    "type": "fill",
+    "ref": "Jar1:8",
+    "question": "The Nephites made all manner of tools of every kind to till the ground, and weapons of_____.",
+    "answer": ["War"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1713",
+    "type": "bool",
+    "ref": "Jar1:8",
+    "question": "The Nephites also made sharp pointed arrows, and the quiver, and the dart.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1714",
+    "type": "bool",
+    "ref": "Jar1:8",
+    "question": "The people of Jarom were also skilled in the manner of the preparations of wars.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1715",
+    "type": "bool",
+    "ref": "Jar1:8",
+    "question": "During the time that Jarom lived, there were no such things as javelins.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1716",
+    "type": "fill",
+    "ref": "Jar1:9",
+    "question": "Because of the preparations of war, the _____ did not prosper against the Nephites.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1717",
+    "type": "fill",
+    "ref": "Jar1:9",
+    "question": "The words of the Lord were verified which he spoke unto our fathers saying that: “In as much as ye will keep my commandments ye shall_____ in the land”.",
+    "answer": ["Prosper"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1718",
+    "type": "multi",
+    "ref": "Jar1:10",
+    "question": "And it came to pass that the_____ of the Lord did threaten the people of Nephi, according to the word of God.",
+    "answer": ["Prophets"],
+    "options": ["Prophets", "Kings", "Leaders"]
+  },
+  {
+    "id": "1719",
+    "type": "bool",
+    "ref": "Jar1:10",
+    "question": "The prophets of the Lord told the people of Nephi that if they did not keep the commandments of the Lord and fall into transgression, they would be destroyed off from the face of the land.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1720",
+    "type": "fill",
+    "ref": "Jar1:11",
+    "question": "Wherefore, the prophets, and the priests, and the_____, did labor diligently, exhorting with all long-suffering the people to diligence.",
+    "answer": ["Teachers"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1721",
+    "type": "fill",
+    "ref": "Jar1:11",
+    "question": "What law did the prophets, and the priests, and the teachers teach the people?",
+    "answer": ["Law", "Moses"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1722",
+    "type": "bool",
+    "ref": "Jar1:11",
+    "question": "The prophets taught the Law of Moses and the intent for which it was given.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1723",
+    "type": "fill",
+    "ref": "Jar1:11",
+    "question": "The priests and teachers tried to persuade the Nephites to look forward unto the coming of the_____, and believe in him to come through he already was.",
+    "answer": ["Messiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1724",
+    "type": "multi",
+    "ref": "Jar1:11",
+    "question": "The prophets, teachers, and priests did_____ their hearts with the word, continually stirring them unto repentance.",
+    "answer": ["Prick"],
+    "options": ["Uplift", "Prick", "Stab"]
+  },
+  {
+    "id": "1725",
+    "type": "bool",
+    "ref": "Jar1:11",
+    "question": "The prophets, teachers, and priest did not prick the hearts of the people with the word, continually stirring them unto repentance.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1726",
+    "type": "bool",
+    "ref": "Jar1:14",
+    "question": "Jarom mentioned two sets of plates; large and small.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1727",
+    "type": "bool",
+    "ref": "Jar1:14",
+    "question": "Jarom told us to refer to the other plates of Nephi; upon them the records of their wars are engraved.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1728",
+    "type": "bool",
+    "ref": "Jar1:14",
+    "question": "According to the writings of the kings, they did not cause that a record be written of their wars.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1729",
+    "type": "fill",
+    "ref": "Jar1:15",
+    "question": "Jarom delivered the small plates into the hands of his son_____.",
+    "answer": ["Omni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1730",
+    "type": "bool",
+    "ref": "Jar1:15",
+    "question": "Jarom’s fathers did not give him a commandment to keep a record.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1732",
+    "type": "bool",
+    "ref": "Jar1:15 & Words of Mormon1:18",
+    "question": "Omni is the second to the last historian to write the least verses in the Book of Mormon.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  }
+]

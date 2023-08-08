@@ -1,28 +1,33 @@
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React, { useState } from "react";
-import questions from "../components/questions/questions.json";
 import Options from "./types/options";
 
-const Quest = ({ navigation }) => {
-  const [questionCount, setQuestionCount] = useState(0);
+const Question = ({ navigation, route }) => {
+  const { questions, question, questionPosition, section } = route.params;
+  const [currentQuestion, setCurrentQuestion] = useState(question);
+  const [questionCount, setQuestionCount] = useState(questionPosition);
 
-  const handleNextPress = (value) => {
-    setQuestionCount((prev) => prev + value);
+  const handleNextPress = () => {
+    setCurrentQuestion(questions[questionCount]);
+    setQuestionCount((prevState) => prevState + 1);
   };
 
-  const handlePreviousPress = (value) => {
-    setQuestionCount((prev) => prev - value);
+  const handlePreviousPress = () => {
+    setCurrentQuestion(questions[questionCount - 2]);
+    setQuestionCount((prevState) => prevState - 1);
   };
 
   return (
     <View style={styles.container}>
       <View style={styles.questionsParent}>
         <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-          <TouchableOpacity onPress={() => navigation.navigate("Sections")}>
+          <TouchableOpacity
+            onPress={() => navigation.navigate("List", { section: section })}
+          >
             <Text style={styles.questionCounter}>Back</Text>
           </TouchableOpacity>
           <Text style={styles.questionCounter}>
-            Question {questionCount + 1}
+            Question {questionCount}
             <Text style={{ fontWeight: "400", fontSize: 15 }}>
               /{questions.length}
             </Text>
@@ -30,16 +35,14 @@ const Quest = ({ navigation }) => {
         </View>
 
         <View style={styles.top}>
-          <Text style={styles.question}>
-            {questions[questionCount].question}
-          </Text>
+          <Text style={styles.question}>{currentQuestion.question}</Text>
         </View>
 
         {/* OPTIONS */}
-        <Options question={questions[questionCount]} />
+        <Options question={currentQuestion} section={section} />
         <View>
           <Text style={{ color: "white", textAlign: "center" }}>
-            {questions[questionCount].ref}
+            {currentQuestion.ref}
           </Text>
         </View>
 
@@ -51,9 +54,9 @@ const Quest = ({ navigation }) => {
               style={[
                 styles.bottomButtons,
                 { marginLeft: 5 },
-                questionCount === 0 && styles.disabled,
+                questionCount === 1 && styles.disabled,
               ]}
-              disabled={questionCount === 0}
+              disabled={questionCount === 1}
             >
               <Text style={styles.bottomButtonsText}>Previous</Text>
             </TouchableOpacity>
@@ -64,9 +67,9 @@ const Quest = ({ navigation }) => {
               style={[
                 styles.bottomButtons,
                 { marginRight: 5 },
-                questionCount + 1 === questions.length && styles.disabled,
+                questionCount === questions.length && styles.disabled,
               ]}
-              disabled={questionCount + 1 === questions.length}
+              disabled={questionCount === questions.length}
             >
               <Text style={styles.bottomButtonsText}>Next</Text>
             </TouchableOpacity>
@@ -77,7 +80,7 @@ const Quest = ({ navigation }) => {
   );
 };
 
-export default Quest;
+export default Question;
 const styles = StyleSheet.create({
   container: {
     paddingVertical: 80,

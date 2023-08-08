@@ -9,21 +9,45 @@ import {
 import React from "react";
 import Title from "../components/title";
 import rootStyles from "../components/styles";
+import Chevron from "../components/chevron";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const Sections = ({ navigation }) => {
-  const bomSections = [
-    "First Nephi",
-    "Second Nephi",
-    "Jacob",
-    "Enos",
-    "Jarom",
-    "Omni",
-    "Words of Wisdom",
-    "Mosiah",
-    "Alma",
-    "Origin",
-    "Other",
-  ];
+const bomSections = [
+  { label: "First Nephi", value: "nephi1" },
+  { label: "Second Nephi", value: "nephi2" },
+  { label: "Jacob", value: "jacob" },
+  { label: "Enos", value: "enos" },
+  { label: "Jarom", value: "jarom" },
+  { label: "Omni", value: "omni" },
+  { label: "Words of Wisdom", value: "words" },
+  { label: "Mosiah", value: "mosiah" },
+  { label: "Alma", value: "alma" },
+  { label: "Origin", value: "origin" },
+  { label: "Other", value: "other" },
+];
+
+const Sections = ({ navigation, route }) => {
+  const [percentages, setPercentages] = React.useState([]);
+
+  const getPercentages = async () => {
+    try {
+      const jsonValue = await AsyncStorage.getItem("percentages");
+      setPercentages(jsonValue ? JSON.parse(jsonValue) : []);
+    } catch (e) {
+      // read error
+    }
+  };
+
+  const calculatePercentage = (fraction) => {
+    const first = fraction?.split("/")[0];
+    const second = fraction?.split("/")[1];
+    let wholeValue = ((first / second) * 100).toFixed();
+    return wholeValue + "%";
+  };
+
+  React.useEffect(() => {
+    getPercentages();
+  }, [route.params]);
 
   return (
     <View style={styles.container}>
@@ -37,9 +61,14 @@ const Sections = ({ navigation }) => {
               style={[rootStyles.wideButton, { backgroundColor: "#FFC300" }]}
             >
               <Text style={[rootStyles.wideButtonText, { color: "black" }]}>
-                {s}
+                {s.label}
               </Text>
-              <Text style={rootStyles.percentageText}>0%</Text>
+              <View style={styles.display}>
+                <Text style={rootStyles.percentageText}>
+                  {calculatePercentage(percentages[s.value])}
+                </Text>
+                <Chevron />
+              </View>
             </TouchableOpacity>
           ))}
         </ScrollView>
@@ -63,5 +92,11 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     alignItems: "center",
     marginBottom: 30,
+  },
+  display: {
+    display: "flex",
+    flexDirection: "row",
+    gap: 20,
+    alignItems: "center",
   },
 });

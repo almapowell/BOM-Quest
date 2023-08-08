@@ -1,0 +1,2458 @@
+[
+  {
+    "id": "1312",
+    "type": "multi",
+    "ref": "Jac1:1",
+    "question": "When the Book of Jacob begins; how many years had passed away since Lehi and his party left Jerusalem.",
+    "answer": ["55"],
+    "options": ["25", "55", "75"]
+  },
+  {
+    "id": "1313",
+    "type": "multi",
+    "ref": "Jac7:27",
+    "question": "How many chapters are there in the Book of Jacob?",
+    "answer": ["7"],
+    "options": ["5", "6", "7"]
+  },
+  {
+    "id": "1314",
+    "type": "bool",
+    "ref": "Jac1:1",
+    "question": "Jacob was commanded by the Lord to write the words which he wrote in what is now known to us as- the Book of Jacob.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1315",
+    "type": "multi",
+    "ref": "Jac1:1",
+    "question": "On what size of plates did Jacob write the things which he was commanded by Nephi?",
+    "answer": ["Small"],
+    "options": ["Large", "Small", "Very Small"]
+  },
+  {
+    "id": "1316",
+    "type": "multi",
+    "ref": "Jac1:2",
+    "question": "Jacob wrote upon the plates a _____ of the things which he considered to be most precious.",
+    "answer": ["Few"],
+    "options": ["A Lot", "Few", "Bunch"]
+  },
+  {
+    "id": "1317",
+    "type": "bool",
+    "ref": "Jac1:2",
+    "question": "Jacob was not to touch, save it were lightly, concerning the history of the people of Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1318",
+    "type": "bool",
+    "ref": "Jac1:3",
+    "question": "The history of Jacob’s people should be engraved on other plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1319",
+    "type": "bool",
+    "ref": "Jac1:3",
+    "question": "Jacob said that the history of his people would be engraved on more than one set of plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1320",
+    "type": "fill",
+    "ref": "Jac1:3",
+    "question": "Jacob was commanded by Nephi to preserve these plates and hand them down unto his seed, from generation to _____.",
+    "answer": ["Generation"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1321",
+    "type": "bool",
+    "ref": "Jac1:4",
+    "question": "Jacob was to engrave the heads of them upon the plates, if they were preaching which was sacred, or revelation which was great, or prophesying.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1322",
+    "type": "multi",
+    "ref": "Jac1:4",
+    "question": "Jacob was to touch or write upon the plates as much as it was possible, for ____ sake, and for the sake of his people.",
+    "answer": ["Christ’s"],
+    "options": ["His", "Christ’s", "The Devils"]
+  },
+  {
+    "id": "1323",
+    "type": "fill",
+    "ref": "Jac1:5",
+    "question": "Because of _____ and great anxiety, it truly had been made manifest unto Jacob’s people, what things should happen to them.",
+    "answer": ["Faith"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1324",
+    "type": "multi",
+    "ref": "Jac1:6",
+    "question": "Jacob and his people had many revelations, and the spirit of much _____.",
+    "answer": ["Prophecy"],
+    "options": ["Thinking", "Prophecy", "Foolishness"]
+  },
+  {
+    "id": "1325",
+    "type": "bool",
+    "ref": "Jac1:6",
+    "question": "Because of revelation and much prophecy, Jacob and his people knew of Jesus Christ; and his kingdom which should come.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1326",
+    "type": "fill",
+    "ref": "Jac:17",
+    "question": "Wherefore Jacob labored _____ among his people to persuade them to come to Christ and partake of his goodness.",
+    "answer": ["Diligently"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1327",
+    "type": "bool",
+    "ref": "Jac1:8",
+    "question": "Jacob wanted to persuade all men not to rebel against God, and provoke him to get angry.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1328",
+    "type": "bool",
+    "ref": "Jac1:8",
+    "question": "God does not get angry with the children of men.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1329",
+    "type": "bool",
+    "ref": "Jac1:9",
+    "question": "Jacob hoped that all men would believe in Christ, and view his death, and suffer his cross and bear the shame of the world.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1330",
+    "type": "multi",
+    "ref": "Jac1:9",
+    "question": "Jacob took it upon himself to fulfill the _____ of his brother Nephi.",
+    "answer": ["Commandment"],
+    "options": ["Commandment", "Words", "Record"]
+  },
+  {
+    "id": "1332",
+    "type": "bool",
+    "ref": "Jac1:9",
+    "question": "Nephi anointed a man to be a king and ruler of his people, according to the reigns of kings.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1333",
+    "type": "multi",
+    "ref": "Jac1:10",
+    "question": "The Nephites loved Nephi _____.",
+    "answer": ["Exceedingly"],
+    "options": ["Truly", "Exceedingly", "So And So"]
+  },
+  {
+    "id": "1334",
+    "type": "fill",
+    "ref": "Jac1:10",
+    "question": "Nephi had been a great protector of the Nephites and had wielded the sword of _____ in their defense.",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1335",
+    "type": "bool",
+    "ref": "Jac1:10",
+    "question": "Nephi did not labor very much in his days with the Nephites for their welfare.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1336",
+    "type": "bool",
+    "ref": "Jac1:11",
+    "question": "The Nephites wanted to honor and retain in remembrance his name, so whoever reigned in his stead was called 2nd Nephi, 3rd Nephi, and so forth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1337",
+    "type": "bool",
+    "ref": "Jac1:12",
+    "question": "When Nephi died, the words that were spoken during his funeral are written down for us to read and remember.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1338",
+    "type": "bool",
+    "ref": "Jac1:13",
+    "question": "There were many people during Jacob’s day and that put the suffix-ites, according to the name of their Leaders.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1339",
+    "type": "bool",
+    "ref": "Jac1:14",
+    "question": "Jacob would not distinguish some of the different tribes or people by their names of their leaders.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1340",
+    "type": "bool",
+    "ref": "Jac1:14",
+    "question": "Jacob said that those that were friendly toward the Nephites’, or the people of Nephi were Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1341",
+    "type": "bool",
+    "ref": "Jac1:14",
+    "question": "Jacob wrote that those that seeked to destroy the Nephites were called Lamanites, according to the reigns of the kings.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1342",
+    "type": "multi",
+    "ref": "Jac1:15",
+    "question": "In what reign of king did the Nephites begin to grow hard in their hearts, and indulge themselves somewhat in wicked practices.",
+    "answer": ["2nd"],
+    "options": ["2nd", "3rd", "4th"]
+  },
+  {
+    "id": "1343",
+    "type": "fill",
+    "ref": "Jac1:15",
+    "question": "Jacob compared the Nephites practices like of King David of old, desiring many wives and _____.",
+    "answer": ["Concub1nes"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1344",
+    "type": "fill",
+    "ref": "Jac1:15",
+    "question": "Jacob mentioned what son of King David of the bible in his writings.",
+    "answer": ["Solomon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1345",
+    "type": "bool",
+    "ref": "Jac1:16",
+    "question": "The Nephites began to search for much gold, and silver, and be lifted up somewhat in their pride.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1346",
+    "type": "fill",
+    "ref": "Jac1:17",
+    "question": "Jacob taught the Nephites the words that were taught to him in the _____ by the Lord.",
+    "answer": ["Temple"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1347",
+    "type": "fill",
+    "ref": "Jac1:18, 2Nep5:6",
+    "question": "Jacob and his younger brother _____ were consecrated priests and teachers by the hand of Nephi.",
+    "answer": ["Joseph"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1348",
+    "type": "bool",
+    "ref": "Jac1:19",
+    "question": "Jacob and Joseph did not magnify their offices or callings unto the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1349",
+    "type": "bool",
+    "ref": "Jac1:19",
+    "question": "Jacob and Joseph took upon the responsibility, answering the sins of the people upon their heads if they did not teach them the word of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1350",
+    "type": "bool",
+    "ref": "Jac1:19",
+    "question": "If Jacob and Joseph did not labor diligently, the blood of the Nephites would come upon their garments on judgment day.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1351",
+    "type": "bool",
+    "ref": "Jac1:19",
+    "question": "It is safe to assume that Jacob and Joseph will be found spotless at the last day.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1352",
+    "type": "bool",
+    "ref": "Jac2:2",
+    "question": "Jacob did not magnify his office with soberness as he ought to have had: As to rid his garments of the Nephites sins.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1353",
+    "type": "multi",
+    "ref": "Jac2:2",
+    "question": "Jacob declared the word of God unto the Nephites in a _____.",
+    "answer": ["Temple"],
+    "options": ["Church", "Temple", "Salt Box"]
+  },
+  {
+    "id": "1354",
+    "type": "fill",
+    "ref": "Jac2:3",
+    "question": "Jacob was weighed down with much desire and anxiety for the welfare of the Nephites _____.",
+    "answer": ["Souls"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1355",
+    "type": "bool",
+    "ref": "Jac2:5",
+    "question": "Jacob did not refer to Jesus Christ as the Creator.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1356",
+    "type": "bool",
+    "ref": "Jac2:5",
+    "question": "The Nephites were beginning to labor in sin, which appeared very abominable unto him and unto God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1357",
+    "type": "fill",
+    "ref": "Jac2:6",
+    "question": "Because of the sins of the Nephites- it grieved Jacob’s soul, and caused him to shrink before his _____.",
+    "answer": ["Maker"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1358",
+    "type": "bool",
+    "ref": "Jac2:6",
+    "question": "Jacob testified before his Maker, concerning the wickedness of the hearts of the Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1359",
+    "type": "fill",
+    "ref": "Jac2:7",
+    "question": "It grieved Jacob that he had to use so much boldness of speech concerning the Nephites, before their _____ and their children.",
+    "answer": ["Wives"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1360",
+    "type": "bool",
+    "ref": "Jac2:7",
+    "question": "The feelings of the Nephites wives and children were exceedingly tender and chaste and delicate before God, which thing is pleasing unto God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1361",
+    "type": "fill",
+    "ref": "Jac2:8",
+    "question": "The pleasing _____ or words of God could heal the wounded soul of the Nephites and can also be applied unto us.",
+    "answer": ["Word"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1362",
+    "type": "multi",
+    "ref": "Jac2:9",
+    "question": "Jacob was given a _____ commandment by God to admonish the Nephites according to their crimes and to enlarge the wounds of those who they have already wounded.",
+    "answer": ["Strict"],
+    "options": ["Strict", "Lesser", "Neither"]
+  },
+  {
+    "id": "1363",
+    "type": "bool",
+    "ref": "Jac2:9",
+    "question": "Jacob was told to say other words by God, instead of consoling and healing those that had been wounded.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1364",
+    "type": "multi",
+    "ref": "Jac2:9",
+    "question": "Jacob said that the Nephites had placed _____ to pierce their souls and wound their delicate minds in those that they had already wounded.",
+    "answer": ["Daggers"],
+    "options": ["Knives", "Daggers", "Swords"]
+  },
+  {
+    "id": "1365",
+    "type": "multi",
+    "ref": "Jac2:10",
+    "question": "Jacob was to tell his people concerning their wickedness, and _____, in the presence of the pure in heart, and the broken heart.",
+    "answer": ["Abominations"],
+    "options": ["Looks", "Doings", "Abominations"]
+  },
+  {
+    "id": "1366",
+    "type": "bool",
+    "ref": "Jac2:10",
+    "question": "According to Jacob, the Almighty God has a piercing eye and can see us in a glance.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1367",
+    "type": "fill",
+    "ref": "Jac2:11",
+    "question": "Jacob told the Nephites the truth according to the plainness of the word of _____.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1368",
+    "type": "bool",
+    "ref": "Jac2:11",
+    "question": "Jacob would never inquire of the Lord, and instead, relied upon his own wisdom and understanding.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1369",
+    "type": "fill",
+    "ref": "Jac1:11",
+    "question": "Jacob was told by the Lord to go up into the _____, and declare the word which I will give thee unto this people.",
+    "answer": ["Temple"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1370",
+    "type": "fill",
+    "ref": "Jac2:12",
+    "question": "Jacob said that the land of promise had _____, silver, and all manner of precious ores.",
+    "answer": ["Gold"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1371",
+    "type": "bool",
+    "ref": "Jac1:13",
+    "question": "Some of the Nephites had obta1ned more abundantly than their brethren, and were lifted up in the pride of their hearts.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1372",
+    "type": "fill",
+    "ref": "Jac2:13",
+    "question": "Some of the Nephites would wear stiff necks and high heads because of the costl1ness of their _____.",
+    "answer": ["Apparel"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1373",
+    "type": "bool",
+    "ref": "Jac2:13",
+    "question": "Jacob wrote that some of the Nephites would persecute their brethren because some had more worldly things than others.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1374",
+    "type": "fill",
+    "ref": "Jac2:14",
+    "question": "But he has condemned you, and if you persist in your evil ways his judgments must _____ come unto you.",
+    "answer": ["Speedily"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1375",
+    "type": "multi",
+    "ref": "Jac2:15",
+    "question": "Jacob wished the Lord would show the Nephites that he could pierce them with the glance of his eye and smite them to the _____!",
+    "answer": ["Dust"],
+    "options": ["Sky", "Kingdom Come", "Dust"]
+  },
+  {
+    "id": "1376",
+    "type": "fill",
+    "ref": "Jac2:16",
+    "question": "Jacob wanted his people to get rid of their iniquities and _____.",
+    "answer": ["Abominations"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1377",
+    "type": "multi",
+    "ref": "Jac2:16",
+    "question": "O that you would listen unto the word of his commands and not let this _____ of your hearts destroy your souls!",
+    "answer": ["Pride Or (b) Harlot"],
+    "options": ["Lust", "Pride Or (b) Harlot"]
+  },
+  {
+    "id": "1378",
+    "type": "bool",
+    "ref": "Jac2:17",
+    "question": "Jacob wanted his brethren to familiarize themselves to everyone else and to free themselves of their substance.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1379",
+    "type": "fill",
+    "ref": "Jac2:18",
+    "question": "But before ye seek for _____, seek ye; for the kingdom of God.",
+    "answer": ["Riches-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1380",
+    "type": "fill",
+    "ref": "Jac2:19",
+    "question": "And after you have obta1ned a _____ in Christ you shall obtain riches.",
+    "answer": ["Hope"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1381",
+    "type": "multi",
+    "ref": "Jac2:19",
+    "question": "After we obta1ned riches, we should clothe the naked, feed the hungry, and administer relief to the sick and the _____.",
+    "answer": ["Afflicted"],
+    "options": ["Poorest Of The Poor", "Afflicted", "Broken Heart"]
+  },
+  {
+    "id": "1382",
+    "type": "bool",
+    "ref": "Jac2:21",
+    "question": "The Lord esteems or thinks some people are better than others.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1383",
+    "type": "bool",
+    "ref": "Jac2:21",
+    "question": "The Lord told Jacob that all the flesh, are of the dust.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1384",
+    "type": "bool",
+    "ref": "Jac2:21",
+    "question": "The Lord did not create men to keep his commandments and glorify him forever.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1385",
+    "type": "bool",
+    "ref": "Jac2:22",
+    "question": "Jacob’s heart would rejoice exceedingly because of the things the Nephites were doing.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1386",
+    "type": "multi",
+    "ref": "Jac2:23",
+    "question": "The word of God burdens Jacob because he had to speak to the Nephites concerning their _____ crimes.",
+    "answer": ["Grosser"],
+    "options": ["Grosser", "Hateful", "War"]
+  },
+  {
+    "id": "1387",
+    "type": "fill",
+    "ref": "Jac2:23",
+    "question": "The Nephites began to _____ in iniquity; and they did not understand the scriptures, and they seeked to excuse themselves of committing whoredoms.",
+    "answer": ["Wax"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1388",
+    "type": "bool",
+    "ref": "Jac2:23",
+    "question": "Because of the things written about David, and Solomon his son, the Nephites did not understand the scriptures.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1389",
+    "type": "bool",
+    "ref": "Jac2:24",
+    "question": "Behold, David and Solomon truly had many wives and concub1nes, and it was an abominable thing before the sight of the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1390",
+    "type": "bool",
+    "ref": "Jac2:25",
+    "question": "The Lord did not lead the people out of Jerusalem, so that he could rise up a righteous branch out of the loins of Joseph.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1391",
+    "type": "bool",
+    "ref": "Jac2:26",
+    "question": "The Lord would not suffer that the Nephites would do the same things as those of ancient times.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1392",
+    "type": "multi",
+    "ref": "Jac2:27",
+    "question": "Jacob wanted the _____ to hearken unto the words of the Lord; and have one wife and no concub1nes.",
+    "answer": ["Nephites"],
+    "options": ["Lamanites", "Nephites", "Ishmaelites"]
+  },
+  {
+    "id": "1393",
+    "type": "fill",
+    "ref": "Jac2:28",
+    "question": "“For I, the Lord God, delight in the _____ of women”.",
+    "answer": ["Chastity"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1394",
+    "type": "multi",
+    "ref": "Jac2:28",
+    "question": "Whoredoms are an; _____ before me; thus saith the Lord of Host.",
+    "answer": ["Abomination"],
+    "options": ["Ugly", "Atrocity", "Abomination"]
+  },
+  {
+    "id": "1395",
+    "type": "bool",
+    "ref": "Jac2:29",
+    "question": "The Lord said that if the Nephites did not keep his commandments, he would curse the land for their sakes.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1396",
+    "type": "bool",
+    "ref": "Jac2:31",
+    "question": "The Lord did not see the sorrow, neither the mourning of the daughters of his people in the lands of Jerusalem and elsewhere.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1397",
+    "type": "bool",
+    "ref": "Jac2:32",
+    "question": "I will not suffer that the cries of the fair daughters of Jerusalem; shall come up unto me against the men of my people, saith the Lord of Hosts.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1398",
+    "type": "bool",
+    "ref": "Jac2:33",
+    "question": "The Lord said that the Nephites should lead away in captivity the daughters of his people because of their tenderness.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1399",
+    "type": "fill",
+    "ref": "Jac2:34",
+    "question": "And now behold, my brethren, ye know that these commandments were given to our father, _____.",
+    "answer": ["Lehi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1400",
+    "type": "fill",
+    "ref": "Jac2:35",
+    "question": "Jacob said that the Nephites had done greater iniquities than their brethren, the _____.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1401",
+    "type": "multi",
+    "ref": "Jac2:35",
+    "question": "The Nephites had broken the heart of their tender wives, and lost the confidence of their _____.",
+    "answer": ["Children"],
+    "options": ["Lord", "Children", "Horses"]
+  },
+  {
+    "id": "1402",
+    "type": "bool",
+    "ref": "Jac2:35",
+    "question": "Because of the bad example before their children, the soberness of their hearts ascended up to God against them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1403",
+    "type": "multi",
+    "ref": "Jac2:35",
+    "question": "Jacob wrote:  Because of the strictness of the word of God, many hearts of women died, pierced with deep _____.",
+    "answer": ["Wounds"],
+    "options": ["Wounds", "Daggers", "Swords"]
+  },
+  {
+    "id": "1404",
+    "type": "bool",
+    "ref": "Jac2:1-35",
+    "question": "Jacob taught humility and morality in chapter two, in his writings or book.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1405",
+    "type": "fill",
+    "ref": "Jac3:1",
+    "question": "Jacob said that he would speak to those that are pure in _____.",
+    "answer": ["Heart"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1406",
+    "type": "multi",
+    "ref": "Jac3:1",
+    "question": "Jacob said to look unto God with a firmness of _____, and pray unto him with exceeding faith.",
+    "answer": ["Mind"],
+    "options": ["Belief", "Mind", "Neither"]
+  },
+  {
+    "id": "1407",
+    "type": "bool",
+    "ref": "Jac3:1",
+    "question": "Jacob told the Nephites that if they would pray, God would plead their cause and send down justice upon those that seek to destroy them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1408",
+    "type": "multi",
+    "ref": "Jac3:2",
+    "question": "All you that are pure in heart; lift up your _____ and receive the pleasing word of God.",
+    "answer": ["Heads"],
+    "options": ["Heads", "Swords", "Arms"]
+  },
+  {
+    "id": "1409",
+    "type": "bool",
+    "ref": "Jac3:3",
+    "question": "Jacob said: “Woe, Woe, Woe, unto those that are pure in heart; that are filthy this day before God”.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1410",
+    "type": "fill",
+    "ref": "Jac3:3",
+    "question": "What tribe of people, are cursed with a sore cursing and shall scourge the Nephites even unto destruction?",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1411",
+    "type": "bool",
+    "ref": "Jac3:4",
+    "question": "And the time speedily comes that the Lord will lead away the righteous from among the Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1412",
+    "type": "fill",
+    "ref": "Jac3:5",
+    "question": "The Nephites hated the _____ because of their filth1ness and the cursing which had come upon their skin.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1413",
+    "type": "fill",
+    "ref": "Jac3:5",
+    "question": "At the time that Jacob wrote the words in chapter three of his book; the Lamanites were more righteous than the _____.",
+    "answer": ["Nephites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1414",
+    "type": "bool",
+    "ref": "Jac3:5",
+    "question": "The Lamanites were more righteous than the Nephites because they observed to keep the commandments of the Lord by having one wife and no concub1nes.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1415",
+    "type": "bool",
+    "ref": "Jac3:6",
+    "question": "The Lamanites or a seed of them will become a blessed people in the last days.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1416",
+    "type": "multi",
+    "ref": "Jac3:7",
+    "question": "Jacob wrote: Their husbands love their wives, and their wives love their husbands; and their husbands and their wives love their _____.",
+    "answer": ["Children"],
+    "options": ["Gold", "Platinum", "Children"]
+  },
+  {
+    "id": "1417",
+    "type": "bool",
+    "ref": "Jac3:7",
+    "question": "The Lamanites unbelief and hatred towards the Nephites was because the iniquity of their fathers.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1418",
+    "type": "bool",
+    "ref": "Jac3:7",
+    "question": "Jacob asked the Nephites:  How much better are you than they, in the sight of your great Creator?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1419",
+    "type": "bool",
+    "ref": "Jac3:8",
+    "question": "Jacob feared that the skin of the Lamanites would be whiter than that of the Nephites, when they would be brought with them before the throne of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1420",
+    "type": "bool",
+    "ref": "Jac3:8",
+    "question": "Jacob did never, mentioned God having a throne of any kind.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1421",
+    "type": "fill",
+    "ref": "Jac3:9",
+    "question": "Jacob reminded the Nephites to look upon their own filth1ness and to remember that the filth1ness of the_____ came because or their fathers.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1422",
+    "type": "bool",
+    "ref": "Jac3:10",
+    "question": "Jacob told the Nephites to remember their children and how much grief they had brought upon them, because of their bad examples.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1423",
+    "type": "bool",
+    "ref": "Jac3:10",
+    "question": "It was the Nephites strength and power that would bring their children unto destruction.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1424",
+    "type": "multi",
+    "ref": "Jac3:11",
+    "question": "O my brethren, hearken unto my word; arouse the _____ of your soul; shake yourselves that ye may awake from the slumber of death.",
+    "answer": ["Faculties"],
+    "options": ["Faculties", "Body", "Frame"]
+  },
+  {
+    "id": "1425",
+    "type": "bool",
+    "ref": "Jac3:11",
+    "question": "If we are to loose ourselves from the chains of hell, we will become angels of the devil.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1426",
+    "type": "fill",
+    "ref": "Jac3:11",
+    "question": "If we are cast into the lake of fire and brimstone, we will receive what is called a _____ death.",
+    "answer": ["Second"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1427",
+    "type": "bool",
+    "ref": "Jac3:11",
+    "question": "The lake of fire and brimstone is also called a second death by Jacob.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1428",
+    "type": "multi",
+    "ref": "Jac3:12",
+    "question": "Jacob spoke to the Nephites concerning _____ and lasciviousness, and every other kind of sin.",
+    "answer": ["Fornication"],
+    "options": ["Adultery", "Fornication", "Marriage"]
+  },
+  {
+    "id": "1429",
+    "type": "bool",
+    "ref": "Jac3:12",
+    "question": "Jacob did not tell the Nephites concerning their sins and the awful consequences of them.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1430",
+    "type": "multi",
+    "ref": "Jac3:13",
+    "question": "A _____ part of the proceedings of the Nephites cannot be written upon the plates that Jacob was talking about.",
+    "answer": ["Hundredth"],
+    "options": ["Thousand", "Hundredth", "Million"]
+  },
+  {
+    "id": "1431",
+    "type": "bool",
+    "ref": "Jac3:13",
+    "question": "Many of the proceedings of the Nephites are written on much smaller plates.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1432",
+    "type": "fill",
+    "ref": "Jac3:13",
+    "question": "The large plates of the Nephites contain their wars, and contentions, and the _____ of their kings.",
+    "answer": ["Reigns"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1433",
+    "type": "bool",
+    "ref": "Jac3:14",
+    "question": "The plates that contain the words of Jacob; are called the plates of Jacob.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1434",
+    "type": "fill",
+    "ref": "Jac3:14",
+    "question": "By whose hand were the plates of Jacob made?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1435",
+    "type": "multi",
+    "ref": "Jac3:14",
+    "question": "Jacob could not make his own plates because he _____.",
+    "answer": ["We Don’t Know Why"],
+    "options": ["Had Arthritis", "Did Not Know How", "We Don’t Know Why"]
+  },
+  {
+    "id": "1436",
+    "type": "bool",
+    "ref": "Jac4:1",
+    "question": "Jacob did not minister the words of Christ unto his people.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1437",
+    "type": "bool",
+    "ref": "Jac4:1",
+    "question": "Jacob could not write but a little of his words upon the plates because of the difficulty in engraving.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1438",
+    "type": "bool",
+    "ref": "Jac4:1",
+    "question": "Jacob knew nevertheless, that the things which he and Nephi wrote upon the plates would one day be erased or destroyed.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1439",
+    "type": "bool",
+    "ref": "Jac4:2",
+    "question": "Jacob wrote that he and Nephi could write on other things besides the plates and they would not perish or vanish.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1440",
+    "type": "bool",
+    "ref": "Jac4:2",
+    "question": "Because the Lord would protect their writings; Jacob knew that they could write upon plates of Brass.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1441",
+    "type": "bool",
+    "ref": "Jac4:2",
+    "question": "Jacob and Nephi wrote in order to give their children, and beloved brethren, a small degree of knowledge concerning them and their fathers.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1442",
+    "type": "multi",
+    "ref": "Jac4:3",
+    "question": "Nephi and Jacob labored diligently to engrave words on the plates in order that their children and their brethren, world receive them with thankful _____.",
+    "answer": ["Hearts"],
+    "options": ["Souls", "Hearts", "Neither"]
+  },
+  {
+    "id": "1443",
+    "type": "bool",
+    "ref": "Jac4:3",
+    "question": "Jacob and Nephi wanted their brethren to look upon the plates and learn with joy and not sorrow, neither with contempt, concerning their last parents.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1444",
+    "type": "fill",
+    "ref": "Jac4:4",
+    "question": "Nephi and Jacob wrote with the intent that their brethren would know that they knew of _____.",
+    "answer": ["Christ"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1445",
+    "type": "multi",
+    "ref": "Jac4:4",
+    "question": "Nephi and Jacob knew of Jesus Christ and had a hope of his glory a _____ years before his coming.",
+    "answer": ["100"],
+    "options": ["1,000", "200", "100"]
+  },
+  {
+    "id": "1446",
+    "type": "bool",
+    "ref": "Jac4:4",
+    "question": "The holy prophets also had a hope of Jesus Christ and his glory, even those that came before Nephi and Jacob and testified before his actual coming.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1447",
+    "type": "fill",
+    "ref": "Jac4:5",
+    "question": "The holy prophets believed in Christ and worshiped the _____ in his name, and also Jacob and Nephi worshiped the Father in his name.",
+    "answer": ["Father"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1448",
+    "type": "bool",
+    "ref": "Jac4:5",
+    "question": "The intent that Jacob and his people kept the Law of Moses; was that it would point their souls to the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1449",
+    "type": "bool",
+    "ref": "Jac4:5",
+    "question": "Jacob only mentioned Abraham the father of Isaac, once in the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1450",
+    "type": "fill",
+    "ref": "Jac4:5",
+    "question": "When Abraham offered Isaac unto God, it was a similitude of God and his Only_____ Son.",
+    "answer": ["Begotten"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1451",
+    "type": "bool",
+    "ref": "Jac4:6",
+    "question": "We search the prophets, and have the many revelations and the spirit of prophecy; we obtain a hope and our faith becomes unshaken.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1452",
+    "type": "fill",
+    "ref": "Jac4:6",
+    "question": "Jacob and Nephi wrote that they can command in the name of _____; and the very trees obey us, or the mountains, or the waves of the sea.",
+    "answer": ["Jesus"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1453",
+    "type": "bool",
+    "ref": "Jac4:7",
+    "question": "Jacob wrote: nevertheless, the Lord God shows us our weakness that we may know that it is by his grace and his great condescensions, that they have power to do these things.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1454",
+    "type": "bool",
+    "ref": "Jac4:8",
+    "question": "Jacob said that the Lord’s works were no big deal and not very marvelous.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1455",
+    "type": "bool",
+    "ref": "Jac4:8",
+    "question": "Jacob wrote that it is impossible for man to know all the mysterious and the ways of our Heavenly Father.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1456",
+    "type": "bool",
+    "ref": "Jac4:8",
+    "question": "And no man knows the ways of the Lord, except it be revealed unto him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1457",
+    "type": "multi",
+    "ref": "Jac4:8",
+    "question": "Jacob told his brethren not to despise the _____ of God.",
+    "answer": ["Revelations"],
+    "options": ["Things", "Revelations", "Glory"]
+  },
+  {
+    "id": "1458",
+    "type": "bool",
+    "ref": "Jac4:9",
+    "question": "Jacob wrote that by the power of God’s word, man came upon the face of the earth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1459",
+    "type": "multi",
+    "ref": "Jac4:10",
+    "question": "Jacob told his brethren to seek not to _____ the Lord, but to take counsel from his hand.",
+    "answer": ["Counsel"],
+    "options": ["Question", "Criticize", "Counsel"]
+  },
+  {
+    "id": "1460",
+    "type": "fill",
+    "ref": "Jac4:10",
+    "question": "God counsels in _____, and in justice, and in great mercy, over all his works.",
+    "answer": ["Wisdom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1461",
+    "type": "fill",
+    "ref": "Jac4:11",
+    "question": "Jacob told us to be _____ unto God through the atonement of Christ, his Only Begotten Son, and ye may obtain a resurrection.",
+    "answer": ["Reconciled"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1462",
+    "type": "bool",
+    "ref": "Jac4:12",
+    "question": "Jacob told his brethren to marvel at the things that he had spoken to them, and not to publicly speak of the atonement of Jesus Christ.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1463",
+    "type": "bool",
+    "ref": "Jac4:13",
+    "question": "According to Jacob, the Spirit speaks the truth and lies when it only benefits us.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1464",
+    "type": "bool",
+    "ref": "Jac4:13",
+    "question": "Wherefore, the Spirit speaks of things as they really are, and of things as they really will be, wherefore, these things are manifested plainly unto us.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1465",
+    "type": "bool",
+    "ref": "Jac4:13",
+    "question": "Jacob said that we ourselves, are the only witnesses to and of the things the Spirit tells us.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1466",
+    "type": "fill",
+    "ref": "Jac4:13",
+    "question": "God is also a witness to the things the Spirit witnesses to us and also are his _____.",
+    "answer": ["Prophets"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1467",
+    "type": "fill",
+    "ref": "Jac4:14",
+    "question": "But behold, the _____ were a stiffnecked people, and they despised the words of plainness.",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1468",
+    "type": "fill",
+    "ref": "Jac4:14",
+    "question": "Who killed the prophets, and sought for things they could not understand?",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1469",
+    "type": "multi",
+    "ref": "Jac4:14",
+    "question": "Wherefore because of their blindness, which blindness came by looking beyond the _____.",
+    "answer": ["Mark"],
+    "options": ["Truth", "Mark", "Point"]
+  },
+  {
+    "id": "1470",
+    "type": "bool",
+    "ref": "Jac4:14",
+    "question": "The Jews must fall, because they were looking beyond the mark.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1471",
+    "type": "multi",
+    "ref": "Jac4:14",
+    "question": "Why did God take away his plainness from the Jews, and delivered unto them many things which they could not understand?",
+    "answer": ["They Desired It"],
+    "options": ["They Deserved It", "They Desired It", "We Don’t Know"]
+  },
+  {
+    "id": "1472",
+    "type": "bool",
+    "ref": "Jac4:14",
+    "question": "The Jews stumbled because of the things they desired and the Lord has done it.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1473",
+    "type": "multi",
+    "ref": "Jac4:15",
+    "question": "Who led Jacob to prophesy of things to his brothers?",
+    "answer": ["The Spirit"],
+    "options": ["Nephi", "Lehi", "The Spirit"]
+  },
+  {
+    "id": "1474",
+    "type": "fill",
+    "ref": "Jac4:15",
+    "question": "Jacob prophesied that by the stumbling of the _____ they will reject the very stone upon which they might build and have a safe foundation.",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1475",
+    "type": "multi",
+    "ref": "Jac4:16",
+    "question": "According to the _____ this stone shall become the great, and the last, and the only foundation, upon which the Jews can build.",
+    "answer": ["Scriptures"],
+    "options": ["Scriptures", "Prophets", "The Koran"]
+  },
+  {
+    "id": "1476",
+    "type": "bool",
+    "ref": "Jac4:17 & Jac5:50-77",
+    "question": "Jacob said that it is possible for the Jews to build a foundation on the stone even after they have rejected it.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1477",
+    "type": "multi",
+    "ref": "Jac5:1",
+    "question": "What prophet of old did Jacob refer to in Chapter 5 concerning the allegory of the tame and wild olive tree?",
+    "answer": ["Zenos"],
+    "options": ["Zenock", "Zenos", "Zeniff"]
+  },
+  {
+    "id": "1479",
+    "type": "multi",
+    "ref": "Jac5:19",
+    "question": "In what part of the v1neyard did the Lord and the servant look to see if the natural branches of the tree which they had planted had brought forth much fruit.",
+    "answer": ["Nethermost"],
+    "options": ["Southernmost", "Nethermost", "Northernmost"]
+  },
+  {
+    "id": "1480",
+    "type": "bool",
+    "ref": "Jac5:2",
+    "question": "The nethermost part of the v1neyard was the poorest spot in all the land of the v1neyard.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1481",
+    "type": "bool",
+    "ref": "Jac5:21",
+    "question": "The Lord told the servant not to question him or counsel him on the spot that he had chosen for the tree.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1482",
+    "type": "bool",
+    "ref": "Jac5:22",
+    "question": "The Lord did not know that it was the poorest place in the v1neyard to plant the olive tree.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1483",
+    "type": "bool",
+    "ref": "Jac5:22",
+    "question": "Because the Lord had nourished the tree for a long time, it had brought much fruit.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1484",
+    "type": "bool",
+    "ref": "Jac5:49",
+    "question": "The Lord asked the servant what he could have done more for his v1neyard.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1485",
+    "type": "multi",
+    "ref": "Jac5:50",
+    "question": "The servant told the Lord of the v1neyard to do what to the tree to bring more good fruit.",
+    "answer": ["Spare It A Little Longer"],
+    "options": [
+      "Cut It And Start Again",
+      "Spare It A Little Longer",
+      "To Forget About It Because It Was Useless"
+    ]
+  },
+  {
+    "id": "1486",
+    "type": "multi",
+    "ref": "Jac5:59",
+    "question": "Why did the Lord of the v1neyard pluck the ripened branches from the tree?",
+    "answer": ["Hoped The Roots May Take Strength Because Of Their Goodness"],
+    "options": [
+      "Because They Smelled Bad",
+      "Hoped The Roots May Take Strength Because Of Their Goodness",
+      "We Don’t Know"
+    ]
+  },
+  {
+    "id": "1487",
+    "type": "bool",
+    "ref": "Jac5:59",
+    "question": "Because of the changes the Lord of the v1neyard had done to the branches of the olive tree; he hoped that good may overcome the evil.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1488",
+    "type": "fill",
+    "ref": "Jac5:61",
+    "question": "The Lord of the v1neyard told his servant go to, and call servants, that we may labor _____ with our might in the v1neyard.",
+    "answer": ["Diligently"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1489",
+    "type": "bool",
+    "ref": "Jac5:71",
+    "question": "If we labor with our might in the v1neyard of the Lord, he has said that we shall have joy in the fruit which he shall lay up unto himself.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1490",
+    "type": "multi",
+    "ref": "Jac5:74",
+    "question": "The natural fruit of the v1neyard of the Lord is the most _____ unto him from the beginning.",
+    "answer": ["Precious"],
+    "options": ["Desirable", "Precious", "Most Worthy"]
+  },
+  {
+    "id": "1491",
+    "type": "fill",
+    "ref": "Jac5:75",
+    "question": "Who was the Lord of the v1neyard referring to when he said “Blessed art thou; for because you have been diligent in laboring with me in the v1neyard”?",
+    "answer": ["Servants"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1492",
+    "type": "bool",
+    "ref": "Jac5:77",
+    "question": "There will come a time when the evil fruit shall come again into the v1neyard of the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1493",
+    "type": "fill",
+    "ref": "Jac5:77",
+    "question": "In the end; the Lord of the v1neyard will cause that both the good and the _____ fruit shall be gathered; and the good will he preserve unto himself.",
+    "answer": ["Bad-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1494",
+    "type": "multi",
+    "ref": "Jac5:77",
+    "question": "What will happen to the Lord’s v1neyard in the end?",
+    "answer": ["Be Burned With Fire"],
+    "options": [
+      "Be Burned With Fire",
+      "Will Become Flooded",
+      "Be Bombed By Jets"
+    ]
+  },
+  {
+    "id": "1495",
+    "type": "multi",
+    "ref": "Jac6:1",
+    "question": "In the allegory of the olive-tree, what prophet spoke concerning the house of Israel in which he likened them unto a tame olive-tree that must surely come to pass?",
+    "answer": ["Zenos"],
+    "options": ["Zenock", "Zenos", "Zeniff"]
+  },
+  {
+    "id": "1496",
+    "type": "multi",
+    "ref": "Jac6:2",
+    "question": "In the last time-Who shall go forth in his power to nourish and prune his v1neyard?",
+    "answer": ["His Servants"],
+    "options": ["Muslims", "His Servants", "Migrant Workers"]
+  },
+  {
+    "id": "1497",
+    "type": "bool",
+    "ref": "Jac6:2",
+    "question": "After his servants prune his v1neyard; the end soon comes.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1498",
+    "type": "bool",
+    "ref": "Jac6:3",
+    "question": "Those that have labored diligently in his v1neyard will not be blessed?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1499",
+    "type": "multi",
+    "ref": "Jac6:3",
+    "question": "_____ are they who shall be cast out into their own place!",
+    "answer": ["Cursed"],
+    "options": ["Damned", "Perish", "Cursed"]
+  },
+  {
+    "id": "1500",
+    "type": "bool",
+    "ref": "Jac6:2-3",
+    "question": "The world in the last day will be burned by fire.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1501",
+    "type": "multi",
+    "ref": "Jac6:4",
+    "question": "And how _____ is our God unto us, for he has remembered the house of Israel.",
+    "answer": ["Merciful"],
+    "options": ["Merciful", "Thoughtful", "Diligent"]
+  },
+  {
+    "id": "1502",
+    "type": "fill",
+    "ref": "Jac6:4",
+    "question": "The Lord our God has also remembered both _____ and branches of the house of Israel.",
+    "answer": ["Roots"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1503",
+    "type": "multi",
+    "ref": "Jac6:4",
+    "question": "God _____ forth his hand unto all his people all day long.",
+    "answer": ["Stretches"],
+    "options": ["Extends", "Stretches", "Gives"]
+  },
+  {
+    "id": "1504",
+    "type": "multi",
+    "ref": "Jac6:4",
+    "question": "Who did Jacob say were gainsaying and stiffnecked people?",
+    "answer": ["A And B"],
+    "options": ["Lamanites", "Those Of The House Of Israel", "A And B"]
+  },
+  {
+    "id": "1505",
+    "type": "bool",
+    "ref": "Jac6:4",
+    "question": "Those that harden their hearts shall be saved in the kingdom of God?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1506",
+    "type": "multi",
+    "ref": "Jac6:5",
+    "question": "Jacob beseech to us in words of soberness that we would _____.",
+    "answer": ["Repent"],
+    "options": ["Believe His Words", "Repent", "Not Go To Hell"]
+  },
+  {
+    "id": "1507",
+    "type": "bool",
+    "ref": "Jac6:5",
+    "question": "Jacob wants us to come with a full purpose of heart and cleave unto God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1508",
+    "type": "bool",
+    "ref": "Jac6:5",
+    "question": "Jacob said that God “cleaves” unto us.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1509",
+    "type": "multi",
+    "ref": "Jac6:5",
+    "question": "We should cleave unto our______ while we are in this mortal life",
+    "answer": ["God"],
+    "options": ["God", "Our Riches", "Our Faith"]
+  },
+  {
+    "id": "1510",
+    "type": "bool",
+    "ref": "Jac6:5",
+    "question": "We should not harden our hearts when the arm of mercy from the Lord is extended to us.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1511",
+    "type": "multi",
+    "ref": "Jac6:7",
+    "question": "Jacob said, “For behold, after you have been _____ by the good word of God all day long”.",
+    "answer": ["Nourished"],
+    "options": ["Bless", "Nourished", "Astonished"]
+  },
+  {
+    "id": "1512",
+    "type": "bool",
+    "ref": "Jac6:7",
+    "question": "If we bring forth evil fruit, we must be hewn down and cast into the fire.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1513",
+    "type": "bool",
+    "ref": "Jac6:9",
+    "question": "Jacob said the Nephites did not know that the power of the redemption and the resurrection, which is in Christ.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1514",
+    "type": "bool",
+    "ref": "Jac6:9",
+    "question": "According to the power of Justice, the power of the redemption and resurrection which is in Christ can be denied.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1515",
+    "type": "multi",
+    "ref": "Jac6:10",
+    "question": "Who or what has flames that are unquenchable?",
+    "answer": ["The Lake Of Fire And Brimstone"],
+    "options": ["The Lake Of Fire And Brimstone", "An Atomic Blast", "Neither"]
+  },
+  {
+    "id": "1516",
+    "type": "fill",
+    "ref": "Jac6:10",
+    "question": "What did Jacob say is another name for endless torment?",
+    "answer": ["brimstone"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1517",
+    "type": "multi",
+    "ref": "Jac6:11",
+    "question": "What gate did Jacob want us to enter?",
+    "answer": ["The Strait And Narrow"],
+    "options": [
+      "Pearly Gates",
+      "The Strait And Narrow",
+      "The Long And Winding Gate"
+    ]
+  },
+  {
+    "id": "1518",
+    "type": "bool",
+    "ref": "Jac6:11",
+    "question": "Jacob wanted us to enter the strait and narrow gate until we shall obtain eternal life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1519",
+    "type": "bool",
+    "ref": "Jac6:12",
+    "question": "In Jacob chapter six; Jacob said- “O be wise; what can I say more”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1520",
+    "type": "bool",
+    "ref": "Jac6:13",
+    "question": "Jacob bid us farewell until we shall meet him before the pleasing bar of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1521",
+    "type": "multi",
+    "ref": "Jac6:13",
+    "question": "What thing or bar “strikes the wicked with awful dread and fear”.",
+    "answer": ["Pleasing Bar Of God"],
+    "options": ["#10 Rebar", "Snickers Bar", "Pleasing Bar Of God"]
+  },
+  {
+    "id": "1522",
+    "type": "fill",
+    "ref": "Jac7:1",
+    "question": "Who is considered, by many Book of Mormon scholars; to be the first anti-Christ mentioned in the Book of Mormon?",
+    "answer": ["Sharem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1523",
+    "type": "multi",
+    "ref": "Jac7:1",
+    "question": "In the beginning of chapter 7 what did Sharem do or say to the people of Nephi?",
+    "answer": ["There Should Be No Christ"],
+    "options": [
+      "Christ Had Already Came",
+      "There Should Be No Christ",
+      "Jesus Is Not The Messiah"
+    ]
+  },
+  {
+    "id": "1524",
+    "type": "bool",
+    "ref": "Jac7:2",
+    "question": "Sharem did not flatter many Nephites with his flattering words.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1525",
+    "type": "multi",
+    "ref": "Jac7:2",
+    "question": "Sharem was trying to do what with his flattering words?",
+    "answer": ["Overthrow The Doctr1ne Of Christ"],
+    "options": [
+      "Say That God Loves All People",
+      "Say That He Was The Messiah",
+      "Overthrow The Doctr1ne Of Christ"
+    ]
+  },
+  {
+    "id": "1526",
+    "type": "bool",
+    "ref": "Jac7:3",
+    "question": "Sharem labor diligently that he might lead away the hearts of the people.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1527",
+    "type": "bool",
+    "ref": "Jac7:3",
+    "question": "Even though Shem used many flattering words; he did not lead away or astray many of the Nephites.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1528",
+    "type": "bool",
+    "ref": "Jac7:3",
+    "question": "Sharem did not know that Jacob had faith in Christ.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1529",
+    "type": "multi",
+    "ref": "Jac7:3",
+    "question": "In chapter #7; who did Jacob have faith in?",
+    "answer": ["In Christ"],
+    "options": ["His Own Wisdom", "In Christ", "The Words Of Plato"]
+  },
+  {
+    "id": "1530",
+    "type": "multi",
+    "ref": "Jac7:3",
+    "question": "Who sought much opportunity that he might come unto Jacob?",
+    "answer": ["Sharem"],
+    "options": ["Moroni", "Lehi", "Sharem"]
+  },
+  {
+    "id": "1531",
+    "type": "bool",
+    "ref": "Jac7:4",
+    "question": "Sharem was not very wise or learned individual?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1532",
+    "type": "multi",
+    "ref": "Jac7:4",
+    "question": "Sharem had a_____ knowledge of the language of the Nephites.",
+    "answer": ["Perfect"],
+    "options": ["So And So", "Perfect", "Better"]
+  },
+  {
+    "id": "1533",
+    "type": "multi",
+    "ref": "Jac7:4",
+    "question": "Because of Sharem’s knowledge of the language of the Nephites he used much _____.",
+    "answer": ["Flattery"],
+    "options": ["Flattery", "Wisdom", "Understanding"]
+  },
+  {
+    "id": "1534",
+    "type": "bool",
+    "ref": "Jac7:4",
+    "question": "Sharem had much power in his oratory or speech.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1535",
+    "type": "multi",
+    "ref": "Jac7:4",
+    "question": "Who gave Sharem the power of his speech?",
+    "answer": ["The Devil Or Satan"],
+    "options": ["Jesus Christ", "God", "The Devil Or Satan"]
+  },
+  {
+    "id": "1536",
+    "type": "multi",
+    "ref": "Jac7:5",
+    "question": "Sharem had hoped to shake Jacob of his _____.",
+    "answer": ["Faith"],
+    "options": ["Status", "Faith", "Wisdom"]
+  },
+  {
+    "id": "1537",
+    "type": "bool",
+    "ref": "Jac7:5",
+    "question": "Jacob had seen many revelations concerning the doctr1ne of Jesus Christ.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1538",
+    "type": "multi",
+    "ref": "Jac7:5",
+    "question": "What had Jacob seen that ministered unto him?",
+    "answer": ["Angels"],
+    "options": ["Demons", "Angels", "UFO’s"]
+  },
+  {
+    "id": "1539",
+    "type": "multi",
+    "ref": "Jac7:5",
+    "question": "Whose voice had Jacob heard from time to time?",
+    "answer": ["The Lord’s"],
+    "options": ["His Own", "The Lord’s", "Satan’s"]
+  },
+  {
+    "id": "1540",
+    "type": "bool",
+    "ref": "Jac7:5",
+    "question": "Because of the voice Jacob had heard; he could not be shaken from his faith, by the evil Sharem.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1541",
+    "type": "multi",
+    "ref": "Jac7:6",
+    "question": "When Sharem first saw Jacob; he called him",
+    "answer": ["Brother Jacob"],
+    "options": ["Hey Dude", "Brother Jacob", "Jacob"]
+  },
+  {
+    "id": "1542",
+    "type": "bool",
+    "ref": "Jac7:6",
+    "question": "Sharem had not sought much opportunity to speak with Jacob.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1543",
+    "type": "bool",
+    "ref": "Jac7:6",
+    "question": "Sharem accused Jacob of preaching the gospel or the doctr1ne of Christ?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1544",
+    "type": "multi",
+    "ref": "Jac7:7",
+    "question": "Sharem accused Jacob of leading away many of the Nephites unto perverting the right way of _____.",
+    "answer": ["God"],
+    "options": ["Satan", "God", "The World"]
+  },
+  {
+    "id": "1545",
+    "type": "multi",
+    "ref": "Jac7:7",
+    "question": "What law did Sharem say was the “right way”?",
+    "answer": ["Law Of Moses"],
+    "options": ["Law Of Physics", "Law Of Moses", "The Articles Of Faith"]
+  },
+  {
+    "id": "1546",
+    "type": "bool",
+    "ref": "Jac7:7",
+    "question": "Sharem said that Moses or the “Law of Moses” had already come to pass.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1547",
+    "type": "bool",
+    "ref": "Jac7:7",
+    "question": "Sharem tries to confuse Jacob or us by first saying that the Law of Moses is the right way, then saying that no man knows of the things to come.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1548",
+    "type": "multi",
+    "ref": "Jac7:7",
+    "question": "In chapter #7, Sharem accuses Jacob of being a_____.",
+    "answer": ["Blasphemy"],
+    "options": ["False Prophet", "Blasphemy", "We Don’t Know What"]
+  },
+  {
+    "id": "1549",
+    "type": "bool",
+    "ref": "Jac7:7",
+    "question": "Jacob did not write unto us the matter of which Sharem contended with him.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1550",
+    "type": "multi",
+    "ref": "Jac7:8",
+    "question": "The Lord God poured his _____ into Jacob’s soul.",
+    "answer": ["Spirit"],
+    "options": ["Thoughts", "Words", "Spirit"]
+  },
+  {
+    "id": "1551",
+    "type": "bool",
+    "ref": "Jac7:8",
+    "question": "Because the Lord had poured his Spirit unto Jacob; he confounded Sharem in all his words.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1552",
+    "type": "multi",
+    "ref": "Jac7:9",
+    "question": "Jacob said to Sharem: “Denies thou the _____ who should come'?",
+    "answer": ["Christ"],
+    "options": ["3 Days Of Darkness", "Hailey’s Comet", "Christ"]
+  },
+  {
+    "id": "1553",
+    "type": "bool",
+    "ref": "Jac7:9",
+    "question": "Sharem said that if there would be a Christ, he would deny him or his existence.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1554",
+    "type": "fill",
+    "ref": "Jac7:9",
+    "question": "In the Book of Jacob who said: “There is no Christ, neither has been, nor ever will be”?",
+    "answer": ["Sharem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1555",
+    "type": "bool",
+    "ref": "Jac7:10",
+    "question": "Sharem told Jacob the he believed the scriptures.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1556",
+    "type": "multi",
+    "ref": "Jac7:10",
+    "question": "In the Book of Jacob; what did Jacob ask Sharem if he believed in what?",
+    "answer": ["The Scriptures"],
+    "options": [
+      "Einstein’s Theory Of Relativity",
+      "The Scriptures",
+      "The Book Of Mormon"
+    ]
+  },
+  {
+    "id": "1557",
+    "type": "bool",
+    "ref": "Jac7:11",
+    "question": "Jacob said that Sharem did not understand the scriptures.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1558",
+    "type": "fill",
+    "ref": "Jac7:11",
+    "question": "Who did Jacob say the scriptures testify of?",
+    "answer": ["Christ"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1559",
+    "type": "multi",
+    "ref": "Jac7:11",
+    "question": "Who did Jacob say had written and testified concerning Jesus Christ?",
+    "answer": ["The Prophets"],
+    "options": ["Satan", "The Mormon’s", "The Prophets"]
+  },
+  {
+    "id": "1560",
+    "type": "bool",
+    "ref": "Jac7:12",
+    "question": "Jacob had seen and heard the things concerning Jesus Christ.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1561",
+    "type": "multi",
+    "ref": "Jac7:12",
+    "question": "By who or what power did the things concerning Jesus Christ been manifested to Jacob?",
+    "answer": ["The Holy Ghost"],
+    "options": ["Jesus Christ", "God", "The Holy Ghost"]
+  },
+  {
+    "id": "1562",
+    "type": "fill",
+    "ref": "Jac7:12",
+    "question": "Jacob said that if there should be no _____ made, all mankind would be lost.",
+    "answer": ["Atonement"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1563",
+    "type": "bool",
+    "ref": "Jac7:13",
+    "question": "Sharem asked Jacob to show him a sign of Jesus Christ.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1564",
+    "type": "fill",
+    "ref": "Jac7:13",
+    "question": "Sharem accused Jacob of knowing much about this personage?",
+    "answer": ["Ghost-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1565",
+    "type": "bool",
+    "ref": "Jac7:14",
+    "question": "Jacob said that he would not tempt God because Sharem knew that God did really exist.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1566",
+    "type": "bool",
+    "ref": "Jac7:14",
+    "question": "Jacob knew that if he would show Sherem a sign that Jesus Christ did really exist, he would still deny it.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1567",
+    "type": "fill",
+    "ref": "Jac7:14",
+    "question": "In the Book of Jacob; Who said the words? “Art of the Devil”?",
+    "answer": ["Jacob"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1568",
+    "type": "bool",
+    "ref": "Jac7:14",
+    "question": "Jacob said told Sharem that thy will would be done.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1569",
+    "type": "bool",
+    "ref": "Jac7:14",
+    "question": "If God would smite Sharem, it would be a sign that he has great power?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1570",
+    "type": "fill",
+    "ref": "Jac7:14",
+    "question": "Jacob said that God has great power both in _____ and in earth.",
+    "answer": ["Heaven"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1571",
+    "type": "bool",
+    "ref": "Jac7:14",
+    "question": "Jacob said that Christ shall come, and that his will would be done.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1572",
+    "type": "multi",
+    "ref": "Jac7:14",
+    "question": "Because Jacob spoke of many things concerning Jesus Christ; the power of the Lord came upon whom?",
+    "answer": ["Jacob"],
+    "options": ["Jacob", "Sharem", "The Devil"]
+  },
+  {
+    "id": "1573",
+    "type": "fill",
+    "ref": "Jac7:15",
+    "question": "In the Book of Jacob who fell to the earth because of the Lord’s great power?",
+    "answer": ["Sharem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1574",
+    "type": "fill",
+    "ref": "Jac7:15",
+    "question": "In the end of the Book of Jacob who was nourished of the power of Jesus Christ for many days.",
+    "answer": ["Sharem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1575",
+    "type": "multi",
+    "ref": "Jac7:15",
+    "question": "Sharem was nourished of the power of Jesus Christ for ____.",
+    "answer": ["Many Days"],
+    "options": ["Two Days", "Many Days", "Three Days"]
+  },
+  {
+    "id": "1576",
+    "type": "multi",
+    "ref": "Jac7:16",
+    "question": "Who told the people to gather together because he wanted to speak to them before he died?",
+    "answer": ["Sharem"],
+    "options": ["Jacob", "Ishmael", "Sharem"]
+  },
+  {
+    "id": "1577",
+    "type": "bool",
+    "ref": "Jac7:16",
+    "question": "Sharem the Anti-Christ knew the exact day that he would die.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1578",
+    "type": "bool",
+    "ref": "Jac7:17",
+    "question": "Because Sharem did not speak very plainly to the Nephites, they could not understand him very well.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1579",
+    "type": "multi",
+    "ref": "Jac7:17",
+    "question": "In the end, Sharem denied the things that he had taught the _____.",
+    "answer": ["Nephites"],
+    "options": ["Nephites", "Lamanites", "Zoramites"]
+  },
+  {
+    "id": "1580",
+    "type": "bool",
+    "ref": "Jac7:17",
+    "question": "Finally, in his last days, Sharem confessed of the existence of Jesus Christ.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1581",
+    "type": "multi",
+    "ref": "Jac7:17",
+    "question": "Sharem confessed of the _____ of the Holy Ghost in the end.",
+    "answer": ["Power"],
+    "options": ["Reality", "Power", "Existence"]
+  },
+  {
+    "id": "1582",
+    "type": "bool",
+    "ref": "Jac7:17",
+    "question": "Sharem did not believe in the ministering of angels.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1583",
+    "type": "fill",
+    "ref": "Jac7:18",
+    "question": "Sharem was deceived by the power of whom?",
+    "answer": ["Satan-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1584",
+    "type": "multi",
+    "ref": "Jac7:18",
+    "question": "Sharem spoke of _____, and of eternity, and of eternal punishment.",
+    "answer": ["Hell"],
+    "options": ["Hell", "Nephi", "Neither"]
+  },
+  {
+    "id": "1585",
+    "type": "bool",
+    "ref": "Jac7:19",
+    "question": "Sharem felt that he had committed an unpardonable sin.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1586",
+    "type": "bool",
+    "ref": "Jac7:19",
+    "question": "Sharem said that he had lied unto God; and denied the Christ.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1587",
+    "type": "multi",
+    "ref": "Jac7:20",
+    "question": "When Sharem confessed of his wrongdoing he gave up the _____.",
+    "answer": ["Ghost"],
+    "options": ["Plates", "Ghost", "Neither"]
+  },
+  {
+    "id": "1588",
+    "type": "bool",
+    "ref": "Jac7:21",
+    "question": "The multitude had witnessed the things which Sharem had spoken at the end of his life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1589",
+    "type": "bool",
+    "ref": "Jac7:22",
+    "question": "Jacob was not pleased when the power of God came onto the multitude after Sharem had spoken.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1591",
+    "type": "fill",
+    "ref": "Jac7:22",
+    "question": "Jacob had requested of _____ to show his matchless power to the Nephites.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1592",
+    "type": "fill",
+    "ref": "Jac7:22",
+    "question": "At the end of chapter #7 of the Book of Jacob; God had heard whose cry and answered his prayer.",
+    "answer": ["Jacob"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1593",
+    "type": "multi",
+    "ref": "Jac7:23",
+    "question": "What two things came to pass that was restored again among the people.",
+    "answer": ["Peace And Love God"],
+    "options": [
+      "Freedom Of Speech And Writing",
+      "Peace And Love God",
+      "The Will Of Agency And Baptism"
+    ]
+  },
+  {
+    "id": "1594",
+    "type": "fill",
+    "ref": "Jac7:23",
+    "question": "The Nephites searched the_____, and hearkened, no more to the wicked man known as Sharem.",
+    "answer": ["Scriptures"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1595",
+    "type": "bool",
+    "ref": "Jac7:24",
+    "question": "In the end of the Book of Jacob we are told that many ways were devised to reclaim and restore the Lamanites to the truth of the Gospel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1596",
+    "type": "multi",
+    "ref": "Jac7:24",
+    "question": "The Lamanites delighted in wars and _____.",
+    "answer": ["Bloodshed"],
+    "options": ["Partying", "Whoredoms", "Bloodshed"]
+  },
+  {
+    "id": "1597",
+    "type": "fill",
+    "ref": "Jac7:24",
+    "question": "The Lamanites had an_____ hatred for their brethren, the Nephites.",
+    "answer": ["Eternal-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1598",
+    "type": "fill",
+    "ref": "Jac7:24",
+    "question": "Who sought by the power of their arms to destroy the Nephites?",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1599",
+    "type": "multi",
+    "ref": "Jac7:25",
+    "question": "The people of_____ fortified their armies against the Lamanites.",
+    "answer": ["Nephi"],
+    "options": ["Nephi", "Zoram", "Ishmaelites"]
+  },
+  {
+    "id": "1600",
+    "type": "fill",
+    "ref": "Jac7:25",
+    "question": "What people used their might, trusting in the God and the rock of their salvation?",
+    "answer": ["Nephites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1601",
+    "type": "bool",
+    "ref": "Jac7:25",
+    "question": "Because the Nephites trusted in God; they became conquerors of their enemies, during Jacob’s life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1602",
+    "type": "multi",
+    "ref": "Jac7:26",
+    "question": "When Jacob began to be old, he said that the record of the Nephites was kept on the other plates of _____.",
+    "answer": ["Nephi"],
+    "options": ["Laban", "Nephi", "Lehi"]
+  },
+  {
+    "id": "1603",
+    "type": "multi",
+    "ref": "Jac7:26",
+    "question": "Jacob concluded with his record, declaring that he had written according to the best of his_____.",
+    "answer": ["Knowledge"],
+    "options": ["Knowledge", "Penmanship", "Memory"]
+  },
+  {
+    "id": "1604",
+    "type": "bool",
+    "ref": "Jac7:26",
+    "question": "Jacob said that his life and the lives of the Nephites had passed away like as it were a dream.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1605",
+    "type": "multi",
+    "ref": "Jac7:26",
+    "question": "In the end of his writings: What tribe of people did Jacob declare were wanderers?",
+    "answer": ["Nephites"],
+    "options": ["Lamanites", "Nephites", "Ishmaelites"]
+  },
+  {
+    "id": "1606",
+    "type": "multi",
+    "ref": "Jac7:26",
+    "question": "The people of Nephi were lonesome and solemn people, cast out from what city.",
+    "answer": ["Jerusalem"],
+    "options": ["Salt Lake", "Dallas", "Jerusalem"]
+  },
+  {
+    "id": "1607",
+    "type": "bool",
+    "ref": "Jac7:26",
+    "question": "Jacob wrote that he and his people were born in tribulation, and in a wilderness.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1608",
+    "type": "multi",
+    "ref": "Jac7:26",
+    "question": "What thing or attitude caused wars and contentions between the Nephites and Lamanites?",
+    "answer": ["Hatred"],
+    "options": ["Pride", "Hatred", "Agency"]
+  },
+  {
+    "id": "1609",
+    "type": "bool",
+    "ref": "Jac7:26",
+    "question": "In the end of the Book of Jacob, he said that he and the people of Nephi mourn out our last days.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1610",
+    "type": "fill",
+    "ref": "Jac7:27",
+    "question": "At the end of his life, what son of Jacob took over the plates?",
+    "answer": ["Enos"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1611",
+    "type": "multi",
+    "ref": "Jac7:27",
+    "question": "Jacob was_____ when he passed away.",
+    "answer": ["We Don’t Know"],
+    "options": ["75", "100", "We Don’t Know"]
+  },
+  {
+    "id": "1612",
+    "type": "fill",
+    "ref": "Jac7:27",
+    "question": "What is the name of Enos’s uncle who told Jacob of things he had commanded him to do?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1613",
+    "type": "bool",
+    "ref": "Jac7:27",
+    "question": "Enos promised Jacob that he would be obedient unto his commands.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1614",
+    "type": "multi",
+    "ref": "Jac7:27",
+    "question": "Jacob considered that his writing on the plates had been_____.",
+    "answer": ["Small"],
+    "options": ["Small", "Sufficient", "Too Much"]
+  },
+  {
+    "id": "1615",
+    "type": "bool",
+    "ref": "Jac7:27",
+    "question": "At the end of his writing, Jacob bid us all farewell.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1616",
+    "type": "bool",
+    "ref": "Jac7:27",
+    "question": "Jacob hoped that of his many of his brethren would read his writings.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1617",
+    "type": "fill",
+    "ref": "Jac7:27",
+    "question": "What is the last word that is written in the Book of Jacob?",
+    "answer": ["Adieu"],
+    "options": ["fill"]
+  }
+]

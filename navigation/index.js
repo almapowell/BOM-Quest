@@ -1,7 +1,7 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 import Home from "../screens/home";
-import Quest from "../screens/quest";
+import Question from "../screens/question";
 import Sections from "../screens/sections";
 import List from "../screens/list";
 
@@ -27,8 +27,8 @@ function MyStack() {
         options={{ headerShown: false }}
       />
       <Stack.Screen
-        name="Quest"
-        component={Quest}
+        name="Question"
+        component={Question}
         options={{ headerShown: false }}
       />
       <Stack.Screen

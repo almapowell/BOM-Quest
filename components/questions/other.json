@@ -1,0 +1,494 @@
+[
+  {
+    "id": "1",
+    "type": "multi",
+    "ref": "Title Page",
+    "question": "Who wrote the title page of The Book of Mormon?",
+    "answer": ["Mormon"],
+    "options": ["Joseph Smith", "Mormon", "Moroni"]
+  },
+  {
+    "id": "2",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The abridgment of the record is written to the Jew and Gentile.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "3",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "The record is written by way of commandment, and also by the spirit of ____ and of revelation.",
+    "answer": ["prophecy"],
+    "options": ["fill"]
+  },
+  {
+    "id": "4",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The record was written and sealed up, and hid up unto the Lord, that they may not be destroyed",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "5",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "Where in the Book of Mormon is the word Lamanites first mentioned?",
+    "answer": ["Title Page"],
+    "options": ["fill"]
+  },
+  {
+    "id": "6",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The word “Jaredites” first appears to in the Title page of the Book of Mormon?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "7",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "An abridgment is taken from the Book of ____, which is a record of the people of Jared.",
+    "answer": ["ether"],
+    "options": ["fill"]
+  },
+  {
+    "id": "8",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The people of Jared were scattered at the time the Lord confounded their language.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "9",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "At time the Lord confounded the language of the Jaredites, they were trying to build a ____ to get to heaven.",
+    "answer": ["tower"],
+    "options": ["fill"]
+  },
+  {
+    "id": "10",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "The Lord has done many great things unto the remnant of the House of ____.",
+    "answer": ["Israel"],
+    "options": ["fill"]
+  },
+  {
+    "id": "11",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "The Lord wants to show the remnant House of Israel the many great things that he has done for their fathers.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "12",
+    "type": "multi",
+    "ref": "Title Page",
+    "question": "The Lord wants the House of Israel to know the ____ he has made with them and not be cast-off forever.",
+    "answer": ["Covenants"],
+    "options": ["Bible", "Articles of Faith", "Covenants"]
+  },
+  {
+    "id": "13",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "The Lord wants to convince Jews and Gentiles that Jesus is the ____.",
+    "answer": ["Christ"],
+    "options": ["fill"]
+  },
+  {
+    "id": "14",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "Jesus is the Christ, the Eternal God, manifesting himself unto all nations.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "15",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "Mormon states that if there are faults in the record, they are the ____ of Men.",
+    "answer": ["Mistakes"],
+    "options": ["fill"]
+  },
+  {
+    "id": "16",
+    "type": "bool",
+    "ref": "Title Page",
+    "question": "Mormon writes, condemn not the things of God?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "17",
+    "type": "fill",
+    "ref": "Title Page",
+    "question": "Mormon wants us to be found spotless at the _____ seat of Christ",
+    "answer": ["Judgment"],
+    "options": ["fill"]
+  },
+  {
+    "id": "18",
+    "type": "multi",
+    "ref": "Title Page",
+    "question": "Who translated the title page of the Book of Mormon?",
+    "answer": ["Joseph Smith"],
+    "options": ["Moroni", "Mormon", "Joseph Smith"]
+  },
+  {
+    "id": "19",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "In the brief analysis of the Book of Mormon we are told that there are namely three classes of record plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "20",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "The Brass Plates of Laban are mentioned frequently in the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "21",
+    "type": "fill",
+    "ref": "Brief Analysis",
+    "question": "The body of the Book of Mormon, from Mosiah to Mormon, chapter #7, inclusive, is the translation of whose ____ abridgment of the Plates of Nephi.",
+    "answer": ["Mormon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "22",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "The period covered in the Book of Mormon extends from B.C. 600 to A.D. 421.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "23",
+    "type": "fill",
+    "ref": "Brief Analysis",
+    "question": "Who was the last of the Nephite historians?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "24",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "Moroni was the last of the Nephite historians that sealed the sacred record, and hid up unto the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "25",
+    "type": "bool",
+    "ref": "Brief Analysis",
+    "question": "In the Brief Analysis of the Book of Mormon, Joseph Smith mentions the hill Cumorah by name.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "26",
+    "type": "bool",
+    "ref": "Ether 15:11",
+    "question": "The hill Cumorah was referred as the hill Ramah by the Jaredites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "27",
+    "type": "bool",
+    "ref": "Mor 1:3, 4:23",
+    "question": "The hill Cumorah was referred as the hill Shim by the Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "28",
+    "type": "fill",
+    "ref": "Look at Book of Mormon",
+    "question": "In what beautiful state, is the hill Cumorah located.",
+    "answer": ["New York"],
+    "options": ["fill"]
+  },
+  {
+    "id": "56",
+    "type": "fill",
+    "ref": "Ask someone that knows",
+    "question": "What is the name of cont1nent in which the book was deposited and in which we in the united states live?",
+    "answer": ["North America"],
+    "options": ["fill"]
+  },
+  {
+    "id": "65",
+    "type": "bool",
+    "ref": "No ref because they are not.",
+    "question": "The Urim and Thummim are mentioned by name in the text of Book of Mormon?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "133",
+    "type": "fill",
+    "ref": "Look at Book of Mormon",
+    "question": "What is the name of the artist who painted most of the Book of Mormon paintings?",
+    "answer": [["Arnold", "Friberg"]],
+    "options": ["fill"]
+  },
+  {
+    "id": "134",
+    "type": "multi",
+    "ref": "Testimony of Three Witnesses",
+    "question": "Who were the Three Witnesses of the Book of Mormon.",
+    "answer": ["Oliver Cowdery, David Whitmer and Martin Harris"],
+    "options": [
+      "Oliver Cowdery, David Whitmer and Lorenzo Snow",
+      "Joseph Smith Sr, Brigham Young and Nephi",
+      "Oliver Cowdery, David Whitmer and Martin Harris"
+    ]
+  },
+  {
+    "id": "135",
+    "type": "bool",
+    "ref": "Testimony of the Eight Witnesses",
+    "question": "In the testimony of the Eight Witnesses, they describe the plates of having the appearance of ancient work, and of curious workmanship.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "136",
+    "type": "bool",
+    "ref": "Testimony of the Eight Witnesses",
+    "question": "In the testimony of the Eight Witnesses, they state that they gave their names to the world, to witness unto the world that, that they handled the plates with their hands and saw the engraving thereon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "137",
+    "type": "fill",
+    "ref": "Testimony of the Eight Witnesses",
+    "question": "The Eight Witnesses state that they “lie not” and bear witness unto whom?",
+    "answer": ["god"],
+    "options": ["fill"]
+  },
+  {
+    "id": "138",
+    "type": "fill",
+    "ref": "Book of Mormon",
+    "question": "What is the title of the first book in the Book of Mormon?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "139",
+    "type": "fill",
+    "ref": "Book of Mormon",
+    "question": "What is the title of the last book in the Book of Mormon?",
+    "answer": ["Moroni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "140",
+    "type": "bool",
+    "ref": "Book of Mormon",
+    "question": "The longest book in the Book of Mormon is the Book of Mosiah?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "141",
+    "type": "fill",
+    "ref": "Book of Mormon",
+    "question": "What is the longest book in the Book of Mormon",
+    "answer": ["Alma"],
+    "options": ["fill"]
+  },
+  {
+    "id": "142",
+    "type": "fill",
+    "ref": "Book of Mormon",
+    "question": "What Book of Mormon book has the least verses",
+    "answer": ["Jarom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "143",
+    "type": "fill",
+    "ref": "Book of Mormon",
+    "question": "What is the name of the book that has the second least amount of verses",
+    "answer": ["The Words Of Mormon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "144",
+    "type": "multi",
+    "ref": "Book of Mormon",
+    "question": "The words: “was the son of “are used how many times in the Book of Ether.",
+    "answer": ["21"],
+    "options": ["15", "20", "21"]
+  },
+  {
+    "id": "145",
+    "type": "fill",
+    "ref": "Book of Omni",
+    "question": "What Book of Mormon author wrote the least amount of words in the Book of Mormon?",
+    "answer": ["Chemish"],
+    "options": ["fill"]
+  },
+  {
+    "id": "146",
+    "type": "fill",
+    "ref": "Book of Omni",
+    "question": "This Book of Mormon author only wrote one verse.",
+    "answer": ["Chemish"],
+    "options": ["fill"]
+  },
+  {
+    "id": "159",
+    "type": "fill",
+    "ref": "Book of Mormon",
+    "question": "The record that Nephi made about his reign and ministry is known to us as the: “First Book Of _____”.",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "563",
+    "type": "fill",
+    "ref": "Book of Mormon Pictures",
+    "question": "What animal appears in the Book of Mormon picture where Lehi is holding the Liahona?",
+    "answer": ["Camal"],
+    "options": ["fill"]
+  },
+  {
+    "id": "783",
+    "type": "fill",
+    "ref": "3Nep3:11",
+    "question": "The Lord will give power to the seer to bring forth his word unto the seed of _____ loins.",
+    "answer": ["Joseph"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1478",
+    "type": "bool",
+    "ref": "Look at your dictionary",
+    "question": "An allegory is the expression by means of symbolic fictional figures and actions of truths or generalizations about human existence.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1684",
+    "type": "fill",
+    "ref": "Book of Jarom",
+    "question": "What was Enos’ son name that was also a record keeper?",
+    "answer": ["Jarom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1685",
+    "type": "bool",
+    "ref": "Book of Jarom",
+    "question": "The Book of Jarom has only one chapter.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1686",
+    "type": "fill",
+    "ref": "Book of Jarom",
+    "question": "What Book of Mormon historian/record keeper wrote the fewest verses in his book?",
+    "answer": ["Jarom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1731",
+    "type": "bool",
+    "ref": "Book of Omni",
+    "question": "There is only one chapter of Omni in the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1794",
+    "type": "fill",
+    "ref": "Ether12:1 & 14:24",
+    "question": "Coriantumr was a descendant of what tribe of people?",
+    "answer": ["Jaredites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1838",
+    "type": "multi",
+    "ref": "Mormon1:4",
+    "question": "Mormon found the plates pleasing unto him because it conta1ned the prophecies of the coming of_____.",
+    "answer": ["Christ"],
+    "options": ["Abraham", "Nephi", "Christ"]
+  },
+  {
+    "id": "1848",
+    "type": "multi",
+    "ref": "Mormon1:8",
+    "question": "Mormon prayed to_____ concerning the Lamanites; that they may once again come to the knowledge of God and the redemption of Christ.",
+    "answer": ["God"],
+    "options": ["Holy Ghost", "The Stars", "God"]
+  },
+  {
+    "id": "1849",
+    "type": "multi",
+    "ref": "Mormon1:8",
+    "question": "Mormon prayed to God concerning the Lamanites; that they may once again be a_____ people.",
+    "answer": ["Delightsome"],
+    "options": ["Nice", "Delightsome", "Kind"]
+  },
+  {
+    "id": "1851",
+    "type": "multi",
+    "ref": "Mormon1:9",
+    "question": "Mormon proceeding with the record and made it according to the knowledge and the_____ which God had given him.",
+    "answer": ["Understanding."],
+    "options": ["Gift", "Power", "Understanding."]
+  },
+  {
+    "id": "1853",
+    "type": "multi",
+    "ref": "Mormon1:10",
+    "question": "Wherefore it came to pass that_____ had delivered these plates into the hands of King Benjamin.",
+    "answer": ["Amaleki"],
+    "options": ["Mormon", "Nephi", "Amaleki"]
+  },
+  {
+    "id": "1858",
+    "type": "multi",
+    "ref": "Mormon1:11",
+    "question": "The things written on Mormon’s record and the other plates were important because the Nephites and their brethren would be judged at the great and_____ day.",
+    "answer": ["Last"],
+    "options": ["Gloomy", "Last", "Glorious"]
+  },
+  {
+    "id": "1873",
+    "type": "multi",
+    "ref": "Mormon1:17",
+    "question": "During the reign of King Benjamin there were many holy men in the land, and they spoke with the power and_____ of God.",
+    "answer": ["Authority"],
+    "options": ["Authority", "Gift", "Knowledge"]
+  },
+  {
+    "id": "1877",
+    "type": "multi",
+    "ref": "3Nep5:20",
+    "question": "Mormon was a pure descendant of whom?",
+    "answer": ["Lehi"],
+    "options": ["Laman", "Nephi", "Lehi"]
+  }
+]

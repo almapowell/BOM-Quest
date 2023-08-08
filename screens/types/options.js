@@ -7,23 +7,39 @@ import {
   TextInput,
   Dimensions,
 } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const Options = ({ question }) => {
+const Options = ({ question, section }) => {
   const [textInputValue, setTextInputValue] = useState("");
   const [selectionIsMade, setSelectionIsMade] = useState(false);
   const [guess, setGuess] = useState(null);
   const inputWidth = Dimensions.get("window").width - 148;
 
-  const onOptionPress = (_option) => {
+  const onOptionPress = async (_option) => {
     setGuess(_option.toLowerCase());
     setSelectionIsMade(true);
+
+    // Save ID and Percentage to cache
+    if (question.answer[0].toLowerCase() === _option.toLowerCase()) {
+      await AsyncStorage.setItem(question.id, question.id);
+      const percentagesItem = await AsyncStorage.getItem("percentages");
+      const jsonPercentages = JSON.parse(percentagesItem);
+      if (jsonPercentages) {
+        let fraction = jsonPercentages[section.value];
+        let firstValue = (Number(fraction.split("/")[0]) + 1).toString();
+        let newFraction = firstValue + "/" + fraction.split("/")[1];
+        jsonPercentages[section.value] = newFraction;
+        const itemToSet = JSON.stringify(jsonPercentages);
+        await AsyncStorage.setItem("percentages", itemToSet);
+      }
+    }
   };
 
   const getAdvStyles = (_value) => {
     if (selectionIsMade && _value.toLowerCase() === guess.toLowerCase()) {
       return {
         backgroundColor:
-          _value.toLowerCase() === question.answer.toLowerCase()
+          _value.toLowerCase() === question.answer[0].toLowerCase()
             ? "#00DB6F"
             : "#FF4888",
       };
@@ -43,7 +59,7 @@ const Options = ({ question }) => {
           return (
             <TouchableOpacity
               key={index}
-              disabled={selectionIsMade}
+              // disabled={selectionIsMade}
               onPress={() => onOptionPress(_o)}
               style={[styles.optionButton, getAdvStyles(_o)]}
             >
@@ -55,15 +71,15 @@ const Options = ({ question }) => {
         <View>
           <TouchableOpacity
             disabled={selectionIsMade}
-            onPress={() => onOptionPress("t")}
-            style={[styles.optionButton, getAdvStyles("t")]}
+            onPress={() => onOptionPress("True")}
+            style={[styles.optionButton, getAdvStyles("True")]}
           >
             <Text style={styles.optionText}>True</Text>
           </TouchableOpacity>
           <TouchableOpacity
             disabled={selectionIsMade}
-            onPress={() => onOptionPress("f")}
-            style={[styles.optionButton, getAdvStyles("f")]}
+            onPress={() => onOptionPress("False")}
+            style={[styles.optionButton, getAdvStyles("False")]}
           >
             <Text style={styles.optionText}>Fasle</Text>
           </TouchableOpacity>

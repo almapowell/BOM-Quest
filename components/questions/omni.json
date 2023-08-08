@@ -1,0 +1,738 @@
+[
+  {
+    "id": "1733",
+    "type": "fill",
+    "ref": "Omni1:1",
+    "question": "Omni was commanded by his father_____, to write upon the plates to preserve their genealogy.",
+    "answer": ["Jarom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1734",
+    "type": "fill",
+    "ref": "Omni1:1",
+    "question": "Omni in his days; would that ye should know that “I fought much with the_____, to preserve my people, the Nephites”.",
+    "answer": ["Sword"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1735",
+    "type": "bool",
+    "ref": "Omni1:1",
+    "question": "Omni fought much with the sword to preserve the Nephites from falling into the hands of their enemies, the Lamanites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1736",
+    "type": "fill",
+    "ref": "Omni1:1",
+    "question": "Who wrote: “But behold, I myself am a wicked man, and I have not kept the statutes and the commandments of the Lord as I ought to have done”?",
+    "answer": ["Omni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1737",
+    "type": "bool",
+    "ref": "Omni1:2",
+    "question": "Omni was not a wicked man, and obeyed all the commandments of the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1738",
+    "type": "multi",
+    "ref": "Omni1:3",
+    "question": "Omni wrote that they had six seasons of peace; and had many_____ of serious war and bloodshed.",
+    "answer": ["Seasons"],
+    "options": ["Seasons", "Times", "Years"]
+  },
+  {
+    "id": "1739",
+    "type": "bool",
+    "ref": "Omni1:3",
+    "question": "Omni only wrote three verses in the Book of Omni.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1740",
+    "type": "fill",
+    "ref": "Omni1:3",
+    "question": "Who did Omni confer the plates to?",
+    "answer": ["Amaron"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1741",
+    "type": "fill",
+    "ref": "Omni1:3",
+    "question": "Amaron was the son of what Book of Mormon historian?",
+    "answer": ["Omni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1742",
+    "type": "bool",
+    "ref": "Omni1:4",
+    "question": "Amaron tells us that he wrote only a few words in the book of his father.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1743",
+    "type": "fill",
+    "ref": "Omni1:5",
+    "question": "And it came to pass that three hundred and twenty years had passed away, and the more wicked part of the_____ were destroyed.",
+    "answer": ["Nephites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1744",
+    "type": "fill",
+    "ref": "Omni1:6",
+    "question": "The Lord would not suffer that his words should not be verified, when he said to Omni’s fathers:  “Inasmuch as ye will not keep my _____ ye shall not prosper in the land”.",
+    "answer": ["Commandments"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1745",
+    "type": "multi",
+    "ref": "Omni1:7",
+    "question": "The Lord visited the Nephites in great_____.",
+    "answer": ["Judgment"],
+    "options": ["Numbers", "Power", "Judgment"]
+  },
+  {
+    "id": "1746",
+    "type": "bool",
+    "ref": "Omni1:7",
+    "question": "The Lord did spare the righteous that they should not perish.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1747",
+    "type": "fill",
+    "ref": "Omni1:7",
+    "question": "The Lord did spare the_____ Nephites that they should not perish and delivered them out of the hands of their enemies.",
+    "answer": ["Righteous"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1748",
+    "type": "fill",
+    "ref": "Omni1:8",
+    "question": "Who was the brother of Omni that he delivered the plates to?",
+    "answer": ["Chemish"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1749",
+    "type": "fill",
+    "ref": "Omni1:9",
+    "question": "What Book of Mormon historian only wrote one verse in the Book of Mormon?",
+    "answer": ["Chemish"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1750",
+    "type": "bool",
+    "ref": "Omni1:9",
+    "question": "Chemish wrote that his brother Omni wrote on the plates on the same day that he delivered the plates unto him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1751",
+    "type": "bool",
+    "ref": "Omni1:9",
+    "question": "Chemish wrote that he saw the last which his brother wrote, and that he wrote it with his own hand.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1752",
+    "type": "fill",
+    "ref": "Omni1:10-11",
+    "question": "What Book of Mormon record keeper wrote only two versus in the Book of Omni?",
+    "answer": ["Abinadom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1753",
+    "type": "fill",
+    "ref": "Omni1-10",
+    "question": "Who was the son of Chemish, who was also a record keeper?",
+    "answer": ["Abinadom"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1754",
+    "type": "multi",
+    "ref": "Omni1:10",
+    "question": "Abinadom wrote that he had taken the lives of many of Lamanites by using what kind of weapon?",
+    "answer": ["Sword"],
+    "options": ["Sword", "Cimeter", "Sling"]
+  },
+  {
+    "id": "1755",
+    "type": "bool",
+    "ref": "Omni1:11",
+    "question": "Abinadom wrote that the record of the Lamanites is engraved upon the plates which is had by the kings.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1756",
+    "type": "bool",
+    "ref": "Omni1:11",
+    "question": "Abinadom wrote that he knew of no revelation save that which has been written, neither prophecy; so he did not write anymore.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1757",
+    "type": "fill",
+    "ref": "Omni1:12",
+    "question": "What record keeper of the Book of Mormon was the son of Abinadom?",
+    "answer": ["Amaleki"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1758",
+    "type": "bool",
+    "ref": "Omni1:30",
+    "question": "Amaleki was the last record keeper to write in the Book of Omni.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1759",
+    "type": "fill",
+    "ref": "Omni1:12",
+    "question": "In what book is the prophet Mosiah first mentioned?",
+    "answer": ["Omni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1760",
+    "type": "bool",
+    "ref": "Omni1:12",
+    "question": "Amaleki spoke concerning Mosiah, who was made king over the land of Zarahemla.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1761",
+    "type": "fill",
+    "ref": "Omni1:12",
+    "question": "In the Book of Omni: What king of Zarahemla was warned of the Lord to flee out of the land of Nephi?",
+    "answer": ["Mosiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1762",
+    "type": "bool",
+    "ref": "Omni1:12",
+    "question": "The Lord told Mosiah to flee out of the land of Nephi, and to take as many of the Nephites that would hearken unto him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1763",
+    "type": "multi",
+    "ref": "Omni1:12",
+    "question": "Where did the Lord tell Mosiah and his people to go when they fled out of the land of Nephi?",
+    "answer": ["Wilderness"],
+    "options": ["Forest", "Wilderness", "Another City"]
+  },
+  {
+    "id": "1764",
+    "type": "bool",
+    "ref": "Omni1:13",
+    "question": "And it came to pass, that Mosiah did not do according to what the Lord had commanded of him.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1765",
+    "type": "bool",
+    "ref": "Omni1:13",
+    "question": "Mosiah and his followers were led by preachings and prophesyings.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1766",
+    "type": "fill",
+    "ref": "Omni1:13",
+    "question": "Mosiah and the Nephites were admonished continually by the word of _____.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1767",
+    "type": "multi",
+    "ref": "Omni1:13",
+    "question": "Mosiah and his people were led by the power of the_____ of God through the wilderness.",
+    "answer": ["Arm"],
+    "options": ["Arm", "Word", "Mercy"]
+  },
+  {
+    "id": "1768",
+    "type": "fill",
+    "ref": "Omni1:13",
+    "question": "Mosiah and his people were led by the arm of God into the land which is called the land of_____.",
+    "answer": ["Zarahemla"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1769",
+    "type": "multi",
+    "ref": "Omni1:14",
+    "question": "Mosiah discovered a people who were called the people of____.",
+    "answer": ["Zarahemla"],
+    "options": ["Nephi", "Zoram", "Zarahemla"]
+  },
+  {
+    "id": "1770",
+    "type": "bool",
+    "ref": "Omni1:14",
+    "question": "When Mosiah arrived in the land of Zarahemla, there was not any rejoicing or happiness.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1771",
+    "type": "fill",
+    "ref": "Omni1:14",
+    "question": "Who rejoiced exceedingly because the Lord had sent the people of Mosiah with the plates of brass?",
+    "answer": ["Zarahemla"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1772",
+    "type": "bool",
+    "ref": "Omni1:14",
+    "question": "Zarahemla did rejoice because the plates conta1ned the record of the Jews.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1774",
+    "type": "bool",
+    "ref": "Omni1:15",
+    "question": "Mosiah discovered that the people of Zarahemla came out from Jerusalem.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1775",
+    "type": "bool",
+    "ref": "Omni1:15",
+    "question": "The people of Zarahemla came out from Jerusalem at the time that Zedekiah, king of Judah, was carried away captive into Babylon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1776",
+    "type": "fill",
+    "ref": "Omni1:15",
+    "question": "Zedekiah was the king of_____, when he was carried away captive into Babylon.",
+    "answer": ["Judah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1777",
+    "type": "multi",
+    "ref": "Omni1:16",
+    "question": "Zarahemla and his people were brought by the hand of the Lord across the____ waters, into the land where Mosiah discovered them.",
+    "answer": ["Great"],
+    "options": ["Many", "Great", "Deep"]
+  },
+  {
+    "id": "1778",
+    "type": "bool",
+    "ref": "Omni1:17",
+    "question": "At the time that Mosiah discovered them, the people of Zarahemla had become exceedingly numerous.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1779",
+    "type": "fill",
+    "ref": "Omni1:17",
+    "question": "The people of Zarahemla had had many wars and serious contentions, and had fallen by the_____ from time to time.",
+    "answer": ["Sword"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1780",
+    "type": "bool",
+    "ref": "Omni1:17",
+    "question": "The language of the people of Zarahemla had become corrupted; and they had brought no records with them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1781",
+    "type": "bool",
+    "ref": "Omni1:17",
+    "question": "The people of Zarahemla did not deny the being of their Creator.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1782",
+    "type": "fill",
+    "ref": "Omni1:17",
+    "question": "Because of the language that they spoke:  _____ neither the people of Mosiah, could not understand them.",
+    "answer": ["Mosiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1783",
+    "type": "fill",
+    "ref": "Omni1:18",
+    "question": "What prophet caused the people of Zarahemla to be taught in the language of the Nephites?",
+    "answer": ["Mosiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1784",
+    "type": "bool",
+    "ref": "Omni1:18",
+    "question": "And it came to pass that Mosiah caused that the people of Zarahemla were taught in the language of Mosiah.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1785",
+    "type": "fill",
+    "ref": "Omni1:18",
+    "question": "After Zarahemla was taught in the language of Mosiah, he gave a genealogy of his_____.",
+    "answer": ["Fathers"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1786",
+    "type": "bool",
+    "ref": "Omni1:18",
+    "question": "Zarahemla gave a genealogy of his fathers according to his memory.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1787",
+    "type": "bool",
+    "ref": "Omni1:18",
+    "question": "Zarahemla gave a genealogy of his fathers according to his memory; and they are written but not on the plates of Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1788",
+    "type": "fill",
+    "ref": "Omni1:19",
+    "question": "And it came to pass that the people of_____, and of Mosiah united together.",
+    "answer": ["Zarahemla-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1789",
+    "type": "fill",
+    "ref": "Omni1:19",
+    "question": "Who was appointed king over the people of Zarahemla and of the people of Mosiah?",
+    "answer": ["Mosiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1790",
+    "type": "bool",
+    "ref": "Omni1:20",
+    "question": "In the days of Mosiah, there was a small stone brought to him with engravings on it.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1791",
+    "type": "multi",
+    "ref": "Omni1:20",
+    "question": "And it came to pass that in the days of Mosiah, there was a large stone brought unto him with_____ on it.",
+    "answer": ["Engravings"],
+    "options": ["Writings", "Hieroglyphics", "Engravings"]
+  },
+  {
+    "id": "1792",
+    "type": "fill",
+    "ref": "Omni1:20",
+    "question": "Mosiah did interpret the engravings on the large stone by the gift and_____ of God.",
+    "answer": ["Power"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1793",
+    "type": "multi",
+    "ref": "Omni1:21",
+    "question": "The large stone that Mosiah interpreted gave an account of_____, and the slain of his people.",
+    "answer": ["Coriantumr"],
+    "options": ["Zoram", "Coriantumr", "Zarahemla"]
+  },
+  {
+    "id": "1795",
+    "type": "fill",
+    "ref": "Omni1:21",
+    "question": "The large stone that Mosiah interpreted gave an account of_____ and the slain of his people.",
+    "answer": ["Coriantumr"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1796",
+    "type": "bool",
+    "ref": "Omni1:21",
+    "question": "The stone that Mosiah interpreted did not give an account of Coriantumr or the slain of his people.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1797",
+    "type": "fill",
+    "ref": "Omni1:21",
+    "question": "By what people was Coriantumr discovered?",
+    "answer": ["Zarahemla"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1798",
+    "type": "multi",
+    "ref": "Omni1:21",
+    "question": "Coriantumr dwelt with the people of Zarahemla for the space of n1ne_____.",
+    "answer": ["Moons"],
+    "options": ["Moons", "Years", "Days"]
+  },
+  {
+    "id": "1799",
+    "type": "bool",
+    "ref": "Omni1:21",
+    "question": "The word moons; only appears once in the text of the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1800",
+    "type": "fill",
+    "ref": "Omni1:21",
+    "question": "In what Book of Mormon book can we find the word Moons?",
+    "answer": ["Omni"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1801",
+    "type": "bool",
+    "ref": "Omni1:22",
+    "question": "The Book of Mormon speaks of the Tower of Babel by name.-",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1802",
+    "type": "bool",
+    "ref": "Omni1:22",
+    "question": "Coriantumr’s first parents came out from the tower, at the time the Lord confounded the language of the people",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1803",
+    "type": "fill",
+    "ref": "Omni1:22",
+    "question": "The severity of the Lord fell upon Coriantumr’s people, according to his judgments, which are_____.",
+    "answer": ["Just"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1804",
+    "type": "multi",
+    "ref": "Omni1:22",
+    "question": "The bones of the people of Coriantumr are scattered in the land_____.",
+    "answer": ["Northward"],
+    "options": ["Eastward", "Northward", "Southward"]
+  },
+  {
+    "id": "1805",
+    "type": "fill",
+    "ref": "Omni1:23",
+    "question": "In the Book of Omni, what Book of Mormon historian was born in the days of King Mosiah?",
+    "answer": ["Ameleki"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1806",
+    "type": "fill",
+    "ref": "Omni1:23",
+    "question": "What Book of Omni record keeper lived to see the days of King Mosiah and also his death?",
+    "answer": ["Amaleki"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1807",
+    "type": "fill",
+    "ref": "Omni1:23",
+    "question": "Who did the record keeper Amaleki say reign after the death of his father?",
+    "answer": ["Benjamin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1808",
+    "type": "bool",
+    "ref": "Omni1:24",
+    "question": "Amaleki said that in the days of King Benjamin he had seen a serious war and much bloodshed between the Nephites and Lamanites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1809",
+    "type": "fill",
+    "ref": "Omni1:24",
+    "question": "During the days of King Benjamin, the Nephites obta1ned much advantage over the_____ according to Ameleki.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1810",
+    "type": "bool",
+    "ref": "Omni1:24",
+    "question": "King Benjamin did not drive the Lamanites out of the land of Zarahemla.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1811",
+    "type": "bool",
+    "ref": "Omni1:25",
+    "question": "The record keeper Ameleki; did not have any seed.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1812",
+    "type": "fill",
+    "ref": "Omni1:25",
+    "question": "Ameleki testified that he knew King_____ was a just man before the Lord.",
+    "answer": ["Benjamin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1813",
+    "type": "fill",
+    "ref": "Omni1:25",
+    "question": "Who did Ameleki deliver the plates to? Exhorting all men to come unto God, the Holy One of Israel.",
+    "answer": ["Benjamin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1814",
+    "type": "fill",
+    "ref": "Omni1:25",
+    "question": "Ameleki wanted us to believe in prophesying, and in revelations, and in the ministering of_____.",
+    "answer": ["Angels"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1815",
+    "type": "bool",
+    "ref": "Omni1:25",
+    "question": "Ameleki wanted us to believe in the gift of speaking with tongues, and the gift of interpreting languages, and in all things which are good.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1816",
+    "type": "fill",
+    "ref": "Omni1:25",
+    "question": "Who is the first person in the Book of Mormon to say? “For there is nothing which is good save it comes from the Lord; and that which is evil cometh from the devil”.",
+    "answer": ["Ameleki"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1817",
+    "type": "fill",
+    "ref": "Omni1:26",
+    "question": "And now my beloved brethren, I would that ye should come, unto_____, who is the Holy One of Israel, and partake of his salvation.",
+    "answer": ["Christ"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1818",
+    "type": "fill",
+    "ref": "Omni1:26",
+    "question": "Ameleki wanted us to come unto Christ, who is the Holy One of Israel, and partake of his_____ and the power of his redemption.",
+    "answer": ["Salvation"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1819",
+    "type": "multi",
+    "ref": "Omni1:26",
+    "question": "Ameleki wants us to come unto Christ and offer our whole_____ as an offering to him.",
+    "answer": ["Souls"],
+    "options": ["Bodies", "Tithes", "Souls"]
+  },
+  {
+    "id": "1820",
+    "type": "bool",
+    "ref": "Omni1:26",
+    "question": "Ameleki writes that we should continue in fasting and praying, and endure to the end; and as the Lord lives we will be saved.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1821",
+    "type": "bool",
+    "ref": "Omni1:27& 2Nep:2",
+    "question": "Ameleki said that there were a certain number of people who went to the land of Nephi, and were desirous to possess the land of their inheritance.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1822",
+    "type": "multi",
+    "ref": "Omni1:28",
+    "question": "Ameleki writes that the people that went up unto the wilderness had a leader who was a strong and_____ man, wherefore he caused a contention among them.",
+    "answer": ["Mighty"],
+    "options": ["Mighty", "Awful", "Delightsome"]
+  },
+  {
+    "id": "1824",
+    "type": "bool",
+    "ref": "Omni1:30",
+    "question": "Ameleki wrote that he had a brother that went with Zefiff and has not since known concerning them or him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1825",
+    "type": "fill",
+    "ref": "Omni1:30",
+    "question": "Ameleki wrote that the_____ were full and that he was about to lie down in his grave.",
+    "answer": ["Plates"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1878",
+    "type": "fill",
+    "ref": "Omni1:23",
+    "question": "What was the name of King Benjamin’s father?",
+    "answer": ["Mosiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1823",
+    "type": "multi",
+    "ref": "Omni1:28, Mos7:21, Mos9:3-4",
+    "question": "The strong and mighty man that went up to the wilderness was_____.",
+    "answer": ["Zeniff"],
+    "options": ["Nephi", "Zeniff", "Zenos"]
+  }
+]

@@ -1,0 +1,4598 @@
+[
+  {
+    "id": "149",
+    "type": "multi",
+    "ref": "1Nep1:1",
+    "question": "Nephi was born of _____ parents.",
+    "answer": ["Goodly"],
+    "options": ["Bad", "Naughty", "Goodly"]
+  },
+  {
+    "id": "150",
+    "type": "bool",
+    "ref": "1Nep1:1",
+    "question": "Nephi was taught somewhat in all the learning of his father.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "151",
+    "type": "multi",
+    "ref": "1Nep1:1",
+    "question": "Nephi saw many_____ in the course of his days.",
+    "answer": ["afflictions"],
+    "options": ["bad things", "afflictions", "parties"]
+  },
+  {
+    "id": "152",
+    "type": "fill",
+    "ref": "1Nep1:13, Alma 12:221, 42:2-3",
+    "question": "What modern day weapon has been around since the beginning of man?",
+    "answer": ["Sword"],
+    "options": ["fill"]
+  },
+  {
+    "id": "153",
+    "type": "bool",
+    "ref": "1Nep1:1",
+    "question": "Nephi was highly favored of the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "154",
+    "type": "fill",
+    "ref": "1Nep1:1",
+    "question": "What Book of Mormon historian was highly favored of the Lord?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "155",
+    "type": "multi",
+    "ref": "1Nep1:1",
+    "question": "How many days was, Nephi highly favored of the Lord?  c-(B)",
+    "answer": ["all"],
+    "options": ["half", "all", "neither half nor all"]
+  },
+  {
+    "id": "156",
+    "type": "fill",
+    "ref": "1Nep1:1",
+    "question": "Nephi had_____ knowledge of the goodness and the mysteries of God.",
+    "answer": ["Great"],
+    "options": ["fill"]
+  },
+  {
+    "id": "157",
+    "type": "bool",
+    "ref": "1Nep1:1",
+    "question": "Nephi was not a very smart prophet.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "158",
+    "type": "bool",
+    "ref": "1Nep1:1",
+    "question": "Nephi said: “I make a record of my proceedings in my days”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "160",
+    "type": "fill",
+    "ref": "1Nep1:2",
+    "question": "Nephi made a record in the _____ of his father.",
+    "answer": ["Language"],
+    "options": ["fill"]
+  },
+  {
+    "id": "161",
+    "type": "multi",
+    "ref": "1Nep1:1",
+    "question": "Nephi’s writing’s consists of the learning of what tribe of people?",
+    "answer": ["Jews"],
+    "options": ["Jews", "Egyptians", "Mongols"]
+  },
+  {
+    "id": "162",
+    "type": "multi",
+    "ref": "1Nep1:2 & Mosiah1:4",
+    "question": "Nephi was taught by his father in the language of the _____",
+    "answer": ["Egyptians"],
+    "options": ["Israelites", "Egyptians", "Mongols"]
+  },
+  {
+    "id": "163",
+    "type": "bool",
+    "ref": "1Nep1:2",
+    "question": "Nephi taught Lehi the language of the Egyptians.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "164",
+    "type": "bool",
+    "ref": "1Nep1:3",
+    "question": "Nephi said that his record is somewhat true as far as he can remember.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "165",
+    "type": "bool",
+    "ref": "1Nep1:3",
+    "question": "Nephi wrote that: The record which I make is true; and I make it with m1ne own hand”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "166",
+    "type": "multi",
+    "ref": "1Nep1:3",
+    "question": "Nephi made the record according to his_____.  (a) -(C)",
+    "answer": ["knowledge"],
+    "options": ["memory", "will", "knowledge"]
+  },
+  {
+    "id": "167",
+    "type": "multi",
+    "ref": "1Nep1:4",
+    "question": "It came to pass in the commencement of the_____ year of the reign Zedekiah.",
+    "answer": ["1st"],
+    "options": ["1st", "2nd", "3rd"]
+  },
+  {
+    "id": "168",
+    "type": "fill",
+    "ref": "1Nep1:4",
+    "question": "Who was the king of Judah at the time that Nephi wrote the book of Nephi?",
+    "answer": ["Zedekiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "169",
+    "type": "multi",
+    "ref": "1Nep1:4",
+    "question": "What body of land did king Zedekiah reign over.",
+    "answer": ["Judah"],
+    "options": ["Egypt", "Israel", "Judah"]
+  },
+  {
+    "id": "170",
+    "type": "fill",
+    "ref": "1Nep1:4",
+    "question": "What important city was located in the land of Judah?",
+    "answer": ["Jerusalem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "171",
+    "type": "bool",
+    "ref": "1Nep1:4",
+    "question": "In the beginning of the Book of Nephi: He writes that Lehi lived in Jerusalem all his days.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "172",
+    "type": "bool",
+    "ref": "1Nep1:4",
+    "question": "Lehi was Nephi's uncle.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "173",
+    "type": "bool",
+    "ref": "1Nep1:4",
+    "question": "Lehi was the father of Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "174",
+    "type": "multi",
+    "ref": "1Nep1:4",
+    "question": "What kind of people came to Jerusalem at the same year of the commencement of the reign of King Zedekiah?",
+    "answer": ["Prophets"],
+    "options": ["Jews", "Prophets", "Hebrews"]
+  },
+  {
+    "id": "175",
+    "type": "bool",
+    "ref": "1Nep1:4",
+    "question": "Many prophets came to the city of Jerusalem and prophesied that if the people did not repent, the city would be destroyed.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "176",
+    "type": "fill",
+    "ref": "1Nep1:4",
+    "question": "What city in the land of Judah would be destroyed if the people did not repent?",
+    "answer": ["Jerusalem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "177",
+    "type": "bool",
+    "ref": "1Nep1:4",
+    "question": "The city of Jerusalem; was a great city according to Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "178",
+    "type": "multi",
+    "ref": "1Nep1:5",
+    "question": "Lehi prayed on behalf of his_____.",
+    "answer": ["People"],
+    "options": ["Wives", "Pets", "People"]
+  },
+  {
+    "id": "179",
+    "type": "fill",
+    "ref": "1Nep1:5",
+    "question": "Who did Lehi pray to and asked that the city would not be destroyed?",
+    "answer": ["god", "lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "180",
+    "type": "bool",
+    "ref": "1Nep1:5",
+    "question": "Lehi prayed to the Lord with all his heart.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "181",
+    "type": "fill",
+    "ref": "1Nep1:6",
+    "question": "As Lehi prayed unto the Lord, there came a pillar of_____.",
+    "answer": ["Fire"],
+    "options": ["fill"]
+  },
+  {
+    "id": "182",
+    "type": "bool",
+    "ref": "1Nep1:6",
+    "question": "When Lehi was praying unto the Lord, a pillar of fire appeared.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "183",
+    "type": "bool",
+    "ref": "1Nep1:6",
+    "question": "The pillar of fire did not dwell upon a rock; instead it flew over Lehi’s head.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "184",
+    "type": "bool",
+    "ref": "1Nep1:6",
+    "question": "Because of the pillar of fire, Lehi saw and heard much.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "185",
+    "type": "multi",
+    "ref": "1Nep1:6",
+    "question": "Because of the things Lehi saw and heard he did quake and_____ exceedingly.",
+    "answer": ["Tremble"],
+    "options": ["Danced The Macarena", "Did The Twist", "Tremble"]
+  },
+  {
+    "id": "186",
+    "type": "multi",
+    "ref": "1Nep1:7",
+    "question": "Lehi cast himself upon his bed, being overcome by the_____.",
+    "answer": ["Spirit"],
+    "options": ["Heat", "Spirit", "Devil"]
+  },
+  {
+    "id": "187",
+    "type": "bool",
+    "ref": "1Nep1:7",
+    "question": "Lehi cast himself to bed because he was overcome by the Spirit.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "188",
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "And being thus overcome with the Spirit, Lehi was carried away in a_____.",
+    "answer": ["Vision"],
+    "options": ["fill"]
+  },
+  {
+    "id": "189",
+    "type": "multi",
+    "ref": "1Nep1:8",
+    "question": "Lehi saw in his vision the_____ opened.",
+    "answer": ["Heavens"],
+    "options": ["Earth", "Heavens", "Neither"]
+  },
+  {
+    "id": "190",
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "In his vision, who did Lehi see sitting upon his throne?",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "191",
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "Lehi saw God sitting upon his_____.",
+    "answer": ["Throne"],
+    "options": ["fill"]
+  },
+  {
+    "id": "192",
+    "type": "bool",
+    "ref": "1Nep1:8",
+    "question": "In his vision Lehi saw the Devil being cast out of heaven.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "193",
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "_____was sitting upon his throne, surrounded with numberless concourses of angels.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "194",
+    "type": "bool",
+    "ref": "1Nep1:8",
+    "question": "God sat on his throne, and was surrounded by one million angels.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "195",
+    "type": "bool",
+    "ref": "1Nep1:8",
+    "question": "As God sat on his throne, angels were singing and praising their God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "196",
+    "type": "fill",
+    "ref": "1Nep1:8",
+    "question": "In his vision, Lehi saw____ singing and praising their God.",
+    "answer": ["Angels"],
+    "options": ["fill"]
+  },
+  {
+    "id": "197",
+    "type": "fill",
+    "ref": "1Nep1:9",
+    "question": "Lehi saw one/person descending out of the midst of_____.",
+    "answer": ["Heaven"],
+    "options": ["fill"]
+  },
+  {
+    "id": "198",
+    "type": "bool",
+    "ref": "1Nep1:9",
+    "question": "The person’s luster that Lehi saw descending out of heaven was above that of the sun at noon-day.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "199",
+    "type": "bool",
+    "ref": "1Nep1:9",
+    "question": "The word “noon-day” only appears once in the text of the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "200",
+    "type": "multi",
+    "ref": "1Nep1:9",
+    "question": "How many times does the word “noon-day” appear in the text of the Book of Mormon?",
+    "answer": ["1"],
+    "options": ["1", "2", "3"]
+  },
+  {
+    "id": "201",
+    "type": "multi",
+    "ref": "1Nep1:10",
+    "question": "How many persons followed the first person that Lehi saw in his vision?",
+    "answer": ["12"],
+    "options": ["3", "Six", "12"]
+  },
+  {
+    "id": "202",
+    "type": "bool",
+    "ref": "1Nep1:10",
+    "question": "Twelve others followed the first person that Lehi saw in his vision.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "203",
+    "type": "bool",
+    "ref": "1Nep1:10",
+    "question": "The brightness of the twelve people that Lehi saw in his vision exceeded that of the stars in the firmament.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "204",
+    "type": "multi",
+    "ref": "1Nep1:10",
+    "question": "Whose brightness exceeded that of the stars in the firmament?",
+    "answer": ["The Twelve"],
+    "options": ["The Devil", "The Twelve", "Laman’s"]
+  },
+  {
+    "id": "205",
+    "type": "bool",
+    "ref": "1Nep1:11",
+    "question": "The first person that Lehi saw descending out of heaven and the twelve others that followed him; came down and went forth upon the face of the earth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "206",
+    "type": "fill",
+    "ref": "1Nep1:11",
+    "question": "All the people that Lehi saw descending out of heaven came down and went forth upon the face of the_____.",
+    "answer": ["Earth"],
+    "options": ["fill"]
+  },
+  {
+    "id": "207",
+    "type": "multi",
+    "ref": "1Nep1:11",
+    "question": "What person stood before Lehi and gave him a book and bade him to read it.",
+    "answer": ["1st Person"],
+    "options": ["1st Person", "2nd Person", "The 3rd"]
+  },
+  {
+    "id": "208",
+    "type": "bool",
+    "ref": "1Nep1:11",
+    "question": "Lehi choose not to read the book that the first person gave him to read.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "209",
+    "type": "fill",
+    "ref": "1Nep1:12",
+    "question": "When Lehi read the book that he was given; he was filled with the____ of the Lord.",
+    "answer": ["Spirit"],
+    "options": ["fill"]
+  },
+  {
+    "id": "210",
+    "type": "bool",
+    "ref": "1Nep1:12",
+    "question": "Lehi did not pray before he read the book that he was given and consequently, did not feel the Spirit of the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "211",
+    "type": "fill",
+    "ref": "1Nep1:13",
+    "question": "In the book that he was given Lehi saw the abominations of what city in the land of Judah?",
+    "answer": ["Jerusalem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "212",
+    "type": "fill",
+    "ref": "1Nep1:13",
+    "question": "Lehi said: “Woe, woe, unto_____, for I have seen th1ne abominations!”",
+    "answer": ["Jereusalem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "213",
+    "type": "bool",
+    "ref": "1Nep1:13",
+    "question": "Lehi saw and read many things concerning the city of Jerusalem.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "214",
+    "type": "bool",
+    "ref": "1Nep1:13",
+    "question": "Lehi saw and read that the city of Jerusalem would be destroyed and also it's inhabitants.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "215",
+    "type": "multi",
+    "ref": "1Nep1:13",
+    "question": "Many of the people of Jerusalem would perish by the_____ and be carried away captive.",
+    "answer": ["Sword"],
+    "options": ["Knife", "Sword", "Fam1ne"]
+  },
+  {
+    "id": "216",
+    "type": "bool",
+    "ref": "1Nep1:13",
+    "question": "Only those that were unrighteous would perish by the sword and be carried into captivity.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "217",
+    "type": "fill",
+    "ref": "1Nep1:13",
+    "question": "Lehi saw the people of Jerusalem perish and be carried away captive to_____.",
+    "answer": ["Babylon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "218",
+    "type": "multi",
+    "ref": "1Nep1:14",
+    "question": "Lehi read and saw many_____ and marvelous things and exclaimed many things unto the Lord.",
+    "answer": ["Great"],
+    "options": ["Bad", "Good", "Great"]
+  },
+  {
+    "id": "219",
+    "type": "multi",
+    "ref": "1Nep1:14",
+    "question": "Lehi said “great and marvelous are thy works, O Lord God_____",
+    "answer": ["Almighty"],
+    "options": ["Almighty", "Gosh Darn It", "Its All Good"]
+  },
+  {
+    "id": "220",
+    "type": "multi",
+    "ref": "1Nep1:14",
+    "question": "According to Lehi, where is the throne of God located?",
+    "answer": ["The Heavens"],
+    "options": ["Close To The Moon", "The Heavens", "Underneath The Stars"]
+  },
+  {
+    "id": "221",
+    "type": "bool",
+    "ref": "1Nep1:14",
+    "question": "Lehi said the throne of God is located in the heavens.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "222",
+    "type": "multi",
+    "ref": "1Nep1:14",
+    "question": "Lehi said that God’s power, goodness, and mercy are over all the_____ of the earth.",
+    "answer": ["Inhabitants"],
+    "options": ["People", "Inhabitants", "Unrighteous"]
+  },
+  {
+    "id": "223",
+    "type": "bool",
+    "ref": "1Nep1:14",
+    "question": "Lehi said that God is merciful.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "224",
+    "type": "bool",
+    "ref": "1Nep1:14",
+    "question": "Lehi saw and read that God was not very merciful to the inhabitants of Jerusalem.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "225",
+    "type": "fill",
+    "ref": "1Nep1:14",
+    "question": "Because God is _____, he will not suffer those that come unto him to perish.",
+    "answer": ["Merciful"],
+    "options": ["fill"]
+  },
+  {
+    "id": "226",
+    "type": "bool",
+    "ref": "1Nep1:15",
+    "question": "Lehi did not praise God because of the things he had seen.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "227",
+    "type": "bool",
+    "ref": "1Nep1:15",
+    "question": "Because of the things Lehi saw his soul did rejoice.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "228",
+    "type": "fill",
+    "ref": "1Nep1:15",
+    "question": "Lehi’s soul did rejoice, and his_____ was filled because of the things he saw.",
+    "answer": ["Heart"],
+    "options": ["fill"]
+  },
+  {
+    "id": "229",
+    "type": "bool",
+    "ref": "1Nep1:16",
+    "question": "Nephi made a full account of the thing which his father wrote.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "230",
+    "type": "fill",
+    "ref": "1Nep1:16",
+    "question": "Lehi wrote many things which he saw in visions and in_____.",
+    "answer": ["Dreams"],
+    "options": ["fill"]
+  },
+  {
+    "id": "231",
+    "type": "multi",
+    "ref": "1Nep1:16",
+    "question": "Nephi said that Lehi had written many things which he prophesied and spoke unto his_____.",
+    "answer": ["Children"],
+    "options": ["Daughters", "Uncles", "Children"]
+  },
+  {
+    "id": "232",
+    "type": "bool",
+    "ref": "1Nep1:17",
+    "question": "Nephi made an account of his proceedings.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "233",
+    "type": "fill",
+    "ref": "1Nep1:17",
+    "question": "Who made an abridgement of the record of his father?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "234",
+    "type": "fill",
+    "ref": "1Nep1:17",
+    "question": "The plates that Nephi made for the record, were made by his_____.",
+    "answer": ["Hand"],
+    "options": ["fill"]
+  },
+  {
+    "id": "235",
+    "type": "bool",
+    "ref": "1Nep1:17",
+    "question": "Nephi first made an abridgment of the record of Lehi then he made an account of his life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "236",
+    "type": "bool",
+    "ref": "1Nep1:18",
+    "question": "Lehi prophesied and declared to the people of Jerusalem the marvelous things which he had seen and heard.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "237",
+    "type": "fill",
+    "ref": "1Nep1:19",
+    "question": "The Jews did_____, Lehi because of the things he testified of them.",
+    "answer": ["Mock"],
+    "options": ["fill"]
+  },
+  {
+    "id": "238",
+    "type": "bool",
+    "ref": "1Nep1:19",
+    "question": "Lehi testified to the Jews of things which he saw and heard, and also of the things which he read in a book.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "239",
+    "type": "fill",
+    "ref": "1Nep1:19",
+    "question": "The book which Lehi read; manifested plainly of the coming of the_____.",
+    "answer": ["Messiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "240",
+    "type": "bool",
+    "ref": "1Nep1:20",
+    "question": "The Jews were angry with Lehi even as with the prophets of old.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "241",
+    "type": "fill",
+    "ref": "1Nep1:20",
+    "question": "Because of the things that he had said, the Jews sought to kill_____.",
+    "answer": ["Lehi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "242",
+    "type": "fill",
+    "ref": "1Nep1:20",
+    "question": "The Jews: _____out, and stoned, and slain, the prophets of old in the city of Jerusalem.",
+    "answer": ["Cast"],
+    "options": ["fill"]
+  },
+  {
+    "id": "243",
+    "type": "bool",
+    "ref": "1Nep1:20",
+    "question": "Nephi wrote that he would show unto us that the tender mercies of the Lord are over all those whom he hath chosen.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "244",
+    "type": "multi",
+    "ref": "1Nep1:20",
+    "question": "Because of their_____, the Lord will make those that he has chosen mighty even unto the power of deliverance.",
+    "answer": ["Faith"],
+    "options": ["Riches", "Pride", "Faith"]
+  },
+  {
+    "id": "245",
+    "type": "bool",
+    "ref": "1Nep1:19-20",
+    "question": "The Jews were angry with Lehi because he testified of their wickedness and abominations.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "246",
+    "type": "bool",
+    "ref": "1Nep2:1",
+    "question": "The Lord spoke to Lehi in a dream and told him he was blessed for things that he had done.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "247",
+    "type": "fill",
+    "ref": "1Nep2:1",
+    "question": "Lehi was faithful and declared unto the people the things which the_____ had commanded him to say.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "248",
+    "type": "bool",
+    "ref": "1Nep2:1",
+    "question": "The people in Jerusalem sough to take away Lehi’s life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "249",
+    "type": "fill",
+    "ref": "1Nep2:2",
+    "question": "The ____ came to Lehi in a dream and commanded him to depart into the wilderness.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "250",
+    "type": "bool",
+    "ref": "1Nep2:3",
+    "question": "Lehi did not obey the word of the Lord, and did not depart until he was ready.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "251",
+    "type": "fill",
+    "ref": "1Nep2:5",
+    "question": "By what borders and shore of a sea did Lehi and his family travel to?",
+    "answer": ["Red Sea"],
+    "options": ["fill"]
+  },
+  {
+    "id": "252",
+    "type": "fill",
+    "ref": "1Nep2:5",
+    "question": "What was Nephi’s mother’s name?",
+    "answer": ["Sariah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "253",
+    "type": "multi",
+    "ref": "1Nep2:6",
+    "question": "How many days did Lehi and his family travel before pitching their tents for the first time?",
+    "answer": ["3"],
+    "options": ["2", "3", "4"]
+  },
+  {
+    "id": "254",
+    "type": "multi",
+    "ref": "1Nep2:7",
+    "question": "And it came to pass that Lehi built an altar of_____.",
+    "answer": ["Stones"],
+    "options": ["Rocks", "Clay", "Stones"]
+  },
+  {
+    "id": "255",
+    "type": "bool",
+    "ref": "1Nep2:7",
+    "question": "Nephi made an offering unto the Lord and gave thanks unto the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "256",
+    "type": "multi",
+    "ref": "1Nep2:8",
+    "question": "Which son die Lehi name a river after; that emptied into the Red Sea?",
+    "answer": ["Laman"],
+    "options": ["Nephi", "Sam,", "Laman"]
+  },
+  {
+    "id": "257",
+    "type": "multi",
+    "ref": "1Nep2:8",
+    "question": "The name of the river that emptied into the Red Sea was called_____.",
+    "answer": ["Laman"],
+    "options": ["The Snake,", "The Mississippi,", "Laman"]
+  },
+  {
+    "id": "258",
+    "type": "bool",
+    "ref": "1Nep2:8",
+    "question": "Lehi named a river after one of his sons",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "259",
+    "type": "fill",
+    "ref": "1Nep2:9",
+    "question": "Which one of his son’s was Lehi speaking to when he said” O that thou mightest be like unto this river, continually running into the fountain of all righteousness!",
+    "answer": ["Laman"],
+    "options": ["fill"]
+  },
+  {
+    "id": "260",
+    "type": "bool",
+    "ref": "1Nep2:10",
+    "question": "Lehi was referring to Lemuel when he said “O that thou might be like unto this valley, firm and stead-fest, and immovable in keeping the commandments of the Lord!”",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "261",
+    "type": "multi",
+    "ref": "1Nep2:11",
+    "question": "Lehi spoke encouraging words to Laman and Lemuel because of their_____.",
+    "answer": ["Stiffneckedness"],
+    "options": ["Looks", "Stiffneckedness", "Clothes"]
+  },
+  {
+    "id": "262",
+    "type": "bool",
+    "ref": "1Nep2:11",
+    "question": "For behold Laman and Lemuel did murmur in many things against Lehi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "263",
+    "type": "bool",
+    "ref": "1Nep2:11",
+    "question": "Lehi was a visionary man.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "264",
+    "type": "fill",
+    "ref": "1Nep2:11",
+    "question": "Nephi’s brothers murmured because Lehi had led them out of Jerusalem, to leave the land of their inheritance, and their gold and_____.",
+    "answer": ["Silver"],
+    "options": ["fill"]
+  },
+  {
+    "id": "265",
+    "type": "bool",
+    "ref": "1Nep2:11",
+    "question": "Laman and Lemuel left behind their precious things and thought they were going to perish in the wilderness.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "266",
+    "type": "multi",
+    "ref": "1Nep2:11",
+    "question": "Nephi’s brothers said that Lehi had led them into the wilderness because of the foolish imaginations of his_____.",
+    "answer": ["Heart"],
+    "options": ["Heart", "Head", "Mind"]
+  },
+  {
+    "id": "267",
+    "type": "fill",
+    "ref": "1Nep2:12",
+    "question": "Laman and Lemuel murmured because they did not know the dealings of that_____, who had created them.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "268",
+    "type": "multi",
+    "ref": "1Nep2:13",
+    "question": "Laman and Lemuel did not believe that what great city could be destroyed.",
+    "answer": ["Jerusalem"],
+    "options": ["Salt Lake City,", "Sugar City,", "Jerusalem"]
+  },
+  {
+    "id": "269",
+    "type": "multi",
+    "ref": "1Nep2:13",
+    "question": "Nephi’s two older brothers did not believe that Jerusalem could be destroyed according to the words of the_____.",
+    "answer": ["Prophets"],
+    "options": ["3 Wise Men", "Prophets", "Holy Men"]
+  },
+  {
+    "id": "270",
+    "type": "bool",
+    "ref": "1Nep2:13",
+    "question": "Nephi writes that his older brothers were like the Jews who sought to take away the life of his father.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "271",
+    "type": "fill",
+    "ref": "1Nep2:14",
+    "question": "Lehi spoke to Laman and Lemuel in the valley of_____, with great power.",
+    "answer": ["Lemuel"],
+    "options": ["fill"]
+  },
+  {
+    "id": "272",
+    "type": "fill",
+    "ref": "1Nep2:14",
+    "question": "Lehi spoke to his eldest sons with great power because he was filled with the____ of the Lord.",
+    "answer": ["Spirit"],
+    "options": ["fill"]
+  },
+  {
+    "id": "273",
+    "type": "multi",
+    "ref": "1Nep2:14",
+    "question": "Laman and Lemuel’s frame_____ because of the spirit of the Lord in Lehi.",
+    "answer": ["Shook"],
+    "options": ["Rocked", "Rolled", "Shook"]
+  },
+  {
+    "id": "274",
+    "type": "bool",
+    "ref": "1Nep2:14",
+    "question": "The words that Lehi spoke confounded Laman and Lemuel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "275",
+    "type": "bool",
+    "ref": "1Nep2:15",
+    "question": "Nephi writes that Lehi lived in a pretty nice house.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "276",
+    "type": "bool",
+    "ref": "1Nep2:14",
+    "question": "Because of the words Lehi spoke to Laman and Lemuel they did not utter a word against him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "277",
+    "type": "fill",
+    "ref": "1Nep2:16",
+    "question": "Who was exceedingly young and large in stature?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "278",
+    "type": "bool",
+    "ref": "1Nep2:16",
+    "question": "Nephi did not have a great desire to know of the mysteries of God.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "279",
+    "type": "fill",
+    "ref": "1Nep2:16",
+    "question": "Nephi cried unto God so that he could know of his_____.",
+    "answer": ["Mysteries"],
+    "options": ["fill"]
+  },
+  {
+    "id": "280",
+    "type": "bool",
+    "ref": "1Nep2:16",
+    "question": "Nephi’s heart was softened when he cried unto the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "281",
+    "type": "multi",
+    "ref": "1Nep2:16",
+    "question": "Who did the Lord visit when he cried unto him?",
+    "answer": ["Nephi"],
+    "options": ["Laman", "Lamuel", "Nephi"]
+  },
+  {
+    "id": "282",
+    "type": "fill",
+    "ref": "1Nep2:16",
+    "question": "Because his heart was softened: Nephi, believed all the_____ which had been spoken by his father.",
+    "answer": ["Words"],
+    "options": ["fill"]
+  },
+  {
+    "id": "283",
+    "type": "bool",
+    "ref": "1Nep2:17",
+    "question": "Sam the brother of Nephi; did not believe in the words that Nephi had spoken to him.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "284",
+    "type": "multi",
+    "ref": "1Nep2:17",
+    "question": "What brother believed Nephi’s words when he spoke to them concerning the things which the Lord had manifested unto him?",
+    "answer": ["Sam"],
+    "options": ["Laman,", "Lemuel", "Sam"]
+  },
+  {
+    "id": "285",
+    "type": "fill",
+    "ref": "1Nep2:18",
+    "question": "Laman and Lemuel would not _____ unto the words that Nephi said to them.",
+    "answer": ["Hearken"],
+    "options": ["fill"]
+  },
+  {
+    "id": "286",
+    "type": "multi",
+    "ref": "1Nep2:18",
+    "question": "Nephi cried unto the Lord because of the _____ of the hearts of his two older brothers.",
+    "answer": ["Hardness"],
+    "options": ["Heads", "Hardness", "Softness"]
+  },
+  {
+    "id": "287",
+    "type": "bool",
+    "ref": "1Nep2:18",
+    "question": "Nephi was grieved because of the hardness of the hearts of his two older brothers.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "288",
+    "type": "fill",
+    "ref": "1Nep2:19",
+    "question": "Who did the Lord visit because of his faith and his lowl1ness of heart?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "289",
+    "type": "bool",
+    "ref": "1Nep2:19",
+    "question": "Because of his faith, Nephi diligently sought the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "290",
+    "type": "multi",
+    "ref": "1Nep2:20 & 1Nep18:22-23",
+    "question": "Who did the Lord say that he would lead to a promise land?",
+    "answer": ["Nephi"],
+    "options": ["Nephi", "Lehi", "Laman"]
+  },
+  {
+    "id": "291",
+    "type": "fill",
+    "ref": "1Nep2:19-20",
+    "question": "Who is the first person the Lord said these words to “in as-much as ye shall keep my commandments, ye shall prosper”.",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "292",
+    "type": "bool",
+    "ref": "1Nep2:20",
+    "question": "The Lord did not prepare a choice land that was above all other lands for Nephi.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "293",
+    "type": "multi",
+    "ref": "1Nep2:20",
+    "question": "In as much as Laman and Lemuel rebel against_____; they shall be cut off from the presence of the Lord.",
+    "answer": ["Lehi"],
+    "options": ["Lehi", "Neph"]
+  },
+  {
+    "id": "294",
+    "type": "fill",
+    "ref": "1Nep2:22",
+    "question": "Who did the Lord say needed to keep his commandments and he would be made a teacher and ruler over his older brothers?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "295",
+    "type": "fill",
+    "ref": "1Nep2:22",
+    "question": "Who was chosen to be a ruler and a teacher over his brothers?_____",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "296",
+    "type": "bool",
+    "ref": "1Nep2:23",
+    "question": "In the day that Laman and Lemuel rebel against the Lord, he would curse them with a sore curse.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "297",
+    "type": "fill",
+    "ref": "1Nep2:23",
+    "question": "Laman and Lemuel’s seed shall have no power over the seed of Nephi unless they_____ against the Lord also.",
+    "answer": ["Rebel"],
+    "options": ["fill"]
+  },
+  {
+    "id": "298",
+    "type": "multi",
+    "ref": "1Nep3:1",
+    "question": "Nephi returned to his____ after he had spoken to the Lord.",
+    "answer": ["Tent"],
+    "options": ["House", "Tent", "Sanctuary"]
+  },
+  {
+    "id": "299",
+    "type": "multi",
+    "ref": "1Nep3:2",
+    "question": "In a dream, Lehi was_____ by the Lord to send Nephi and his older brothers back to Jerusalem.",
+    "answer": ["Commanded"],
+    "options": ["Told", "Commanded", "Asked"]
+  },
+  {
+    "id": "300",
+    "type": "fill",
+    "ref": "1Nep3:3",
+    "question": "Who had a record of the Jews and also a genealogy of Lehi’s forefathers?",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "301",
+    "type": "multi",
+    "ref": "1Nep3:3",
+    "question": "What type of metal plates was the record of the Jews engraved on?",
+    "answer": ["Brass"],
+    "options": ["Gold", "Silver", "Brass"]
+  },
+  {
+    "id": "302",
+    "type": "bool",
+    "ref": "1Nep3:4",
+    "question": "Lehi required that Nephi and his brothers get the record from Laban.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "303",
+    "type": "bool",
+    "ref": "1Nep3:4",
+    "question": "Nephi and his brothers did not go the house of Laban, instead they went to work.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "304",
+    "type": "multi",
+    "ref": "1Nep3:5",
+    "question": "Who did Laman and Lemuel murmur against, saying it was a hard thing that the Lord had required of them.",
+    "answer": ["Lehi"],
+    "options": ["Lehi", "God", "Nephi"]
+  },
+  {
+    "id": "305",
+    "type": "bool",
+    "ref": "1Nep3:5",
+    "question": "Nephi and his older brothers were required and not commanded to go to the house of Laban by the Lord.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "306",
+    "type": "fill",
+    "ref": "1Nep3:6",
+    "question": "Who was favored of the Lord because he did not murmur of the thing that the Lord had commanded of him?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "307",
+    "type": "bool",
+    "ref": "1Nep3:7",
+    "question": "And it came to pass that Nephi did as he was commanded.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "308",
+    "type": "fill",
+    "ref": "1Nep3:7",
+    "question": "Nephi said, “I know that the Lord gives no_____ unto the children of men unless he shall prepare a way for them that they may accomplish the thing which he commands them”.",
+    "answer": ["Commandments"],
+    "options": ["fill"]
+  },
+  {
+    "id": "309",
+    "type": "bool",
+    "ref": "1Nep3:8",
+    "question": "Lehi was pleased because of the words Nephi had said, concerning the commandments of the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "310",
+    "type": "fill",
+    "ref": "1Nep3:9",
+    "question": "Nephi and his brothers went up to what city to get the plates?",
+    "answer": ["Jerusalem"],
+    "options": ["fill"]
+  },
+  {
+    "id": "311",
+    "type": "bool",
+    "ref": "1Nep3:10",
+    "question": "Nephi and his brothers did not consult with one another when they got to Jerusalem for the plates.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "312",
+    "type": "multi",
+    "ref": "1Nep3:11",
+    "question": "How did Nephi and his brothers do to decide which one of them would go to the house of Laban to get the plates?",
+    "answer": ["Cast Lots"],
+    "options": ["Draw Straws", "Cast Lots", "Played Paper, Rock, Scissors."]
+  },
+  {
+    "id": "313",
+    "type": "fill",
+    "ref": "1Nep3:11",
+    "question": "Who was the first person decided upon to go to the house of Laban to get the brass plates?_____",
+    "answer": ["Laman"],
+    "options": ["fill"]
+  },
+  {
+    "id": "314",
+    "type": "multi",
+    "ref": "1Nep3:11",
+    "question": "Concerning the plates, Laman talked with Laban in his_____.",
+    "answer": ["House"],
+    "options": ["House", "Tent", "Treasury"]
+  },
+  {
+    "id": "315",
+    "type": "bool",
+    "ref": "1Nep3:12",
+    "question": "Laman desired of Laban the records which were engraved upon the plates of brass.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "316",
+    "type": "fill",
+    "ref": "1Nep3:12",
+    "question": "The plates of brass conta1ned the_____ of Nephi’s father.",
+    "answer": ["Genealogy"],
+    "options": ["fill"]
+  },
+  {
+    "id": "317",
+    "type": "bool",
+    "ref": "1Nep3:13",
+    "question": "Laban welcomed Laman with open arms and hugs when he arrived to his house.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "318",
+    "type": "bool",
+    "ref": "1Nep3:13",
+    "question": "Laban did not want to give the brass plates to Laman.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "319",
+    "type": "multi",
+    "ref": "1Nep3:13",
+    "question": "Laban accused Laman of being a _____.",
+    "answer": ["Robber"],
+    "options": ["Thief", "Robber", "Swindler."]
+  },
+  {
+    "id": "320",
+    "type": "fill",
+    "ref": "1Nep3:14",
+    "question": "Who fled out of the presence of Laban and told Nephi and his brothers what Laban had done?",
+    "answer": ["Laman"],
+    "options": ["fill"]
+  },
+  {
+    "id": "321",
+    "type": "multi",
+    "ref": "1Nep3:14",
+    "question": "Nephi and his brothers began to be exceedingly_____ because of the things Laban had done.",
+    "answer": ["Sorrowful"],
+    "options": ["Sorrowful", "Angry", "Crazy"]
+  },
+  {
+    "id": "322",
+    "type": "bool",
+    "ref": "1Nep3:14",
+    "question": "Nephi’s brothers were about to return to their father in the wilderness because of what Laban had done.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "323",
+    "type": "fill",
+    "ref": "1Nep3:15",
+    "question": "Who said: “As the Lord lives, and as we live, we will not go down unto our father until we have accomplished the things he has commanded”.",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "324",
+    "type": "multi",
+    "ref": "1Nep3:16",
+    "question": "Wherefore, let us be faithful in keeping the_____ of the Lord.",
+    "answer": ["Commandments"],
+    "options": ["Statues", "Laws", "Commandments"]
+  },
+  {
+    "id": "325",
+    "type": "bool",
+    "ref": "1Nep3:16",
+    "question": "Lehi left behind all his gold, silver, and all manner of riches when he left Jerusalem.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "326",
+    "type": "multi",
+    "ref": "1Nep3:17",
+    "question": "Lehi knew that Jerusalem must be destroyed because of the _____ of the people.",
+    "answer": ["Wickedness"],
+    "options": ["Filth1ness", "Lawlessness", "Wickedness"]
+  },
+  {
+    "id": "327",
+    "type": "fill",
+    "ref": "1Nep3:18",
+    "question": "The _____ of Jerusalem rejected the words of the prophets.",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "328",
+    "type": "bool",
+    "ref": "1Nep3:19",
+    "question": "Nephi said: 'it is the wisdom in God that we should obtain these records'.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "329",
+    "type": "fill",
+    "ref": "1Nep3:19",
+    "question": "And behold, it is wisdom in God that we should obtain these records that we may preserve the_____ of our fathers.",
+    "answer": ["Language"],
+    "options": ["fill"]
+  },
+  {
+    "id": "330",
+    "type": "bool",
+    "ref": "1Nep3:20",
+    "question": "Nephi wanted to preserve the words that had been spoken by the holy prophets unto his children.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "331",
+    "type": "fill",
+    "ref": "1Nep3:20",
+    "question": "The words of the holy prophets have been delivered to them by the Spirit and _____ of God, since the world began, even down to the present time.",
+    "answer": ["Power"],
+    "options": ["fill"]
+  },
+  {
+    "id": "332",
+    "type": "multi",
+    "ref": "1Nep3:21",
+    "question": "Nephi wanted to persuade Laman and Lemuel to _____",
+    "answer": ["Be Faithful In Keeping The Commandments Of God."],
+    "options": [
+      "Slay Laban",
+      "Bribe Laban",
+      "Be Faithful In Keeping The Commandments Of God."
+    ]
+  },
+  {
+    "id": "333",
+    "type": "fill",
+    "ref": "1Nep3:22",
+    "question": "Nephi and his brothers went down to the land of their inheritance and gathered their gold, silver, and their_____ things.",
+    "answer": ["Precious"],
+    "options": ["fill"]
+  },
+  {
+    "id": "334",
+    "type": "bool",
+    "ref": "1Nep3:24",
+    "question": "Nephi and his brothers wanted to trade their gold, silver and their precious things for the brass plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "335",
+    "type": "multi",
+    "ref": "1Nep3:25",
+    "question": "When Laban saw the property of Nephi and his brothers and that it was exceedingly great, he did_____ after it.",
+    "answer": ["Lust"],
+    "options": ["Desire", "Seek", "Lust"]
+  },
+  {
+    "id": "336",
+    "type": "bool",
+    "ref": "1Nep3:26",
+    "question": "Nephi and his brothers fled from Laban and had to leave their property behind which fell into the hands of Zoram.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "337",
+    "type": "multi",
+    "ref": "1Nep3:26-27",
+    "question": "Who did Laban send to slay Nephi and his brothers?",
+    "answer": ["His Servants"],
+    "options": ["His Bodyguards", "His Servants", "His Army"]
+  },
+  {
+    "id": "338",
+    "type": "multi",
+    "ref": "1Nep3:27",
+    "question": "Where did Nephi and his brothers hide that the servants of Laban could not overtake them?",
+    "answer": ["Cavity Of A Rock"],
+    "options": ["Shed", "Forest", "Cavity Of A Rock"]
+  },
+  {
+    "id": "339",
+    "type": "fill",
+    "ref": "1Nep3:28",
+    "question": "Who was angry with Nephi, Lehi and Lemuel?",
+    "answer": ["Laman"],
+    "options": ["fill"]
+  },
+  {
+    "id": "340",
+    "type": "fill",
+    "ref": "1Nep3:28",
+    "question": "Lemuel would not hearken unto Nephi, but hearkened unto_____.",
+    "answer": ["Laman"],
+    "options": ["fill"]
+  },
+  {
+    "id": "341",
+    "type": "bool",
+    "ref": "1Nep3:28-29",
+    "question": "An angel appeared to Laman and Lemuel as they hit Nephi and his younger brother with a rod.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "342",
+    "type": "bool",
+    "ref": "1Nep3:29",
+    "question": "The angel told Laman and Lemuel that the Lord had chosen Nephi to be a ruler over them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "343",
+    "type": "multi",
+    "ref": "1Nep3:29",
+    "question": "Laman and Lemuel were told by the angel that the Lord had chosen Nephi to be ruler over them because of their_____.",
+    "answer": ["Iniquities"],
+    "options": ["Partying", "Slothfulness", "Iniquities"]
+  },
+  {
+    "id": "344",
+    "type": "fill",
+    "ref": "1Nep3:29",
+    "question": "The angel told the sons of Lehi that the_____ would deliver Laban into their hands.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "345",
+    "type": "fill",
+    "ref": "1Nep3:31",
+    "question": "Laman and Lemuel began to_____ when the angel departed.",
+    "answer": ["Murmur"],
+    "options": ["fill"]
+  },
+  {
+    "id": "346",
+    "type": "multi",
+    "ref": "1Nep3:31",
+    "question": "How many men did Laman and Lemuel say that Laban can command to slay them?",
+    "answer": ["50"],
+    "options": ["30", "40", "50"]
+  },
+  {
+    "id": "347",
+    "type": "multi",
+    "ref": "1Nep4:1",
+    "question": "Who is mightier than Laban and his fifty?",
+    "answer": ["The Lord"],
+    "options": ["Nephi,", "Laman,", "The Lord"]
+  },
+  {
+    "id": "348",
+    "type": "fill",
+    "ref": "1Nep4:2",
+    "question": "Who spoke to the waters of the Red Sea and they divided?",
+    "answer": ["Moses"],
+    "options": ["fill"]
+  },
+  {
+    "id": "349",
+    "type": "bool",
+    "ref": "1Nep4:2",
+    "question": "When Moses and Nephi’s forefathers came through the Red Sea it had not yet dried.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "350",
+    "type": "fill",
+    "ref": "1Nep4:2",
+    "question": "The armies of the_____ followed Moses and the Israelites and were drowned in the waters of the Red Sea.",
+    "answer": ["Pharaoh"],
+    "options": ["fill"]
+  },
+  {
+    "id": "351",
+    "type": "bool",
+    "ref": "1Nep4:3",
+    "question": "Laman and Lemuel knew that the things concerning Moses were not true.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "352",
+    "type": "bool",
+    "ref": "1Nep4:3",
+    "question": "Nephi told his brothers that they knew that an angel of the Lord had spoken to them and they should not doubt.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "353",
+    "type": "fill",
+    "ref": "1Nep4:4",
+    "question": "Nephi said the Lord can deliver them even as their fathers, and to destroy Laban, even as he did to the_____.",
+    "answer": ["Egyptians"],
+    "options": ["fill"]
+  },
+  {
+    "id": "354",
+    "type": "bool",
+    "ref": "1Nep4:5",
+    "question": "Nephi went to Laban's house during a sunny afternoon.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "355",
+    "type": "fill",
+    "ref": "1Nep4:6",
+    "question": "Nephi was led to the house of Laban by the_____ even though he did not know what to do.",
+    "answer": ["Spirit"],
+    "options": ["fill"]
+  },
+  {
+    "id": "356",
+    "type": "fill",
+    "ref": "1Nep4:7",
+    "question": "What in the name of the man that Nephi saw and had fallen to the earth because he had too much w1ne?",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "357",
+    "type": "bool",
+    "ref": "1Nep4:9",
+    "question": "The hilt of Laban’s sword was made of pure gold and the blade of precious steel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "358",
+    "type": "multi",
+    "ref": "1Nep4:10",
+    "question": "Who told Nephi to slay Laban?",
+    "answer": ["The Spirit"],
+    "options": ["The Spirit", "Laman", "Lemuel"]
+  },
+  {
+    "id": "359",
+    "type": "multi",
+    "ref": "1Nep4:10",
+    "question": "How many times had Nephi killed before he took Laban’s life?",
+    "answer": ["Never"],
+    "options": ["1", "2", "Never"]
+  },
+  {
+    "id": "360",
+    "type": "fill",
+    "ref": "1Nep4:10-12",
+    "question": "The Spirit told Nephi _____ times to slay Laban.",
+    "answer": ["3"],
+    "options": ["fill"]
+  },
+  {
+    "id": "361",
+    "type": "multi",
+    "ref": "1Nep4:13",
+    "question": "The Lord slays the _____ to bring to forth his righteous purposes.",
+    "answer": ["Wicked"],
+    "options": ["Ugly", "Rich", "Wicked"]
+  },
+  {
+    "id": "362",
+    "type": "multi",
+    "ref": "1Nep4:13",
+    "question": "Who said “it is better that one man should perish than that a nation should dwindle and perish in unbelief”",
+    "answer": ["The Lord"],
+    "options": ["Nephi", "Lehi", "The Lord"]
+  },
+  {
+    "id": "363",
+    "type": "multi",
+    "ref": "1Nep4:15-16",
+    "question": "The law of Moses was engraved upon the",
+    "answer": ["Brass Plates"],
+    "options": ["Gold Plates", "Brass Plates", "Neither"]
+  },
+  {
+    "id": "364",
+    "type": "bool",
+    "ref": "1Nep4:17",
+    "question": "Nephi did not know that the Lord had delivered Laban into his hands.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "365",
+    "type": "multi",
+    "ref": "1Nep4:17",
+    "question": "Who commanded Nephi to get the records from Laban?",
+    "answer": ["The Lord"],
+    "options": ["Laman", "Lehi", "The Lord"]
+  },
+  {
+    "id": "366",
+    "type": "bool",
+    "ref": "1Nep4:18",
+    "question": "Nephi did not obey the Spirit, and decided not to slay Laban.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "367",
+    "type": "fill",
+    "ref": "1Nep4:18",
+    "question": "Nephi slew_____ by grabbing his hair and cutting of his head with his own sword.",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "368",
+    "type": "bool",
+    "ref": "1Nep4:19",
+    "question": "Nephi put on Laban’s garments and armor about his loins so that he could fool his servant.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "369",
+    "type": "multi",
+    "ref": "1Nep4:20",
+    "question": "Where did Laban store the brass plates?",
+    "answer": ["His Treasury"],
+    "options": ["His House", "His Treasury", "Safe Deposit Box"]
+  },
+  {
+    "id": "370",
+    "type": "bool",
+    "ref": "1Nep4:20",
+    "question": "Nephi commanded Laban’s servant with the voice of Laban that he should go with him to the treasury.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "371",
+    "type": "fill",
+    "ref": "1Nep4:20,35",
+    "question": "What servant of Laban had the keys to the treasury?",
+    "answer": ["Zoram"],
+    "options": ["fill"]
+  },
+  {
+    "id": "372",
+    "type": "fill",
+    "ref": "1Nep4:21",
+    "question": "The servant thought that Nephi was _____ because he had his garments and the sword girded about his loins.",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "373",
+    "type": "bool",
+    "ref": "1Nep4:22",
+    "question": "Laban had been out with the elders of the Jews before he was slain.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "374",
+    "type": "bool",
+    "ref": "1Nep4:24,4:38,5:14",
+    "question": "The things we call the “Brass Plates” are never referred as such in the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "375",
+    "type": "fill",
+    "ref": "1Nep13:13,19:21,22:30",
+    "question": "The things we call the “Brass Plates” are only referred to as the Plates of_____ in the Book of Mormon.",
+    "answer": ["Brass"],
+    "options": ["fill"]
+  },
+  {
+    "id": "376",
+    "type": "bool",
+    "ref": "1Nep4:28",
+    "question": "Nephi’s brothers thought that Nephi was Laban and were exceedingly frightened.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "377",
+    "type": "bool",
+    "ref": "1Nep4:32-33",
+    "question": "Nephi made a covenant with Zoram that he would not harm him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "378",
+    "type": "multi",
+    "ref": "1Nep4:33",
+    "question": "Nephi told Zoram if he would follow him and his brothers that he would be a _____ like them.",
+    "answer": ["Free"],
+    "options": ["Free", "Happy Guy", "Virtuous Man"]
+  },
+  {
+    "id": "379",
+    "type": "bool",
+    "ref": "1Nep4:34",
+    "question": "Nephi said unto Zoram “Surely the Lord hath commanded us to do this thing”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "380",
+    "type": "fill",
+    "ref": "1Nep4:35",
+    "question": "Zoram promised Nephi and his brothers that he would go down to the _____ and tarry with them from that time forth.",
+    "answer": ["Wilderness"],
+    "options": ["fill"]
+  },
+  {
+    "id": "381",
+    "type": "fill",
+    "ref": "1Nep4:37",
+    "question": "When_____ made an oath to Nephi and his brothers their fears concerning him ceased.",
+    "answer": ["Zoram"],
+    "options": ["fill"]
+  },
+  {
+    "id": "382",
+    "type": "multi",
+    "ref": "1Nep5:1",
+    "question": "Nephi’s mothers’ name was",
+    "answer": ["Sariah"],
+    "options": ["Sarah", "Akish", "Sariah"]
+  },
+  {
+    "id": "383",
+    "type": "multi",
+    "ref": "1Nep5:1",
+    "question": "Sariah had truly mourned because of her_____.",
+    "answer": ["Sons"],
+    "options": ["Aches", "Husband", "Sons"]
+  },
+  {
+    "id": "384",
+    "type": "bool",
+    "ref": "1Nep5:2",
+    "question": "Sariah compla1ned to Lehi about leaving the land of their inheritance.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "385",
+    "type": "bool",
+    "ref": "1Nep5:2",
+    "question": "Sariah said that Lehi was a “visionary man”",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "386",
+    "type": "fill",
+    "ref": "1Nep5:4",
+    "question": "Lehi said that if he had not seen the things of God in a vision he would not have known the_____ of God, and perished with his brethren.",
+    "answer": ["Goodness"],
+    "options": ["fill"]
+  },
+  {
+    "id": "387",
+    "type": "fill",
+    "ref": "1Nep5:5",
+    "question": "Lehi told Sariah that he had obta1ned a land or promise and knew that the Lord would deliver his sons out of the hands of _____.",
+    "answer": ["Laban"],
+    "options": ["fill"]
+  },
+  {
+    "id": "388",
+    "type": "bool",
+    "ref": "1Nep5:6",
+    "question": "Sariah was comforted by the words that Lehi said concerning the land of promise and their sons.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "389",
+    "type": "bool",
+    "ref": "1Nep5:7,8",
+    "question": "When her sons returned from the wilderness, Sariah said that now she knew that the Lord had commanded Lehi and delivered her sons from Laban.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "390",
+    "type": "multi",
+    "ref": "1Nep5:8",
+    "question": "Who commanded Lehi to flee into the wilderness?",
+    "answer": ["The Lord"],
+    "options": ["Elders Of The Jews", "The Lord", "Moses"]
+  },
+  {
+    "id": "391",
+    "type": "multi",
+    "ref": "1Nep5:9",
+    "question": "And it came to pass, that they did rejoice exceedingly, and did offer_____ and burnt offerings unto the Lord.",
+    "answer": ["Sacrifice"],
+    "options": ["Gold", "Sacrifice", "Silver"]
+  },
+  {
+    "id": "392",
+    "type": "bool",
+    "ref": "1Nep5:10",
+    "question": "Lehi searched the brass plateds diligently.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "393",
+    "type": "bool",
+    "ref": "1Nep5:11",
+    "question": "Lehi beheld that the plates of brass conta1ned the 6 books of Moses",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "394",
+    "type": "fill",
+    "ref": "1Nep5:11",
+    "question": "The five books of Moses gave an account of the creation of the world and also of _____, who were our first parents.",
+    "answer": ["Adam and Eve"],
+    "options": ["fill"]
+  },
+  {
+    "id": "395",
+    "type": "fill",
+    "ref": "1Nep5:12",
+    "question": "The five books of Moses also gave a record of the Jews from the beginning; even down to the commencement of the reign of king _____.",
+    "answer": ["Zedekiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "396",
+    "type": "bool",
+    "ref": "1Nep5:12",
+    "question": "The five books of Moses also conta1ned the prophecies of the holy prophets from the beginning, even down the commencement of the reign of Zedekiah.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "398",
+    "type": "fill",
+    "ref": "1Nep5:12",
+    "question": "Moses’ books also conta1ned the prophecies spoken by the mouth of what prophet? Who was arrested during the reign of Zedekiah on suspicion of desertion.",
+    "answer": ["Jeremiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "399",
+    "type": "bool",
+    "ref": "1Nep5:13",
+    "question": "The record that Lehi beheld conta1ned many prophecies which have been spoken by the mouth of Jeremiah the prophet.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "400",
+    "type": "fill",
+    "ref": "1Nep5:14",
+    "question": "Joseph was the son of _____, who was sold into Egypt.",
+    "answer": ["Jacob"],
+    "options": ["fill"]
+  },
+  {
+    "id": "401",
+    "type": "bool",
+    "ref": "1Nep5:16",
+    "question": "The reason Laban had the brass plates was that, he also was a descendant of Joseph who was sold into Egypt",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "402",
+    "type": "bool",
+    "ref": "1Nep5:19",
+    "question": "Lehi said that the plates of brass should never perish, nor be dimmed any more by time",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "403",
+    "type": "multi",
+    "ref": "1Nep5:21",
+    "question": "Nephi said that they had obta1ned the records and searched them and found that they were of great_____ unto them.",
+    "answer": ["Worth"],
+    "options": ["Calamities", "Worth", "Neither"]
+  },
+  {
+    "id": "404",
+    "type": "bool",
+    "ref": "1Nep5:22",
+    "question": "Lehi said it is wisdom in him, that they should carry the plates of brass into the wilderness",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "405",
+    "type": "bool",
+    "ref": "1Nep6:1",
+    "question": "Nephi did not give the genealogy of his fathers because they had already been given in the record that Lehi had.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "406",
+    "type": "fill",
+    "ref": "1Nep6:3",
+    "question": "Nephi desired to save room in the plates so he could write the things of _____.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "407",
+    "type": "bool",
+    "ref": "1Nep6:5",
+    "question": "Nephi wrote things which were pleasing unto the world",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "408",
+    "type": "bool",
+    "ref": "1Nep6:6",
+    "question": "Nephi gave a commandment unto his seed to write only things which were of great worth unto the children of men",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "409",
+    "type": "fill",
+    "ref": "1Nep7:1",
+    "question": "Who commanded Lehi’s sons to take the daughters of Ismael to wife; to raise up seed unto the Lord in the land of promise?",
+    "answer": ["God", "Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "410",
+    "type": "fill",
+    "ref": "1Nep7:2",
+    "question": "Nephi and his brethren were commanded by the Lord to return to Jerusalem and get _____ and his family, into the wilderness with them.",
+    "answer": ["Ishmael"],
+    "options": ["fill"]
+  },
+  {
+    "id": "411",
+    "type": "bool",
+    "ref": "1Nep7:5",
+    "question": "The Lord softened the heart of Ishmael and his household.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "412",
+    "type": "bool",
+    "ref": "1Nep7:6-7",
+    "question": "Some of Ishmeal’s sons and daughters desired to return to the land of Jerusalem",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "413",
+    "type": "bool",
+    "ref": "1Nep7:10",
+    "question": "Nephi asked his older brothers- “How is it that ye have forgotten that ye have seen an angel of the Lord?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "414",
+    "type": "multi",
+    "ref": "1Nep7:12",
+    "question": "What must we do for the Lord to do all things according to his will?",
+    "answer": ["Exercise Faith In Him"],
+    "options": [
+      "Exercise Faith In Him",
+      "Obey His Commandments",
+      "Obey Our Parents"
+    ]
+  },
+  {
+    "id": "415",
+    "type": "multi",
+    "ref": "1Nep7:14",
+    "question": "The people of Jerusalem rejected the prophets and cast the prophet_____ into prison.",
+    "answer": ["Jeremiah"],
+    "options": ["Zedekiah", "Samuel The Lamanite", "Jeremiah"]
+  },
+  {
+    "id": "416",
+    "type": "bool",
+    "ref": "1Nep7:14",
+    "question": "The Spirit of the Lord ceased to strive in the people of Jerusalem because they had cast out the prophets.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "417",
+    "type": "fill",
+    "ref": "1Nep7:15",
+    "question": "Who told Nephi to tell Laman and Lemuel not to go back to Jerusalem or they would perish also?",
+    "answer": ["God", "Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "418",
+    "type": "bool",
+    "ref": "1Nep7:16",
+    "question": "Laman and Lemuel became angry with Nephi and bound him with cords and sought to take away his life",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "419",
+    "type": "multi",
+    "ref": "1Nep7:17-18",
+    "question": "How did Nephi loosen the cords that he was bound with?",
+    "answer": ["Prayed Unto The Lord For Strength"],
+    "options": [
+      "Butter Knife",
+      "Sharp Steak Knife",
+      "Prayed Unto The Lord For Strength"
+    ]
+  },
+  {
+    "id": "420",
+    "type": "multi",
+    "ref": "1Nep17:18",
+    "question": "Who witnessed the power of God when Nephi's bonds were released?",
+    "answer": ["Laman"],
+    "options": ["Joseph", "Sam", "Laman"]
+  },
+  {
+    "id": "421",
+    "type": "bool",
+    "ref": "1Nep7:19",
+    "question": "Because of the words of Ismael’s son and others, the hearts of Laman and Lemuel were softened and they did not desire to take away the life of Nephi for a second time.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "422",
+    "type": "fill",
+    "ref": "1Nep7:19",
+    "question": "The wife of_____defended Nephi with her daughter against Laman and Lemuel.",
+    "answer": ["Ishmael"],
+    "options": ["fill"]
+  },
+  {
+    "id": "423",
+    "type": "bool",
+    "ref": "1Nep7:20",
+    "question": "Nephi’s brothers bowed down before him and pleaded for forgiveness for what they had done to him",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "424",
+    "type": "fill",
+    "ref": "1Nep7:21",
+    "question": "Nephi forgave his brothers for all that they had done to him and exhorted them that they should pray unto the Lord their ____ for forgiveness.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "425",
+    "type": "multi",
+    "ref": "1Nep8:1",
+    "question": "Lehi and his family gathered together all manner of _____ of every kind.",
+    "answer": ["Seeds"],
+    "options": ["Animals", "Seeds", "Wild Beasts"]
+  },
+  {
+    "id": "426",
+    "type": "fill",
+    "ref": "1Nep8:2",
+    "question": "While Lehi tarried in the wilderness he spoke to his sons and said he had a dream; or, in other words, I have seen a _____.",
+    "answer": ["Vision"],
+    "options": ["fill"]
+  },
+  {
+    "id": "427",
+    "type": "fill",
+    "ref": "1Nep8:3",
+    "question": "Because of the things that he saw in his vision, Lehi had a reason to rejoice in his sons Nephi and _____.",
+    "answer": ["Sam"],
+    "options": ["fill"]
+  },
+  {
+    "id": "428",
+    "type": "bool",
+    "ref": "1Nep8:3",
+    "question": "In Lehi’s vision, he saw that many of the seed of Nephi and Sam would be saved.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "429",
+    "type": "fill",
+    "ref": "1Nep8:4",
+    "question": "Because of his vision Lehi feared exceedingly for____ and Lamuel.",
+    "answer": ["Laman"],
+    "options": ["fill"]
+  },
+  {
+    "id": "430",
+    "type": "multi",
+    "ref": "1Nep8:5",
+    "question": "Lehi saw in his vision a man dressed in a white_____, and he came and stood before him.",
+    "answer": ["Robe"],
+    "options": ["Shirt", "Long Coat", "Robe"]
+  },
+  {
+    "id": "431",
+    "type": "bool",
+    "ref": "1Nep8:6",
+    "question": "The man dressed in a white robe asked Lehi to follow him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "432",
+    "type": "multi",
+    "ref": "1Nep8:8",
+    "question": "Lehi traveled for many hours in darkness and began to pray to the Lord to have_____ on him.",
+    "answer": ["Mercy"],
+    "options": ["Pity", "Mercy", "Sympathy"]
+  },
+  {
+    "id": "433",
+    "type": "fill",
+    "ref": "1Nep8:9",
+    "question": "And it came to pass after Lehi prayed unto the Lord he beheld a large and_____ field.",
+    "answer": ["Spacious"],
+    "options": ["fill"]
+  },
+  {
+    "id": "434",
+    "type": "bool",
+    "ref": "1Nep8:10",
+    "question": "Lehi saw a vision of a tree whose fruit was desirable to make one happy.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "435",
+    "type": "bool",
+    "ref": "1Nep8:11",
+    "question": "As Lehi partook of the fruit of the tree he beheld that it was most sweet and white to exceed all the whiteness that he had ever seen.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "436",
+    "type": "multi",
+    "ref": "1Nep8:12",
+    "question": "When Lehi partook of the fruit thereof it filled his _____ with exceeding great joy.",
+    "answer": ["Soul"],
+    "options": ["Head", "Soul", "Body"]
+  },
+  {
+    "id": "437",
+    "type": "bool",
+    "ref": "1Nep8:12",
+    "question": "Lehi desired that his family would partake of the fruit also, because he knew that it was desirable above all other fruit.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "438",
+    "type": "bool",
+    "ref": "1Nep8:13",
+    "question": "Lehi beheld that a river of water that ran along and near the tree of the fruit that he was partaking of.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "439",
+    "type": "bool",
+    "ref": "1Nep8:14-16",
+    "question": "Lehi and part of his family realized that the fruit of the tree was most desirable above all other fruit.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "440",
+    "type": "fill",
+    "ref": "1Nep8:14,16",
+    "question": "Lehi saw in his vision that Nephi, Sam, and_____, partook of the fruit of the tree.",
+    "answer": ["Sariah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "441",
+    "type": "bool",
+    "ref": "1Nep8:17-18",
+    "question": "Laman and Lamuel did not partake of the fruit of the tree.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "442",
+    "type": "multi",
+    "ref": "1Nep8:19",
+    "question": "The _____ of iron extended along the bank of the river and led to the tree of life.",
+    "answer": ["Rod"],
+    "options": ["Shaft", "Pipe", "Rod"]
+  },
+  {
+    "id": "443",
+    "type": "fill",
+    "ref": "1Nep8:20",
+    "question": "Lehi beheld a straight and_____ path, which came along the rod of iron.",
+    "answer": ["Narrow"],
+    "options": ["fill"]
+  },
+  {
+    "id": "444",
+    "type": "bool",
+    "ref": "1Nep8:20",
+    "question": "The straight and narrow path also led unto the large and spacious field.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "445",
+    "type": "bool",
+    "ref": "1Nep8:20",
+    "question": "Lehi referred to the large and spacious field as if had been a world.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "446",
+    "type": "fill",
+    "ref": "1Nep8:21",
+    "question": "Lehi saw numberless_____ of people who were pressing forward that they might obtain the path that led to the tree.",
+    "answer": ["Concourses"],
+    "options": ["fill"]
+  },
+  {
+    "id": "447",
+    "type": "fill",
+    "ref": "1Nep8:23",
+    "question": "And it came to pass that a great_____ of darkness arose.",
+    "answer": ["Mist"],
+    "options": ["fill"]
+  },
+  {
+    "id": "448",
+    "type": "bool",
+    "ref": "1Nep8:23",
+    "question": "The mist of darkness caused a lot of people to wander off and lose their way to the tree of life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "449",
+    "type": "multi",
+    "ref": "1Nep8:24",
+    "question": "Lehi beheld others pressing forward and_____ to the rod of iron and partake of the fruit of the tree.",
+    "answer": ["Clinging"],
+    "options": ["Holding", "Hanging", "Clinging"]
+  },
+  {
+    "id": "450",
+    "type": "bool",
+    "ref": "1Nep8:25",
+    "question": "After they had partaken of the fruit of the tree, the people cast their eyes about as if they were ashamed.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "451",
+    "type": "fill",
+    "ref": "1Nep8:26",
+    "question": "Lehi cast his eyes round about, and beheld, on the other side of the river of water, a_____ and spacious building.",
+    "answer": ["Great"],
+    "options": ["fill"]
+  },
+  {
+    "id": "452",
+    "type": "bool",
+    "ref": "1Nep8:26",
+    "question": "The great and spacious building stood as if it were in the air and high above the earth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "453",
+    "type": "fill",
+    "ref": "1Nep8:27",
+    "question": "The great and spacious building was filled with people, both old and young, both_____ and female.",
+    "answer": ["Male"],
+    "options": ["fill"]
+  },
+  {
+    "id": "454",
+    "type": "multi",
+    "ref": "1Nep8:27",
+    "question": "The people in the great and spacious building were dress exceedingly _____.",
+    "answer": ["F1ne"],
+    "options": ["Ugly", "Terrible", "F1ne"]
+  },
+  {
+    "id": "455",
+    "type": "multi",
+    "ref": "1Nep8:27",
+    "question": "The people in the great and spacious building pointed their _____ and made fun of Nephi and all of those that partook of the fruit of the tree.",
+    "answer": ["Fingers"],
+    "options": ["Guns", "Spears", "Fingers"]
+  },
+  {
+    "id": "456",
+    "type": "bool",
+    "ref": "1Nep8:28",
+    "question": "And after they had tasted of the fruit they were ashamed, because of those that were scoffing at them, and they fell away into forbidden paths and were lost.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "457",
+    "type": "bool",
+    "ref": "1Nep8:29",
+    "question": "Nephi spoke of all the words of his father; concerning the vision that he had.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "458",
+    "type": "bool",
+    "ref": "1Nep8:30",
+    "question": "Lehi saw other multitudes pressing forward, continually holding fast to the rod of iron.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "459",
+    "type": "multi",
+    "ref": "1Nep8:31",
+    "question": "Lehi saw other multitudes_____ their way towards the great and spacious building.",
+    "answer": ["Feeling"],
+    "options": ["Holding", "Feeling", "Clinging"]
+  },
+  {
+    "id": "460",
+    "type": "bool",
+    "ref": "1Nep8:32",
+    "question": "Lehi saw many drowned in the depths of the fountain and were lost from his view.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "461",
+    "type": "multi",
+    "ref": "1Nep8:32",
+    "question": "Lehi also saw in his vision that many were wandering in strange_____.",
+    "answer": ["Roads"],
+    "options": ["Roads", "Paths", "Highways"]
+  },
+  {
+    "id": "462",
+    "type": "multi",
+    "ref": "1Nep8:33",
+    "question": "In Lehi’s vision great was the multitude that_____.",
+    "answer": ["Entered Into That Strange Building"],
+    "options": [
+      "Took Of The Rod Of Iron",
+      "Entered Into That Strange Building",
+      "Entered Into The Straight And Narrow Path"
+    ]
+  },
+  {
+    "id": "463",
+    "type": "bool",
+    "ref": "1Nep8:33",
+    "question": "After they had entered into the strange building, they pointed their fingers to Nephi and scorned at him and those that had partaken of the fruit.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "464",
+    "type": "fill",
+    "ref": "1Nep8:35",
+    "question": "Laman and____ did not partake of the fruit according to Lehi.",
+    "answer": ["Lemuel"],
+    "options": ["fill"]
+  },
+  {
+    "id": "465",
+    "type": "fill",
+    "ref": "1Nep8:36",
+    "question": "Lehi feared exceedingly for Laman and Lemuel lest they should be cast off from the presence of the_____.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "466",
+    "type": "multi",
+    "ref": "1Nep8:37",
+    "question": "Lehi exhorted Laman and Lemuel with all the feeling of a _____ parent.",
+    "answer": ["Tender"],
+    "options": ["Tender", "Grateful", "Kind"]
+  },
+  {
+    "id": "467",
+    "type": "fill",
+    "ref": "1Nep8:38",
+    "question": "After Lehi preached unto Laman and Lemuel, he prophesied unto them many things and bade them to keep the_____.",
+    "answer": ["Commandments"],
+    "options": ["fill"]
+  },
+  {
+    "id": "468",
+    "type": "fill",
+    "ref": "1Nep9:1",
+    "question": "And all these things did my father see, and hear, and_____, as he dwelt in a tent, in the valley of Lemuel.",
+    "answer": ["Speak"],
+    "options": ["fill"]
+  },
+  {
+    "id": "469",
+    "type": "multi",
+    "ref": "1Nep9:1",
+    "question": "What is the name of the valley where Lehi saw, heard, and spoke of many great things?",
+    "answer": ["Lemuel"],
+    "options": ["Death Valley", "Lemuel", "Neither"]
+  },
+  {
+    "id": "470",
+    "type": "bool",
+    "ref": "1Nep9:1",
+    "question": "Lehi saw, heard, and spoke of many great things that cannot be written upon the plates of Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "471",
+    "type": "multi",
+    "ref": "1Nep9:2",
+    "question": "The plates of Nephi are given that name because they contain a full account of the history of the people of _____.",
+    "answer": ["Nephi"],
+    "options": ["Christ", "Nephi", "Lehi"]
+  },
+  {
+    "id": "472",
+    "type": "bool",
+    "ref": "1Nep9:4",
+    "question": "Nephi knew that in the future, there would be a reign of kings among his people.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "473",
+    "type": "bool",
+    "ref": "1Nep9:4",
+    "question": "The plates of Nephi are written mostly of his ministry.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "474",
+    "type": "fill",
+    "ref": "1Nep9:4",
+    "question": "The other plates that are written are for the more part of the reign of_____ and the wars and contentions of the people of Nephi.",
+    "answer": ["Kings"],
+    "options": ["fill"]
+  },
+  {
+    "id": "475",
+    "type": "bool",
+    "ref": "1Nep9:5",
+    "question": "Nephi made another set of plates that he did not know for what purpose.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "476",
+    "type": "bool",
+    "ref": "1Nep9:6",
+    "question": "Nephi said the “Lord knows all things from the beginning; wherefore, he prepares a way to accomplish all his works among the children of men”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "477",
+    "type": "fill",
+    "ref": "1Nep10:2",
+    "question": "Lehi exhorted his sons with all diligence and also spoke to them concerning the_____ at Jerusalem.",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "478",
+    "type": "fill",
+    "ref": "1Nep10:3",
+    "question": "Lehi said that Jerusalem would be destroyed and many would be carried away captive to _____.",
+    "answer": ["Babylon"],
+    "options": ["fill"]
+  },
+  {
+    "id": "479",
+    "type": "bool",
+    "ref": "1Nep10:3",
+    "question": "Lehi said that the Jews would be brought back out of captivity and possess again the land of their inheritance, in the Lords’ own due time.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "480",
+    "type": "fill",
+    "ref": "1Nep10:4",
+    "question": "The Lord God would rise up a _____ 600 years after Lehi left Jerusalem.-Messiah",
+    "answer": ["Savior"],
+    "options": ["fill"]
+  },
+  {
+    "id": "147",
+    "type": "fill",
+    "ref": "1Nep10:4",
+    "question": "A prophet would the Lord God raise up among the Jews-even a _____, or, in other words, a Savior of the world.",
+    "answer": ["Messiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "481",
+    "type": "bool",
+    "ref": "1Nep10:4",
+    "question": "Lehi said that the Messiah would only be a savior to the most righteous people of the world.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "482",
+    "type": "fill",
+    "ref": "1Nep10:5",
+    "question": "Lehi also spoke concerning the prophets and how great a number had testified concerning the_____.",
+    "answer": ["Messiah"],
+    "options": ["fill"]
+  },
+  {
+    "id": "483",
+    "type": "fill",
+    "ref": "1Nep10:5",
+    "question": "Nephi also referred to the Savior as the_____ of the world.",
+    "answer": ["Redeemer"],
+    "options": ["fill"]
+  },
+  {
+    "id": "484",
+    "type": "fill",
+    "ref": "1Nep10:6",
+    "question": "“Wherefore, all mankind were in a lost and in a_____ state, and ever would be save they should rely on this redeemer”.",
+    "answer": ["Fallen"],
+    "options": ["fill"]
+  },
+  {
+    "id": "485",
+    "type": "multi",
+    "ref": "1Nep10:7",
+    "question": "Lehi also spoke of a_____ who should come before the Messiah, to prepare the way of the Lord.",
+    "answer": ["Prophet"],
+    "options": ["Person", "Man", "Prophet"]
+  },
+  {
+    "id": "486",
+    "type": "bool",
+    "ref": "1Nep10:7-10, 1Nep11:27, 2Nep31:4",
+    "question": "The Book of Mormon never mentions John the Baptist by name.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "487",
+    "type": "bool",
+    "ref": "1Nep10:7-10, 1Nep11:27, 2Nep31:4",
+    "question": "The Book of Mormon only references John the Baptist three times and never by name, but only as a prophet.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "488",
+    "type": "multi",
+    "ref": "1Nep10:7-11",
+    "question": "Who predicted the birth, baptism, death, and resurrection of the Messiah?_____.",
+    "answer": ["Lehi"],
+    "options": ["Lehi", "Laban", "Zoram"]
+  },
+  {
+    "id": "490",
+    "type": "bool",
+    "ref": "1Nep10:8",
+    "question": "This prophet of the Lord would go forth and cry in the wilderness:”Prepare ye the way of the Lord, and make his paths straight”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "491",
+    "type": "fill",
+    "ref": "1Nep10:8",
+    "question": "For there stands one among you whom ye know not, whose____ latchet I am not worthy to unloose.",
+    "answer": ["shoe"],
+    "options": ["fill"]
+  },
+  {
+    "id": "492",
+    "type": "bool",
+    "ref": "1Nep10:8",
+    "question": "The prophet of the Lord said that there was one among them that was mightier than him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "493",
+    "type": "fill",
+    "ref": "1Nep10:9",
+    "question": "What is the name of the place where Lehi said that the Messiah would be baptized?",
+    "answer": ["Bethabara"],
+    "options": ["fill"]
+  },
+  {
+    "id": "494",
+    "type": "multi",
+    "ref": "1Nep10:9",
+    "question": "Lehi said that Bethabara was located by_____.",
+    "answer": ["Beyond Jordan"],
+    "options": ["Utah", "Iowa", "Beyond Jordan"]
+  },
+  {
+    "id": "495",
+    "type": "multi",
+    "ref": "1Nep10:9",
+    "question": "Who would baptize the Messiah with water?",
+    "answer": ["A Prophet"],
+    "options": ["Alma", "A Prophet", "Mosiah"]
+  },
+  {
+    "id": "496",
+    "type": "bool",
+    "ref": "1Nep10:10",
+    "question": "Lehi said that the prophet that would baptize the Lamb of God should behold and bear record that he was the Messiah, and should take away the sins of the world.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "497",
+    "type": "multi",
+    "ref": "1Nep10:10",
+    "question": "Who would bear record that he baptized the Lamb of God?",
+    "answer": ["A Prophet"],
+    "options": ["Nephi", "Laman", "A Prophet"]
+  },
+  {
+    "id": "498",
+    "type": "bool",
+    "ref": "1Nep10:11",
+    "question": "Lehi spoke to Nephi’s brothers concerning the gospel which should be preached among the Jews and their dwindling in unbelief.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "499",
+    "type": "fill",
+    "ref": "1Nep10:11",
+    "question": "Who did Lehi say would slay the Messiah?",
+    "answer": ["jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "500",
+    "type": "fill",
+    "ref": "1Nep10:11",
+    "question": "Lehi said that the Messiah would rise from the dead and make himself manifest by the _____ unto the Gentiles.",
+    "answer": ["Holy Ghost"],
+    "options": ["fill"]
+  },
+  {
+    "id": "501",
+    "type": "bool",
+    "ref": "1Nep10:12",
+    "question": "The Gentiles and the house of Israel would be compared like unto an olive-tree and should be scattered upon the face of the earth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "502",
+    "type": "fill",
+    "ref": "1Nep10:13",
+    "question": "Lehi said that they should be led with one accord into the land of_____ unto the fulfilling of the word of the Lord.",
+    "answer": ["Promise"],
+    "options": ["fill"]
+  },
+  {
+    "id": "503",
+    "type": "multi",
+    "ref": "1Nep10:16",
+    "question": "When Lehi prophesied about the Gentiles and the house of Israel he dwelt in a tent, in the valley of _____.",
+    "answer": ["Lemuel"],
+    "options": ["Gideon", "Lemuel", "Neither"]
+  },
+  {
+    "id": "504",
+    "type": "bool",
+    "ref": "1Nep10:17",
+    "question": "Nephi heard all the words of his father, concerning the things which he saw in a vision.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "505",
+    "type": "fill",
+    "ref": "1Nep10:17",
+    "question": "By what power did Lehi prophesy the things concerning the Gentiles and the house of Israel?",
+    "answer": ["Holy Ghost"],
+    "options": ["fill"]
+  },
+  {
+    "id": "506",
+    "type": "multi",
+    "ref": "1Nep10:17",
+    "question": "What is the gift given to all those who diligently seek God?",
+    "answer": ["Holy Ghost"],
+    "options": ["Eternal Life", "Holy Ghost", "Eternal Happiness"]
+  },
+  {
+    "id": "507",
+    "type": "multi",
+    "ref": "1Nep10:17",
+    "question": "We receive the power of the Holy Ghost by having_____ in the Son of God.",
+    "answer": ["Faith"],
+    "options": ["Faith", "Diligence", "Contrite Spirit"]
+  },
+  {
+    "id": "508",
+    "type": "bool",
+    "ref": "1Nep10:18",
+    "question": "The way is prepared for all men from the foundation of the world, if it so be that they repent and come unto him.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "509",
+    "type": "multi",
+    "ref": "1Nep10:19",
+    "question": "By the power of the Holy Ghost the _____ of God are revealed to those that diligently seek him.",
+    "answer": ["Mysteries"],
+    "options": ["Things", "Mysteries", "Secrets"]
+  },
+  {
+    "id": "510",
+    "type": "fill",
+    "ref": "1Nep10:21",
+    "question": "Wherefore, if ye have sought to do wickedly in the days of your_____, then ye are found unclean before the judgment-seat of God.",
+    "answer": ["Probation"],
+    "options": ["fill"]
+  },
+  {
+    "id": "511",
+    "type": "bool",
+    "ref": "1Nep10:21",
+    "question": "If you are unclean and repent you can still enter the kingdom of God.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "512",
+    "type": "multi",
+    "ref": "1Nep10:22",
+    "question": "Who gave authority to Nephi to speak and write the things he did and not deny them?",
+    "answer": ["Holy Ghost"],
+    "options": ["Jesus Christ", "Holy Ghost", "God"]
+  },
+  {
+    "id": "513",
+    "type": "bool",
+    "ref": "1Nep10:23",
+    "question": "We are free to act for ourselves-to choose the way of everlasting death or the way of eternal life.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "514",
+    "type": "bool",
+    "ref": "1Nep11:1",
+    "question": "Nephi desired to know the things which his father had seen.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "515",
+    "type": "fill",
+    "ref": "1Nep11:1",
+    "question": "Nephi was carried away in the _____ of the Lord into an exceedingly high mountain.",
+    "answer": ["Spirit"],
+    "options": ["fill"]
+  },
+  {
+    "id": "516",
+    "type": "multi",
+    "ref": "1Nep11:1",
+    "question": "The name of the mountain that Nephi was carried away is named.",
+    "answer": ["We Don’t Know"],
+    "options": ["Sinai", "Hoeb", "We Don’t Know"]
+  },
+  {
+    "id": "517",
+    "type": "bool",
+    "ref": "1Nep11:7",
+    "question": "Nephi was to witness and bear record that the man he saw descending out of heaven, was the Son of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "518",
+    "type": "bool",
+    "ref": "1Nep11:8",
+    "question": "Nephi beheld that the tree the Spirit of Lord showed him, exceeded the whiteness of the driven snow.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "519",
+    "type": "bool",
+    "ref": "1Nep11:9",
+    "question": "The tree that Nephi was shown by the Spirit was precious above all things.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "520",
+    "type": "bool",
+    "ref": "1Nep11:13",
+    "question": "Nephi beheld in his vision, the city of Nazareth.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "521",
+    "type": "fill",
+    "ref": "1Nep11:13",
+    "question": "Nephi saw in his vision a _____ who was exceedingly fair and white.",
+    "answer": ["Virgin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "522",
+    "type": "fill",
+    "ref": "1Nep11:1",
+    "question": "Who did Nephi see that was the mother of the Son of God, after the manner of the flesh?",
+    "answer": ["Virgin"],
+    "options": ["fill"]
+  },
+  {
+    "id": "524",
+    "type": "bool",
+    "ref": "1Nep11:19-20",
+    "question": "When Nephi beheld the virgin the second time, she was bearing a child in her arms.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "525",
+    "type": "bool",
+    "ref": "1Nep11:16",
+    "question": "The Spirit of the Lord asked Nephi if he knew the condescension of God.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "526",
+    "type": "fill",
+    "ref": "1Nep11:21",
+    "question": "Other names for the Savior are_____of God and Son of the Eternal Father.",
+    "answer": ["Lamb"],
+    "options": ["fill"]
+  },
+  {
+    "id": "527",
+    "type": "bool",
+    "ref": "1Nep11:23",
+    "question": "The angel said that the love of God is the most joyous to the soul.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "528",
+    "type": "fill",
+    "ref": "1Nep11:25",
+    "question": "What did the Rod of Iron represent in Lehi’s vision?",
+    "answer": ["Word"],
+    "options": ["fill"]
+  },
+  {
+    "id": "529",
+    "type": "fill",
+    "ref": "1Nep11:27",
+    "question": "The Holy Ghost appeared in the form of a_____ after Jesus Christ was baptized.",
+    "answer": ["Dove"],
+    "options": ["fill"]
+  },
+  {
+    "id": "530",
+    "type": "multi",
+    "ref": "1Nep11:33",
+    "question": "Who was gathered together to fight against the apostles of the Lamb of God.",
+    "answer": ["People Of The Earth"],
+    "options": ["Israel", "People Of The Earth", "Lamanites"]
+  },
+  {
+    "id": "531",
+    "type": "bool",
+    "ref": "1Nep11:36",
+    "question": "Nephi saw in his vision the great and spacious building fall.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "532",
+    "type": "multi",
+    "ref": "1Nep12:9",
+    "question": "Who is to judge the twelve tribes of Israel?",
+    "answer": ["12 Apostles Of The Lamb Of God"],
+    "options": ["God", "Jesus Christ", "12 Apostles Of The Lamb Of God"]
+  },
+  {
+    "id": "533",
+    "type": "bool",
+    "ref": "1Nep12:1-2",
+    "question": "Nephi beheld his seed and the seed of his brothers gathered together to do battle one with another.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "534",
+    "type": "bool",
+    "ref": "1Nep12:1",
+    "question": "Nephi saw the land of promise in his vision.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "535",
+    "type": "bool",
+    "ref": "1Nep12:6, 2Nep26:1,9",
+    "question": "Nephi saw the heavens open and Jesus Christ descending out of heaven and appearing to the Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "536",
+    "type": "multi",
+    "ref": "1Nep12:11",
+    "question": "Because of the _____ in the Lamb of God the garments of the twelve disciples are made white in his blood.",
+    "answer": ["Faith"],
+    "options": ["Faith", "Greatness", "The Ivory Soap"]
+  },
+  {
+    "id": "537",
+    "type": "multi",
+    "ref": "1Nep12:11",
+    "question": "Because of their faith, _____generations passed away in righteousness and their garments were made white, even like unto the Lamb of God.",
+    "answer": ["3"],
+    "options": ["2", "12", "3"]
+  },
+  {
+    "id": "538",
+    "type": "multi",
+    "ref": "1Nep12:16",
+    "question": "Another name that can describe the fountain of filthy water and the depths thereof is.",
+    "answer": ["Hell"],
+    "options": ["The Amazon", "The Euphrates", "Hell"]
+  },
+  {
+    "id": "539",
+    "type": "bool",
+    "ref": "1Nep12:16",
+    "question": "The mists of darkness which Nephi saw are the temptations of the devil.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "540",
+    "type": "bool",
+    "ref": "1Nep12:18",
+    "question": "Another name that can be used to describe the large and spacious building which Lehi saw are; the vain imaginations of the children of men.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "541",
+    "type": "fill",
+    "ref": "1Nep12:18",
+    "question": "What personage bears record from the beginning of the world to Nephi’s time and forever that Jesus Christ is the Messiah?",
+    "answer": ["Holy Ghost"],
+    "options": ["fill"]
+  },
+  {
+    "id": "542",
+    "type": "multi",
+    "ref": "1Nep12:17",
+    "question": "What leads men to broad roads; that they perish and are lost?",
+    "answer": ["Temptations Of The Devil"],
+    "options": ["False Prophets", "False Doctr1ne", "Temptations Of The Devil"]
+  },
+  {
+    "id": "543",
+    "type": "multi",
+    "ref": "1Nep12:22-23",
+    "question": "Who was the angel referring to when he said to Nephi “behold these shall dwindle in unbelief”. - (B)",
+    "answer": ["Lamanites"],
+    "options": ["Nephites", "Lamanites", "Gentiles"]
+  },
+  {
+    "id": "544",
+    "type": "bool",
+    "ref": "1Nep12:23, 2Nep5:21",
+    "question": "Because of their pagan beliefs, the Lamanites became a dark, loathsome, and filthy people",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "545",
+    "type": "bool",
+    "ref": "1Nep13:4",
+    "question": "Nephi saw among the nations of the Gentiles, the foundation of a great church.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "546",
+    "type": "bool",
+    "ref": "1Nep13:5",
+    "question": "The abominable church slays the saints of God, and tortures and binds them down with a yoke of iron.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "547",
+    "type": "fill",
+    "ref": "1Nep13:6",
+    "question": "Who is the founder foundation of the great and abominable church?",
+    "answer": ["Devil"],
+    "options": ["fill"]
+  },
+  {
+    "id": "548",
+    "type": "multi",
+    "ref": "1Nep13:8",
+    "question": "Of all these things-which is not a desire of the great abominable church?",
+    "answer": ["Precious Jewels"],
+    "options": ["Precious Jewels", "Gold", "Silks"]
+  },
+  {
+    "id": "549",
+    "type": "bool",
+    "ref": "1Nep13:9",
+    "question": "The abominable church destroys the saints of God and brings them down into captivity for the praise of the world.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "550",
+    "type": "fill",
+    "ref": "1Nep13:10",
+    "question": "And it came to pass that Nephi looked and saw many waters that divided the Gentiles from the seed of his_____.",
+    "answer": ["Brethren"],
+    "options": ["fill"]
+  },
+  {
+    "id": "551",
+    "type": "multi",
+    "ref": "1Nep13:11",
+    "question": "The angel told Nephi to look and see that the_____ of God was upon the seed of his brethren.",
+    "answer": ["Wrath"],
+    "options": ["Hand", "Wrath", "Spirit"]
+  },
+  {
+    "id": "552",
+    "type": "bool",
+    "ref": "1Nep13:12",
+    "question": "In his vision Nephi saw who we know as Christopher Columbus.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "553",
+    "type": "bool",
+    "ref": "1Nep13:17",
+    "question": "Nephi saw what was later to be known as the Revolutionary War in our time?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "554",
+    "type": "bool",
+    "ref": "1Nep13:23",
+    "question": "The book that the angel showed Nephi proceeded out of the mouth of a Jew",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "555",
+    "type": "bool",
+    "ref": "1Nep13:24-25",
+    "question": "When the book first proceeded from the mouth of the Jew, it conta1ned the purity and plainness of the Gospel?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "556",
+    "type": "multi",
+    "ref": "1Nep13:28",
+    "question": "Who or what took away the many plain parts and precious things from the Bible?",
+    "answer": ["Abominable Church"],
+    "options": ["Moses", "Abominable Church", "The Jews"]
+  },
+  {
+    "id": "557",
+    "type": "bool",
+    "ref": "1Nep13:29",
+    "question": "Because of the taking away of many plain and precious things from the book/bible, many people stumble and Satan has great power over them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "558",
+    "type": "multi",
+    "ref": "1Nep13:34",
+    "question": "Who or what is the mother of all harlots?",
+    "answer": ["Abominable Church"],
+    "options": ["Eve", "Abominable Church", "Wickedness"]
+  },
+  {
+    "id": "559",
+    "type": "fill",
+    "ref": "1Nep13:37",
+    "question": "In what Book of Mormon book do the words “endure unto the end” first mentioned?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "560",
+    "type": "multi",
+    "ref": "1Nep13:37",
+    "question": "What prophet of the Lord is the first to use the words “endure unto the end”?",
+    "answer": ["Nephi"],
+    "options": ["Nephi", "King Benjamin", "Alma The Elder"]
+  },
+  {
+    "id": "561",
+    "type": "bool",
+    "ref": "1Nep13:38",
+    "question": "Nephi saw the book of the Lamb or God, which had proceeded forth from the mouth of the Jew, come unto the seed of his brethren?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "562",
+    "type": "multi",
+    "ref": "1Nep13:39",
+    "question": "Nephi saw other _____ which would testify to the convincing that the record of Jews and twelve apostles of the Lamb of God are true.",
+    "answer": ["Other Books"],
+    "options": [
+      "A Proclamation",
+      "Other Books",
+      "A Marvelous Work And A Wonder"
+    ]
+  },
+  {
+    "id": "564",
+    "type": "bool",
+    "ref": "1Nep13:40",
+    "question": "Nephi saw the last records that were among the Gentiles which would establish the truth of the Bible.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "565",
+    "type": "multi",
+    "ref": "1Nep13:40",
+    "question": "Who must come unto the Savior in order to be saved?",
+    "answer": ["All Men"],
+    "options": ["Old People", "Sick People", "All Men"]
+  },
+  {
+    "id": "566",
+    "type": "multi",
+    "ref": "1Nep13:41",
+    "question": "There is only one God and one_____over all the earth.",
+    "answer": ["Shepherd"],
+    "options": ["Prophet", "Angel", "Shepherd"]
+  },
+  {
+    "id": "567",
+    "type": "fill",
+    "ref": "1Nep13:40-42",
+    "question": "The angel said that the last shall be first, and the first shall be _____.",
+    "answer": ["Last"],
+    "options": ["fill"]
+  },
+  {
+    "id": "568",
+    "type": "bool",
+    "ref": "1Nep14:1",
+    "question": "If the Gentiles hearken unto the Lamb of God, he would manifest himself unto them; in word, in power and in deed",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "569",
+    "type": "multi",
+    "ref": "1Nep14:3",
+    "question": "Who will fill the great pit that was dug for the destruction of men?",
+    "answer": ["Those That Digged It"],
+    "options": [
+      "Those That Are Not Baptize",
+      "The Wicked",
+      "Those That Digged It"
+    ]
+  },
+  {
+    "id": "570",
+    "type": "bool",
+    "ref": "1Nep14:3",
+    "question": "The great and abominable church and its founders, were the ones who dug the great pit?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "571",
+    "type": "multi",
+    "ref": "1Nep14:6",
+    "question": "_____ be unto the Gentiles if it so be that they harden their hearts against the Lamb of God.",
+    "answer": ["Woe"],
+    "options": ["Too Bad", "Dang It!", "Woe"]
+  },
+  {
+    "id": "572",
+    "type": "fill",
+    "ref": "1Nep14:7",
+    "question": "The Lord will work a great and _____work among the children of men.",
+    "answer": ["Marvelous"],
+    "options": ["fill"]
+  },
+  {
+    "id": "573",
+    "type": "bool",
+    "ref": "1Nep14:7",
+    "question": "The marvelous work that the Lord will bring forth, will be everlasting –either to the convincing of them or life eternal or unto the deliverance of the hardness of their hearts.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "574",
+    "type": "fill",
+    "ref": "1Nep14:7",
+    "question": "Who will bring down men into captivity both temporally and spiritually?",
+    "answer": ["Devil"],
+    "options": ["fill"]
+  },
+  {
+    "id": "575",
+    "type": "bool",
+    "ref": "1Nep14:8",
+    "question": "The angel asked Nephi if he could remember the covenants the Lord had made with the house of Israel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "576",
+    "type": "multi",
+    "ref": "1Nep14:10",
+    "question": "In First Nephi, the angel said there are only ____ churches?",
+    "answer": ["Two"],
+    "options": ["One", "Two", "Three"]
+  },
+  {
+    "id": "577",
+    "type": "multi",
+    "ref": "1Nep14:10",
+    "question": "The angel revealed to Nephi the _____ of all the earth?",
+    "answer": ["History"],
+    "options": ["Wickedness", "Whore", "History"]
+  },
+  {
+    "id": "578",
+    "type": "multi",
+    "ref": "1Nep14:9,13",
+    "question": "Who will gather great multitudes of people to do battle with the Lamb of God?",
+    "answer": ["Great Abominable Church"],
+    "options": ["Osama Bin Laden", "Moammar Kadafi", "Great Abominable Church"]
+  },
+  {
+    "id": "579",
+    "type": "multi",
+    "ref": "1Nep14:14",
+    "question": "Who was armed with righteousness and with the power of God in great glory, to do battle with the great and Abominable Church?",
+    "answer": ["Saints Of The Lamb Of God"],
+    "options": ["The Jews", "Saints Of The Lamb Of God", "Neither"]
+  },
+  {
+    "id": "580",
+    "type": "bool",
+    "ref": "1Nep14:16-17",
+    "question": "Another name we can use to describe the Great and Abominable Church is the “mother of harlots”",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "581",
+    "type": "bool",
+    "ref": "1Nep14:19-20",
+    "question": "Nephi beheld a man dressed in a white robe, who was one of the twelve apostles of the Lamb of God?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "582",
+    "type": "fill",
+    "ref": "1Nep14:20,21,27",
+    "question": "The angel showed Nephi _____ the Revelator.",
+    "answer": ["John"],
+    "options": ["fill"]
+  },
+  {
+    "id": "583",
+    "type": "bool",
+    "ref": "1Nep14:27",
+    "question": "Nephi bore record to us that he saw John the Revelator.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "584",
+    "type": "bool",
+    "ref": "1Nep14:21",
+    "question": "Nephi writes that John the Revelator will write things that have been concerning the world and also of the end thereof.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "585",
+    "type": "multi",
+    "ref": "1Nep14:23",
+    "question": "In what book are the things written that John the Apostle wrote?",
+    "answer": ["The Bible"],
+    "options": ["National Enquire", "The Bible", "Wall Street Journal"]
+  },
+  {
+    "id": "586",
+    "type": "bool",
+    "ref": "1Nep14:24",
+    "question": "Nephi was allowed to see all the things that have been and the ending of the world as we know it?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "587",
+    "type": "bool",
+    "ref": "1Nep14:25, 27-28",
+    "question": "Nephi was commanded to write and bear record of all the things he saw by the Angel of the Lord?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "588",
+    "type": "bool",
+    "ref": "1Nep14:26",
+    "question": "Nephi is not the only person that has seen things that have been and things that are to come of this world?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "589",
+    "type": "bool",
+    "ref": "1Nep14:29",
+    "question": "Nephi testified and bear record of the things his father Lehi saw?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "590",
+    "type": "bool",
+    "ref": "1Nep15:2",
+    "question": "Nephi saw his brothers disputing one with another concerning the things Lehi had spoken to them?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "591",
+    "type": "bool",
+    "ref": "1Nep15:4-5",
+    "question": "Nephi was grieved and afflicted because he saw the destruction and fall of his people. Nephities?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "592",
+    "type": "bool",
+    "ref": "1Nep15:7-9",
+    "question": "Nephi’s brothers did not inquire of the Lord concerning the natural branches of the olive-tree and the Gentiles?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "593",
+    "type": "multi",
+    "ref": "1Nep15:12",
+    "question": "The house of Israel is compared to an_____ tree in the first book of Nephi.",
+    "answer": ["Olive"],
+    "options": ["Peach", "Apple", "Olive"]
+  },
+  {
+    "id": "594",
+    "type": "bool",
+    "ref": "1Nep15:14",
+    "question": "Nephi and his brothers’ seed will eventually come to the knowledge that they are of the house of Israel though the gospel of Jesus Christ?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "595",
+    "type": "multi",
+    "ref": "1Nep15:18",
+    "question": "In whose seed shall all the kindred’s of the earth be blessed?",
+    "answer": ["Abraham’s"],
+    "options": ["Nephi’s", "Lehi’s", "Abraham’s"]
+  },
+  {
+    "id": "596",
+    "type": "multi",
+    "ref": "1Nep15:20",
+    "question": "What prophet spoke concerning the restoration of the Jews in the latter days?",
+    "answer": ["Isaiah"],
+    "options": ["Moses", "Isaiah", "Lehi"]
+  },
+  {
+    "id": "597",
+    "type": "bool",
+    "ref": "1Nep15:20",
+    "question": "According to the prophet Isaiah, after the Jews are restored to the gospel, they will never again be confounded or scattered again.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "598",
+    "type": "bool",
+    "ref": "1Nep15:21",
+    "question": "Nephi’s brothers wanted to know what the tree meant that Lehi saw in his dream.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "599",
+    "type": "bool",
+    "ref": "1Nep15:22",
+    "question": "The tree that Lehi saw was a representation on the Tree of Life?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "600",
+    "type": "bool",
+    "ref": "1Nep15:24",
+    "question": "One way we can fight off the fiery darts and the temptations of the devil is by hearkening and holding on to the Rod of Iron?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "601",
+    "type": "bool",
+    "ref": "1Nep15:27-28",
+    "question": "Nephi said the river of water that separates the wicked from God and also his saints.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "602",
+    "type": "fill",
+    "ref": "1Nep15:30",
+    "question": "The justice of God divides the _____ from the righteous.",
+    "answer": ["Wicked"],
+    "options": ["fill"]
+  },
+  {
+    "id": "603",
+    "type": "bool",
+    "ref": "1Nep15:32",
+    "question": "We will be judged by the works we do when we are in our temporal bodies, and also in the days of our probation.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "604",
+    "type": "bool",
+    "ref": "1Nep15:34-35",
+    "question": "Nephi said there is a place already prepared for the filthy and wicked?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "605",
+    "type": "fill",
+    "ref": "1Nep15:36",
+    "question": "Whose fruit is most precious and most desirable above all other fruits?",
+    "answer": ["Tree"],
+    "options": ["fill"]
+  },
+  {
+    "id": "606",
+    "type": "fill",
+    "ref": "1Nep15:36",
+    "question": "What is the greatest of all gifts that God can bestow upon us, according to Nephi?",
+    "answer": ["Tree"],
+    "options": ["fill"]
+  },
+  {
+    "id": "607",
+    "type": "multi",
+    "ref": "1Nep16:2",
+    "question": "Who takes the truth to be hard and cuts them to the very center?",
+    "answer": ["The Guilty"],
+    "options": ["Lamanites", "The Wicked", "The Guilty"]
+  },
+  {
+    "id": "608",
+    "type": "multi",
+    "ref": "1Nep16:7",
+    "question": "Zoram took the _____ daughter of Ishmael to wife?",
+    "answer": ["Eldest"],
+    "options": ["Prettiest", "Eldest", "Fairest"]
+  },
+  {
+    "id": "609",
+    "type": "bool",
+    "ref": "1Nep16:10",
+    "question": "Lehi found a round ball made of f1ne brass and of curious workmanship?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "610",
+    "type": "multi",
+    "ref": "1Nep16:10",
+    "question": "Within the ball that Lehi found was _____spindles.",
+    "answer": ["2"],
+    "options": ["5", "2", "3"]
+  },
+  {
+    "id": "611",
+    "type": "bool",
+    "ref": "1Nep16:10",
+    "question": "One of the spindles in the ball told Lehi and his family which direction they should go in the wilderness.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "612",
+    "type": "multi",
+    "ref": "1Nep16:12",
+    "question": "Lehi departed into the wilderness across the _____ River.",
+    "answer": ["Laman"],
+    "options": ["Amazon", "Euphrates", "Laman"]
+  },
+  {
+    "id": "613",
+    "type": "multi",
+    "ref": "1Nep16:13",
+    "question": "After Lehi’s family had traveled for four days-they pitched their tents in a place called _____.",
+    "answer": ["Shazer"],
+    "options": ["Egypt", "Shazer", "Idaho"]
+  },
+  {
+    "id": "614",
+    "type": "multi",
+    "ref": "1Nep16:14",
+    "question": "Nephi and his brothers hunted with _____ and _____.",
+    "answer": ["no"],
+    "options": ["Bows and Arrows", "Stones and Slings", "Guns and Knives"]
+  },
+  {
+    "id": "615",
+    "type": "fill",
+    "ref": "1Nep16:14,16",
+    "question": "The directions of the ball led them to the more _____ parts of the wilderness.",
+    "answer": ["Fertile"],
+    "options": ["fill"]
+  },
+  {
+    "id": "616",
+    "type": "multi",
+    "ref": "1Nep16:18",
+    "question": "Nephi’s bow was made of _____ steel.",
+    "answer": ["F1ne"],
+    "options": ["Expensive", "Cheap", "F1ne"]
+  },
+  {
+    "id": "617",
+    "type": "bool",
+    "ref": "1Nep16:18",
+    "question": "Nephi broke his bow and his brothers got angry with him",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "618",
+    "type": "bool",
+    "ref": "1Nep16:20",
+    "question": "Lehi and some of his sons began to murmur exceedingly because of their afflictions and sufferings in the wilderness.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "619",
+    "type": "multi",
+    "ref": "1Nep16:23",
+    "question": "Nephi made another bow made out of_____",
+    "answer": ["Wood"],
+    "options": ["Steel", "Wood", "Fiberglass"]
+  },
+  {
+    "id": "620",
+    "type": "fill",
+    "ref": "1Nep16:23",
+    "question": "How many arrows did Nephi make for his second bow?",
+    "answer": ["1"],
+    "options": ["fill"]
+  },
+  {
+    "id": "621",
+    "type": "fill",
+    "ref": "1Nep16:23",
+    "question": "Who said “Whither shall I go to obtain food”?",
+    "answer": ["Nephi"],
+    "options": ["fill"]
+  },
+  {
+    "id": "622",
+    "type": "bool",
+    "ref": "1Nep16:25",
+    "question": "Lehi was brought down to the depths of sorrow, for murmuring.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "623",
+    "type": "fill",
+    "ref": "1Nep16:29",
+    "question": "Nephi said “and thus we see that by _____ means the Lord can bring about great things.",
+    "answer": ["Small"],
+    "options": ["fill"]
+  },
+  {
+    "id": "624",
+    "type": "bool",
+    "ref": "1Nep16:29",
+    "question": "A new writing, which was plain to read, appeared on the ball that Lehi found.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "625",
+    "type": "fill",
+    "ref": "1Nep16:30-31",
+    "question": "Nephi went to the _____ of a mountain to obtain food for him and his family.",
+    "answer": ["Top"],
+    "options": ["fill"]
+  },
+  {
+    "id": "626",
+    "type": "multi",
+    "ref": "1Nep16:34",
+    "question": "Who died and was buried in the place which was called Nahom?",
+    "answer": ["Ishmael"],
+    "options": ["Ishmael", "Lehi", "Zoram"]
+  },
+  {
+    "id": "627",
+    "type": "multi",
+    "ref": "1Nep16:35",
+    "question": "Ishmael’s daughters murmured against Lehi, saying that they had suffered much affliction, hunger, _____ and fatigue in the wilderness.",
+    "answer": ["Thirst"],
+    "options": ["Whippings", "Thirst", "Disease"]
+  },
+  {
+    "id": "628",
+    "type": "fill",
+    "ref": "1Nep16:38-39",
+    "question": "The voice of the_____ did come down and spoke and chastened Laman and Lemuel, exceedingly for murmuring.",
+    "answer": ["Lord"],
+    "options": ["fill"]
+  },
+  {
+    "id": "629",
+    "type": "multi",
+    "ref": "1Nep17:4-5",
+    "question": "Lehi’s party wondered_____ years before they came upon a land that had much fruit and wild honey.",
+    "answer": ["8"],
+    "options": ["3", "8", "6"]
+  },
+  {
+    "id": "630",
+    "type": "fill",
+    "ref": "1Nep17:5",
+    "question": "What did Lehi and his family call: “the land that had much fruit and wild honey”?",
+    "answer": ["Bountiful"],
+    "options": ["fill"]
+  },
+  {
+    "id": "631",
+    "type": "fill",
+    "ref": "1Nep17:5",
+    "question": "What is the name of the sea, when interpreted; means many waters?",
+    "answer": ["Irreantum"],
+    "options": ["fill"]
+  },
+  {
+    "id": "632",
+    "type": "bool",
+    "ref": "1Nep17:6",
+    "question": "And it came to pass that Lehi’s party pitched their tents by the seashore and they had suffered many afflictions and much difficulty that they could not write them all.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "633",
+    "type": "multi",
+    "ref": "1Nep17:8",
+    "question": "Nephi was told by the Lord to construct a _____?",
+    "answer": ["Ship"],
+    "options": ["Spacecraft", "Ship", "Car"]
+  },
+  {
+    "id": "634",
+    "type": "bool",
+    "ref": "1Nep17:8-9",
+    "question": "The ship that Nephi constructed, was after the manner of men?",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "635",
+    "type": "bool",
+    "ref": "1Nep17:12",
+    "question": "The food that Nephi and his brothers hunted did not have to be cooked.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "636",
+    "type": "bool",
+    "ref": "1Nep17:12",
+    "question": "The food that Nephi killed was made sweet by the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "637",
+    "type": "fill",
+    "ref": "1Nep17:16",
+    "question": "Nephi made tools of the _____ which he molted out of the rock, to build the ship.",
+    "answer": ["Ore"],
+    "options": ["fill"]
+  },
+  {
+    "id": "638",
+    "type": "bool",
+    "ref": "1Nep17:17-18",
+    "question": "Nephi’s brothers did not believe that he had been instructed by the Lord to build the ship.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "639",
+    "type": "multi",
+    "ref": "1Nep17:19",
+    "question": "Nephi was exceedingly _____ because of the hardness of his brothers’ hearts.",
+    "answer": ["Sorrowful"],
+    "options": ["Angry", "Sorrowful", "Glad"]
+  },
+  {
+    "id": "640",
+    "type": "bool",
+    "ref": "1Nep17:22",
+    "question": "Nephi’s brothers believed that the people they left in Jerusalem were righteous?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "641",
+    "type": "fill",
+    "ref": "1Nep17:23-24",
+    "question": "According to Nephi-who led the Israelites out of bondage from the Egyptians?",
+    "answer": ["Moses"],
+    "options": ["fill"]
+  },
+  {
+    "id": "642",
+    "type": "fill",
+    "ref": "1Nep17:26",
+    "question": "By whose words did the Red Sea divide hither and thither?",
+    "answer": ["Moses"],
+    "options": ["fill"]
+  },
+  {
+    "id": "643",
+    "type": "multi",
+    "ref": "1Nep17:27",
+    "question": "The armies of the Egyptians belonged to the",
+    "answer": ["The Pharoah"],
+    "options": ["Navy Seals", "Army’s Delta Force", "The Pharoah"]
+  },
+  {
+    "id": "644",
+    "type": "fill",
+    "ref": "1Nep17:29",
+    "question": "Moses smote a _____ and there came forth water.",
+    "answer": ["Rock"],
+    "options": ["fill"]
+  },
+  {
+    "id": "645",
+    "type": "multi",
+    "ref": "1Nep17:28-29",
+    "question": "Moses and the Israelites were fed _____ in the wilderness, by God.",
+    "answer": ["Manna"],
+    "options": ["Spaghettios", "Mac And Cheese", "Manna"]
+  },
+  {
+    "id": "646",
+    "type": "bool",
+    "ref": "1Nep17:32",
+    "question": "The River Jordan is mentioned in the first book of Nephi.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "647",
+    "type": "bool",
+    "ref": "1Nep17:36",
+    "question": "The Lord's purpose for the creation of earth was so it should be inhabited and that his children should possess it.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "648",
+    "type": "multi",
+    "ref": "1Nep17:37",
+    "question": "The Lord would rise up a righteous nation and destroy the nations of the _____.",
+    "answer": ["Wicked"],
+    "options": ["Islam", "Far East", "Wicked"]
+  },
+  {
+    "id": "649",
+    "type": "fill",
+    "ref": "1Nep17:39",
+    "question": "The Lord rules high up in heaven and it is his throne, and the earth is his _____.",
+    "answer": ["Footstool"],
+    "options": ["fill"]
+  },
+  {
+    "id": "650",
+    "type": "bool",
+    "ref": "1Nep17:35",
+    "question": "The Lord esteemes all flesh in one; he that is righteous is favored of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "651",
+    "type": "bool",
+    "ref": "1Nep17:41",
+    "question": "The Lord sent fiery flying serpents to the Israelites in the wilderness.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "652",
+    "type": "bool",
+    "ref": "1Nep17:41, Hel 8:14",
+    "question": "The Lord prepared a way for the Israelites to be healed from the fiery flying Serpents bites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "653",
+    "type": "multi",
+    "ref": "1Nep17:41,Hel8:14",
+    "question": "What did the israelites have to do to be healed from the bites of the fiery flying serpents?",
+    "answer": ["Was To Look At The Brazen Serpent"],
+    "options": [
+      "Pray",
+      "Call Upon The Lord",
+      "Was To Look At The Brazen Serpent"
+    ]
+  },
+  {
+    "id": "654",
+    "type": "bool",
+    "ref": "1Nep17:41",
+    "question": "Many of the israelites perished because they refused to look at the serpent.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "655",
+    "type": "bool",
+    "ref": "1Nep17:43",
+    "question": "Nephi knew or saw that almost all of the Israelites that were with Moses were going to be destroyed.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "656",
+    "type": "multi",
+    "ref": "1Nep17:45",
+    "question": "Who said “ye are swift to do iniquity but slow to remember the Lord your God”.",
+    "answer": ["Nephi"],
+    "options": ["Lehi", "Nephi", "Moses"]
+  },
+  {
+    "id": "657",
+    "type": "multi",
+    "ref": "1Nep17:47",
+    "question": "Who was filled with the Spirit of God that his body/frame had no strength?",
+    "answer": ["Nephi"],
+    "options": ["Lehi", "Nephi", "Moses"]
+  },
+  {
+    "id": "658",
+    "type": "multi",
+    "ref": "1Nep17:53",
+    "question": "How did God show Nephi’s brothers that he was “the Lord their God”?",
+    "answer": ["Shocked Them"],
+    "options": ["Startled Them", "Made The Earth Move", "Shocked Them"]
+  },
+  {
+    "id": "659",
+    "type": "bool",
+    "ref": "1Nep17:55",
+    "question": "Nephi’s brothers were going to worship him after the Lord had shaken them.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "660",
+    "type": "bool",
+    "ref": "1Nep18:1",
+    "question": "Nephi and his brothers worked timbers for the ship of curious workmanship.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "661",
+    "type": "multi",
+    "ref": "1Nep185-6",
+    "question": "Who told Lehi to go down into the ship and prepare to sail?",
+    "answer": ["The Lord"],
+    "options": ["The Lord", "Nephi", "No One"]
+  },
+  {
+    "id": "662",
+    "type": "multi",
+    "ref": "1Nep18:7",
+    "question": "How many sons did Lehi beget in the wilderness?____",
+    "answer": ["2 (3)"],
+    "options": ["1", "2 (3)"]
+  },
+  {
+    "id": "663",
+    "type": "fill",
+    "ref": "1Nep18:7",
+    "question": "Lehi beget two sons in the wilderness; who was the eldest? Joseph or Jacob",
+    "answer": ["Jacob"],
+    "options": ["fill"]
+  },
+  {
+    "id": "664",
+    "type": "bool",
+    "ref": "1Nep18:11",
+    "question": "The Lord allowed Nephi to be bound by his brothers in order to fulfill his word and to show his power, concerning the wicked?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "665",
+    "type": "bool",
+    "ref": "1Nep18:12",
+    "question": "The compass that was prepared of the Lord ceased to work because Nephi had been bound by cords.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "666",
+    "type": "bool",
+    "ref": "1Nep18:17",
+    "question": "Lehi said many things to Laman, Lemuel, and the sons of Ismael because of their hardness of heart towards Nephi",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "667",
+    "type": "fill",
+    "ref": "1Nep18:18",
+    "question": "Nephi’s parents suffered much grief and sorrow because the iniquity of his _____.",
+    "answer": ["Brothers"],
+    "options": ["fill"]
+  },
+  {
+    "id": "668",
+    "type": "fill",
+    "ref": "1Nep18:19",
+    "question": "Jacob and Joseph needed much _____, and were grieved because of the afflictions of their mother.",
+    "answer": ["Nourishment"],
+    "options": ["fill"]
+  },
+  {
+    "id": "669",
+    "type": "fill",
+    "ref": "1Nep18:20",
+    "question": "The only thing that could soften the heart of Laman and Lemuel was the power of _____.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "670",
+    "type": "multi",
+    "ref": "1Nep18:23",
+    "question": "Approximately when did Lehi and his family arrive in the promise land?",
+    "answer": ["589 B.C."],
+    "options": ["600 B.C.", "601 B.C.", "589 B.C."]
+  },
+  {
+    "id": "671",
+    "type": "bool",
+    "ref": "1Nep18:25",
+    "question": "Lehi and his family found all manner of wild animals and beasts in the wilderness.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "672",
+    "type": "bool",
+    "ref": "1Nep18:25",
+    "question": "Nephi found all kinds of ore, both of silver, gold, and copper?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "673",
+    "type": "bool",
+    "ref": "1Nep19:1",
+    "question": "The Lord commanded that only Nephi’s prophecies be engraved on the brass plates.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "674",
+    "type": "bool",
+    "ref": "1Nep19:4",
+    "question": "Nephi commanded his posterity to hand down the plates from one generation to another.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "675",
+    "type": "multi",
+    "ref": "1Nep19:5",
+    "question": "Nephi wanted that the more _____ things may be kept for the knowledge of his people.",
+    "answer": ["Sacred"],
+    "options": ["Secret", "Sacred", "Important"]
+  },
+  {
+    "id": "677",
+    "type": "bool",
+    "ref": "1Nep19:6",
+    "question": "Nephi wanted us to forgive his weakness in writing",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "676",
+    "type": "bool",
+    "ref": "1Nep19:6",
+    "question": "Nephi only wrote the things that he deemed sacred upon the plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "678",
+    "type": "multi",
+    "ref": "1Nep19:8",
+    "question": "Who told Nephi that the Savior would come six hundred years from the time they left Jerusalem",
+    "answer": ["An Angel"],
+    "options": ["Little Birdie", "An Angel", "Moses"]
+  },
+  {
+    "id": "679",
+    "type": "multi",
+    "ref": "1Nep19:9",
+    "question": "The world because of their _____ will judge the Savior as a thing of naught?",
+    "answer": ["Iniquity"],
+    "options": ["Riches", "Iniquity", "Hatred"]
+  },
+  {
+    "id": "680",
+    "type": "bool",
+    "ref": "1Nep19:9",
+    "question": "Jesus Christ suffered and endured all the things done to him before the crucifixion because of his loving kindness and long-suffering towards the children of men.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "681",
+    "type": "multi",
+    "ref": "1Nep19:10",
+    "question": "Nephi said that the Savior would be lifted up according to the words of what Hebrew prophet?_____",
+    "answer": ["Zenock"],
+    "options": ["Moses", "Zenock", "Jeremiah"]
+  },
+  {
+    "id": "682",
+    "type": "bool",
+    "ref": "1Nep19:10",
+    "question": "Nephi said that the Savior would be crucified according to the words of Neum; a Hebrew prophet.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "683",
+    "type": "bool",
+    "ref": "1Nep19:10 & Alma33:15",
+    "question": "The prophets Zenock and Neum said that Jesus Christ would be lifted up and be crucified.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "684",
+    "type": "multi",
+    "ref": "1Nep19:10",
+    "question": "According to the words of the prophet _____, Jesus Christ would be buried in sepulcher.",
+    "answer": ["Zenos"],
+    "options": ["Abinidi", "Moses", "Zenos"]
+  },
+  {
+    "id": "685",
+    "type": "fill",
+    "ref": "1Nep19:10",
+    "question": "Zenos the prophet; prophesied that there would be _____ days of darkness given as a sign of Jesus Christ’s death.",
+    "answer": ["3"],
+    "options": ["fill"]
+  },
+  {
+    "id": "686",
+    "type": "bool",
+    "ref": "1Nep19:10",
+    "question": "Zenos said those that inhabit the isles of the sea and the house of Israel would be given more of a sign of his death?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "687",
+    "type": "bool",
+    "ref": "1Nep19:11",
+    "question": "After the crucifixion, the Savior will visit the righteous with his voice unto their great joy and salvation.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "688",
+    "type": "fill",
+    "ref": "1Nep19:12",
+    "question": "The prophet Zenos said that the kings of the isles of the sea will exclaim: The _____ of nature suffers.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "689",
+    "type": "bool",
+    "ref": "1Nep19:13",
+    "question": "The people in Jerusalem will be scourged by all people because they crucified the God of Israel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "690",
+    "type": "fill",
+    "ref": "1Nep19:13-14",
+    "question": "Who or what people despised the Holy One of Israel?",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "691",
+    "type": "fill",
+    "ref": "1Nep19:14,19",
+    "question": "What people will become a hiss and a by-word, and be hated among all nations?",
+    "answer": ["Jews"],
+    "options": ["fill"]
+  },
+  {
+    "id": "692",
+    "type": "fill",
+    "ref": "1Nep19:16",
+    "question": "Zenos prophesied that the Lord would gather all the people that are from the house of Israel from the four _____ of the earth.",
+    "answer": ["Quarters"],
+    "options": ["fill"]
+  },
+  {
+    "id": "693",
+    "type": "bool",
+    "ref": "1Nep19:18",
+    "question": "Nephi wrote things to persuade his people so they would remember the Lord their Redeemer.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "694",
+    "type": "bool",
+    "ref": "1Nep19:21 & 3Nep10:16-17",
+    "question": "Nephi knew the things concerning the prophets of old because they are written on the plates of brass Lehi had.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "695",
+    "type": "bool",
+    "ref": "1Nep19:23",
+    "question": "Nephi read unto his brothers the things that were written in the book of Moses and also things written by the prophet Isaiah",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "696",
+    "type": "multi",
+    "ref": "1Nep19:23",
+    "question": "Nephi liken all the scriptures unto himself and his family; that it would be for their profit and _____.",
+    "answer": ["Learning"],
+    "options": ["Understanding", "Learning", "Good"]
+  },
+  {
+    "id": "697",
+    "type": "multi",
+    "ref": "1Nep20:1",
+    "question": "Another name for the house of Israel is _____",
+    "answer": ["House Of Jacob"],
+    "options": ["House Of Abraham", "House Of Jacob", "House Of Righteousness"]
+  },
+  {
+    "id": "698",
+    "type": "bool",
+    "ref": "1Nep20:13",
+    "question": "The Lord said that he had laid the foundation of the earth and my left hand has spanned the heavens.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "699",
+    "type": "bool",
+    "ref": "1Nep20:18",
+    "question": "The Lord told the House of Israel that if they would hearken to his commandments-then their peace be as a river, and their righteousness as the waves of the sea.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "700",
+    "type": "multi",
+    "ref": "1Nep20:22",
+    "question": "There is no peace, saith the Lord, unto the _____.",
+    "answer": ["Wicked"],
+    "options": ["Humble", "Wicked", "Israelites"]
+  },
+  {
+    "id": "701",
+    "type": "bool",
+    "ref": "1Nep21:6",
+    "question": "The prophet Isaiah will raise up the tribes of Jacob and also be a light unto the Gentiles?",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "702",
+    "type": "bool",
+    "ref": "1Nep21:7",
+    "question": "Kings will see and arise; princes also shall worship, because the Lord that is faithful.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "703",
+    "type": "fill",
+    "ref": "1Nep21:16",
+    "question": "The Lord has engraved the house of Israel upon the _____ of his hands.",
+    "answer": ["Palms"],
+    "options": ["fill"]
+  },
+  {
+    "id": "704",
+    "type": "bool",
+    "ref": "1Nep21:22",
+    "question": "Isaiah said the Lord would lift up his hand to the Gentiles.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "705",
+    "type": "multi",
+    "ref": "1Nep21:25",
+    "question": "Who said “I will contend with him that contends with thee”.",
+    "answer": ["The Lord"],
+    "options": ["Isaiah", "Lehi", "The Lord"]
+  },
+  {
+    "id": "706",
+    "type": "multi",
+    "ref": "1Nep21:26",
+    "question": "The Lord refers to himself as the Mighty One of_____.",
+    "answer": ["Jacob"],
+    "options": ["Nephi", "Lehi", "Jacob"]
+  },
+  {
+    "id": "707",
+    "type": "bool",
+    "ref": "1Nep22:2",
+    "question": "Nephi said that “by the Spirit are all things made known unto the prophets”.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "708",
+    "type": "fill",
+    "ref": "1Nep22:3",
+    "question": "The writings of Isaiah that Nephi read to his brothers were both _____ and spiritual.",
+    "answer": ["Temporal"],
+    "options": ["fill"]
+  },
+  {
+    "id": "709",
+    "type": "bool",
+    "ref": "1Nep22:3",
+    "question": "Nephi told his brothers that the house of Israel, sooner or later, will be scattered upon all the earth and nations.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "710",
+    "type": "multi",
+    "ref": "1Nep22:22",
+    "question": "Who should not fear the wrath of God?",
+    "answer": ["The Righteous"],
+    "options": ["The Righteous", "Nephites", "Lamanites"]
+  },
+  {
+    "id": "711",
+    "type": "bool",
+    "ref": "1Nep22:21",
+    "question": "Nephi declared that the prophet spoken by Moses; was the Holy One of Israel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "712",
+    "type": "bool",
+    "ref": "1Nep22:23",
+    "question": "Those who are built up to get gain, power, and be popular and who belong to the kingdom of the devil need to fear the wrath of God.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "713",
+    "type": "multi",
+    "ref": "1Nep22:24",
+    "question": "The righteous must be led up as _____ of the stall, and the Holy One of Israel must reign in dominion, and might, and power, and great glory.",
+    "answer": ["Calves"],
+    "options": ["Sheep", "Calves", "Neither"]
+  },
+  {
+    "id": "714",
+    "type": "multi",
+    "ref": "1Nep22:25",
+    "question": "The Lord _____ his sheep; and they know him.",
+    "answer": ["Numbers"],
+    "options": ["Numbers", "Marks", "Colors"]
+  },
+  {
+    "id": "715",
+    "type": "bool",
+    "ref": "1Nep22:26",
+    "question": "Because of the peoples’ righteousness, Satan will have no power and the Holy One of Israel will reign for many years.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "716",
+    "type": "bool",
+    "ref": "1Nep22:26",
+    "question": "When the Lord comes again to reign on earth; Mormon writes that the devil will be cha1ned for one-thousand years.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "717",
+    "type": "bool",
+    "ref": "1Nep22:26",
+    "question": "We are never told in the Book of Mormon how long or for how many years the devil will be cha1ned when the Lord comes to reign upon the earth at the last days.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "718",
+    "type": "bool",
+    "ref": "1Nep22:28",
+    "question": "All kindreds, tongues, and people must repent if they are to dwell safely in the Holy One of Israel.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "719",
+    "type": "fill",
+    "ref": "1Nep22:29-30",
+    "question": "Nephi testified that the things written in the brass plates are true and that man must be obedient to the commandments of _____.",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "720",
+    "type": "bool",
+    "ref": "1Nep22:30-31",
+    "question": "Nephi and Lehi are not the only ones that have written concerning the brass plates.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "721",
+    "type": "fill",
+    "ref": "1Nep22:31",
+    "question": "We need to be obedient to the commandments and _____ to the end, to be saved in the last day.",
+    "answer": ["Endure"],
+    "options": ["fill"]
+  },
+  {
+    "id": "722",
+    "type": "multi",
+    "ref": "1Nep22:31",
+    "question": "The first book of Nephi ends with the word/words",
+    "answer": ["Adieu"],
+    "options": ["Adieu", "Amen", "The End"]
+  },
+  {
+    "id": "921",
+    "type": "multi",
+    "ref": "1Nep9:40",
+    "question": "Another name for the Savior is_____.",
+    "answer": ["Maker"],
+    "options": ["Baker", "Shaker", "Maker"]
+  }
+]

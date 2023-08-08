@@ -1,0 +1,530 @@
+[
+  {
+    "id": "1618",
+    "type": "fill",
+    "ref": "Enos1:1",
+    "question": "Who was Nephi’s nephew that wrote the third book in the Book of Mormon?",
+    "answer": ["Enos"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1619",
+    "type": "multi",
+    "ref": "Enos1:1",
+    "question": "It came to pass that Enos knew that his father was a_____ man.",
+    "answer": ["Just"],
+    "options": ["Just", "Holy", "Unworthy"]
+  },
+  {
+    "id": "1620",
+    "type": "fill",
+    "ref": "Enos1:1",
+    "question": "Was a prophet of the Lord and also the father of Enos?",
+    "answer": ["Jacob"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1621",
+    "type": "fill",
+    "ref": "Enos1:1,27",
+    "question": "How many chapters are in the book of Enos?",
+    "answer": ["One", "1"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1622",
+    "type": "bool",
+    "ref": "Enos1:1",
+    "question": "Enos was not taught in the language of his father, therefore he made up his own.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1623",
+    "type": "fill",
+    "ref": "Enos1:1",
+    "question": "Who taught Enos of the nurture and admonition of the Lord?",
+    "answer": ["Father"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1624",
+    "type": "fill",
+    "ref": "Enos1:2",
+    "question": "And I will tell you of the_____ which I had before God, before I received a remission of my sins.",
+    "answer": ["Wrestle"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1625",
+    "type": "bool",
+    "ref": "Enos1:2",
+    "question": "The word wrestle is only mentioned once in the Book of Mormon.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1626",
+    "type": "multi",
+    "ref": "Enos1:3",
+    "question": "Enos went to hunt_____ in the forest.",
+    "answer": ["Beasts"],
+    "options": ["Wild Game", "Bears", "Beasts"]
+  },
+  {
+    "id": "1627",
+    "type": "fill",
+    "ref": "Enos1:3",
+    "question": "Enos’s father spoke to him concerning eternal_____, and the joy of the saints, and those words sank deep into his heart.",
+    "answer": ["Life"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1628",
+    "type": "multi",
+    "ref": "Enos1:4",
+    "question": "And my soul hungered; and I kneeled down before my_____.",
+    "answer": ["Maker"],
+    "options": ["Alter", "Maker", "Pile Of Gold"]
+  },
+  {
+    "id": "1629",
+    "type": "bool",
+    "ref": "Enos1:4",
+    "question": "Enos cried unto his Maker in mighty prayer and supplication for his own soul.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1630",
+    "type": "multi",
+    "ref": "Enos1:4",
+    "question": "Enos cried unto his Maker all day long, and when the night came, he raised his voice high that it reached the_____.",
+    "answer": ["Heavens"],
+    "options": ["Heavens", "Moon", "Stars"]
+  },
+  {
+    "id": "1631",
+    "type": "fill",
+    "ref": "Enos1:5",
+    "question": "Who said: “Enos, thy sins are forgiven thee, and thou shalt be blessed”",
+    "answer": ["God"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1632",
+    "type": "fill",
+    "ref": "Enos1:6",
+    "question": "And I, _____, knew that God could not lie; wherefore, my guilt was swept away.",
+    "answer": ["Enos"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1633",
+    "type": "bool",
+    "ref": "Enos1:7",
+    "question": "Enos asked the Lord how it was done that his sins were forgiven.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1634",
+    "type": "fill",
+    "ref": "Enos1:8",
+    "question": "How was Enos’ guilt for his sins forgiven?",
+    "answer": ["faith"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1635",
+    "type": "bool",
+    "ref": "Enos1:8",
+    "question": "The Lord told Enos that two years would pass away before Christ would manifest himself in the flesh.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1636",
+    "type": "bool",
+    "ref": "Enos1:8",
+    "question": "The Lord told Enos that his faith alone did not make him whole.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1637",
+    "type": "multi",
+    "ref": "Enos1:9",
+    "question": "When Enos heard the words of the Lord he began to feel a desire, for the welfare of his brethren, the_____.",
+    "answer": ["Nephites"],
+    "options": ["Lamanites", "Nephites", "Zoramites"]
+  },
+  {
+    "id": "1638",
+    "type": "bool",
+    "ref": "Enos1:9",
+    "question": "Enos poured out his whole soul unto God, for the welfare of the Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1639",
+    "type": "bool",
+    "ref": "Enos1:10",
+    "question": "Enos struggled in the spirit while he was praying for the welfare of the Nephites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1640",
+    "type": "fill",
+    "ref": "Enos1:10",
+    "question": "The Lord told Enos that he would visit his brethren according to their_____ in keeping his commandment.",
+    "answer": ["Diligence"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1641",
+    "type": "bool",
+    "ref": "Enos1:10",
+    "question": "Enos was told by the Holy Ghost that the land of promise was a holy land.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1642",
+    "type": "multi",
+    "ref": "Enos1:10",
+    "question": "The Lord told Enos that he would curse the land of promise save it be for the cause of_____.",
+    "answer": ["Iniquity"],
+    "options": ["Iniquity", "Wars", "Contentions"]
+  },
+  {
+    "id": "1643",
+    "type": "fill",
+    "ref": "Enos1:10",
+    "question": "Their transgressions will I bring down with sorrow upon their own_____.",
+    "answer": ["Heads"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1644",
+    "type": "bool",
+    "ref": "Enos1:11",
+    "question": "After Enos heard the words of the Lord, his faith began to be unshaken in the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1645",
+    "type": "fill",
+    "ref": "Enos1:11",
+    "question": "Enos prayed unto the Lord with many long struggles, for his brethren, the_____.",
+    "answer": ["Lamanites"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1646",
+    "type": "bool",
+    "ref": "Enos1:12",
+    "question": "Enos prayed and labored with all his diligence unto the Lord.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1647",
+    "type": "multi",
+    "ref": "Enos1:12",
+    "question": "The Lord said unto Enos that he would grant his desires because of his_____.",
+    "answer": ["Faith"],
+    "options": ["Wishes", "Faith", "Humble Heart"]
+  },
+  {
+    "id": "1648",
+    "type": "bool",
+    "ref": "Enos1:13",
+    "question": "Enos desired of the Lord: That if the Nephites should fall because of transgression and the Lamanites should not be destroyed, that he would preserve the record of his people.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1649",
+    "type": "fill",
+    "ref": "Enos1:13",
+    "question": "Enos desired that the record of his people be brought forth at some future day unto the_____; that they may be brought forth unto salvation.",
+    "answer": ["Lamanites-"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1650",
+    "type": "fill",
+    "ref": "Enos1:14",
+    "question": "For at the present our struggles were vain in restoring Lamanites to the true_____.",
+    "answer": ["Faith"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1651",
+    "type": "multi",
+    "ref": "Enos1:14",
+    "question": "The Lamanites swore in their wrath that if it were possible, they would destroy the Nephites and their records, and also all the_____ of their fathers.",
+    "answer": ["Customs"],
+    "options": ["Traditions", "Customs", "Their Sign Language."]
+  },
+  {
+    "id": "1652",
+    "type": "bool",
+    "ref": "Enos1:15",
+    "question": "Enos cried unto the Lord continually because he knew that he would preserve their records.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1653",
+    "type": "fill",
+    "ref": "Enos1:15",
+    "question": "The Lord said to Enos:  “Whatsoever thing ye shall ask in_____, believing that ye shall receive in the name of Christ, ye shall receive it”.",
+    "answer": ["Faith"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1654",
+    "type": "bool",
+    "ref": "Enos1:15",
+    "question": "Because Enos had faith in the Lord; he knew that whatsoever he asked of him, he would receive it.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1655",
+    "type": "fill",
+    "ref": "Enos1:16",
+    "question": "The Lord_____ with Enos that he would bring forth his records unto the Lamanites in his own due time.",
+    "answer": ["Covenanted"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1656",
+    "type": "bool",
+    "ref": "Enos1:16",
+    "question": "Enos said that the Lord would bring forth his records unto the Lamanites when he would still be alive.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1657",
+    "type": "multi",
+    "ref": "Enos1:17",
+    "question": "Enos knew that the Lord would do with the records that which he had covenanted with him; wherefore his soul did_____.",
+    "answer": ["Rest"],
+    "options": ["Rest", "Yearn", "Wander"]
+  },
+  {
+    "id": "1658",
+    "type": "multi",
+    "ref": "Enos1:18",
+    "question": "The Lord compared Enos’ faith like that of his_____.",
+    "answer": ["Fathers"],
+    "options": ["Brothers", "Fathers", "Children"]
+  },
+  {
+    "id": "1659",
+    "type": "fill",
+    "ref": "Enos1:19",
+    "question": "Enos went about among the people of Nephi, _____ of things to come.",
+    "answer": ["Prophesying"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1660",
+    "type": "bool",
+    "ref": "Enos1:19",
+    "question": "Enos testified to the Nephites of the things which he had heard and seen.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1661",
+    "type": "fill",
+    "ref": "Enos1:20",
+    "question": "And I Enos, _____ record that the people of Nephi did seek diligently to restore the Lamanites unto the true faith of God.",
+    "answer": ["Bear"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1662",
+    "type": "bool",
+    "ref": "Enos1:20",
+    "question": "Enos and his brothers’ labors were in vain because the Lamanites hatred was fixed, and they were led by their evil nature.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1663",
+    "type": "multi",
+    "ref": "Enos1:20",
+    "question": "Because of their evil nature, the Lamanites became a wild, ferocious, and____ people.",
+    "answer": ["Bloodthirsty"],
+    "options": ["Mean", "Dirty", "Bloodthirsty"]
+  },
+  {
+    "id": "1664",
+    "type": "fill",
+    "ref": "Enos1:20",
+    "question": "According to Enos, the Lamanites were full of idolatry and filth1ness; feeding upon beast’s of_____, and dwelling in tents.",
+    "answer": ["Prey"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1665",
+    "type": "fill",
+    "ref": "Enos1:20",
+    "question": "The Lamanites would wander in the wilderness with a short skin girdle about their loins and their_____ shaven.",
+    "answer": ["Heads"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1666",
+    "type": "bool",
+    "ref": "Enos1:20",
+    "question": "The Lamanites skill was not in the bow, and in the cimeter, and the ax.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1667",
+    "type": "multi",
+    "ref": "Enos1:20",
+    "question": "Many of the Lamanites did eat nothing but_____ meat; continually seeking to destroy the Nephites.",
+    "answer": ["Raw"],
+    "options": ["Raw", "Unhealthy", "Good"]
+  },
+  {
+    "id": "1668",
+    "type": "bool",
+    "ref": "Enos1:21",
+    "question": "In his book Enos, he describes the way of life in the Nephite culture and also of the Lamanites.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1669",
+    "type": "bool",
+    "ref": "Enos1:21",
+    "question": "The people of Nephi did not till the ground but raised cattle instead.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1670",
+    "type": "bool",
+    "ref": "Enos1:21",
+    "question": "The Nephites did till the land, and raised all kinds of grain, and fruit, and flocks of herds.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1671",
+    "type": "fill",
+    "ref": "Enos1:21",
+    "question": "The Nephites raised_____ of all manner of cattle of every kind, and goats, and wild goats.",
+    "answer": ["Flocks"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1672",
+    "type": "bool",
+    "ref": "Enos1:21",
+    "question": "During the time that Enos was on the earth the Nephites did not have horses.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1673",
+    "type": "fill",
+    "ref": "Enos1:22",
+    "question": "Enos said that there were many prophets in the land among them but that the people were a_____ people, hard to understand.",
+    "answer": ["Stiffnecked"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1674",
+    "type": "fill",
+    "ref": "Enos1:23",
+    "question": "Enos said that there was exceeding harshness, preaching and prophesying of_____, and contentions and destructions.",
+    "answer": ["Wars"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1675",
+    "type": "bool",
+    "ref": "Enos1:23",
+    "question": "Because of the exceeding harshness, preaching and prophesying of wars, the people were continually reminded of death.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1676",
+    "type": "fill",
+    "ref": "Enos1:23",
+    "question": "The people were continually reminded of the judgments and _____ of God.",
+    "answer": ["Power"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1677",
+    "type": "bool",
+    "ref": "Enos1:23",
+    "question": "Because of the exceeding great plainness of speech, it would keep the people from going down speedily to destruction.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1678",
+    "type": "bool",
+    "ref": "Enos1:24",
+    "question": "Enos did not see many wars between the Nephites and Lamanites in the course of his days.",
+    "answer": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1679",
+    "type": "fill",
+    "ref": "Enos1:25",
+    "question": "Enos was wrought upon the power of God that he must preach and prophesy unto the people and declare the word according to the truth which is in_____.",
+    "answer": ["Christ"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1680",
+    "type": "bool",
+    "ref": "Enos1:26",
+    "question": "Enos declared in all his days to the truth which is in Christ, and rejoiced in it above that of the world.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1681",
+    "type": "bool",
+    "ref": "Enos1:27",
+    "question": "Enos said that he knew that he would go to the place of his rest, which is with his Redeemer; and knew that in him he would rest.",
+    "answer": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "id": "1682",
+    "type": "fill",
+    "ref": "Enos1:27",
+    "question": "Enos rejoiced in the day that his mortal shall put on_____; and shall stand before him; and would see his face with pleasure.",
+    "answer": ["Immortality"],
+    "options": ["fill"]
+  },
+  {
+    "id": "1683",
+    "type": "fill",
+    "ref": "Enos1:27",
+    "question": "Enos said that the Lord would say to him:  “Come unto me, ye blessed, there is a place prepared for you in the_____, of my Father”.",
+    "answer": ["Mansions"],
+    "options": ["fill"]
+  }
+]
